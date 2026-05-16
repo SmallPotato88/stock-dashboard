@@ -5,18 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>系统状态｜股神A股交易决策看板</title>
   <style>
-    :root{--bg:#08101d;--panel:#111827;--panel2:#172238;--text:#edf3ff;--muted:#94a3c7;--line:#25324b;--red:#ff4d5e;--green:#22c55e;--gold:#fbbf24}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top left,#172554 0,#08101d 42%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,'Microsoft YaHei',sans-serif}.wrap{max-width:1120px;margin:0 auto;padding:18px clamp(14px,3vw,28px) 40px}.top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:14px}.back{color:#bfdbfe;text-decoration:none}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:16px;padding:16px}.num{font-size:26px;font-weight:800}.muted{color:var(--muted)}.note{line-height:1.7;color:var(--muted)}.pill{display:inline-block;border:1px solid #36507a;border-radius:999px;padding:4px 9px;color:#dbeafe;background:#0f1a2e;margin:4px 6px 0 0}.up{color:var(--red);font-weight:800}.down{color:var(--green);font-weight:800}.warn{color:var(--gold);font-weight:800}.section{margin-top:14px}.mini-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:12px}.mini{background:#0d1528;border:1px solid #22304c;border-radius:12px;padding:10px}.mini span{display:block;color:var(--muted);font-size:12px}.mini b{font-size:18px}@media(max-width:780px){.grid,.mini-grid{grid-template-columns:1fr}}</style>
+    :root{--bg:#08101d;--panel:#111827;--panel2:#172238;--text:#edf3ff;--muted:#94a3c7;--line:#25324b;--red:#ff4d5e;--green:#22c55e;--gold:#fbbf24}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top left,#172554 0,#08101d 42%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,'Microsoft YaHei',sans-serif}.wrap{max-width:1160px;margin:0 auto;padding:18px clamp(14px,3vw,28px) 40px}.top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:14px}.back{color:#bfdbfe;text-decoration:none}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:16px;padding:16px}.num{font-size:26px;font-weight:800}.muted{color:var(--muted)}.note{line-height:1.7;color:var(--muted)}.pill{display:inline-block;border:1px solid #36507a;border-radius:999px;padding:4px 9px;color:#dbeafe;background:#0f1a2e;margin:4px 6px 0 0}.up{color:var(--red);font-weight:800}.down{color:var(--green);font-weight:800}.warn{color:var(--gold);font-weight:800}.section{margin-top:14px}.mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:12px}.mini{background:#0d1528;border:1px solid #22304c;border-radius:12px;padding:10px}.mini span{display:block;color:var(--muted);font-size:12px}.mini b{font-size:18px}.checklist{display:grid;gap:8px;margin-top:12px}.check{display:flex;justify-content:space-between;gap:10px;padding:10px 12px;border:1px solid #22304c;background:#0d1528;border-radius:12px}.bar{height:9px;border-radius:99px;background:#0d1528;border:1px solid #22304c;overflow:hidden;margin-top:8px}.bar i{display:block;height:100%;background:linear-gradient(90deg,#60a5fa,#22c55e)}@media(max-width:920px){.grid,.mini-grid{grid-template-columns:1fr 1fr}}@media(max-width:620px){.grid,.mini-grid{grid-template-columns:1fr}}
+  </style>
 </head>
 <body>
   <main class="wrap">
     <div class="top"><a class="back" href="index.html">← 返回首页</a><div class="muted" id="ts">加载中</div></div>
-    <h1>系统状态仪表盘</h1>
-    <p class="note">这里解释公开产品的数据口径、刷新机制、覆盖数量和当前产品阶段，方便你把它当成真正产品而不是一次性页面。</p>
+    <h1>系统状态与运营控制台</h1>
+    <p class="note">这里用于快速判断：页面是否齐全、数据是否新鲜、研究池口径是否正确、产品能力是否已经上线。</p>
     <section class="grid" id="cards"></section>
+    <section class="section card">
+      <h3>产品健康度</h3>
+      <div id="health" class="mini-grid"></div>
+      <div id="coverageBar" class="bar"><i style="width:0%"></i></div>
+    </section>
     <section class="section card">
       <h3>刷新规则</h3>
       <div id="refresh" class="note"></div>
       <div class="mini-grid" id="mini"></div>
+    </section>
+    <section class="section card">
+      <h3>上线能力清单</h3>
+      <div id="checklist" class="checklist"></div>
     </section>
     <section class="section card">
       <h3>产品口径</h3>
@@ -24,7 +34,7 @@
     </section>
   </main>
 <script>
-async function main(){try{const r=await fetch('dashboard_app.json?t='+Date.now(),{cache:'no-store'});const d=await r.json();ts.textContent='更新时间：'+d.generated_at;const m=d.market||{}, s=d.market_status||{}, c=d.counts||{}, di=d.detail_index||{};const items=[['交易日状态',s.is_trading_day?'交易日':'非交易日',s.is_trading_day?'up':'warn'],['市场温度',m.market_state||'-',''],['研究池',c.main_non_st||'-',''],['候选总数',c.candidate_count||'-',''],['详情页数量',di.count||'-',''],['最新扫描日',d.trade_date||'-','']];cards.innerHTML=items.map(x=>`<div class='card'><div class='muted'>${x[0]}</div><div class='num ${x[2]||''}'>${x[1]}</div></div>`).join('');refresh.textContent=d.product_notes?.refresh_rule||'-';mini.innerHTML=`<div class='mini'><span>全A覆盖</span><b>${c.securities_total||'-'}</b></div><div class='mini'><span>最新扫描时间</span><b>${d.latest_scan_ts||'-'}</b></div><div class='mini'><span>产品版本</span><b>${d.product_version||'-'}</b></div><div class='mini'><span>导航模块</span><b>${(d.navigation||[]).length}</b></div>`;scope.innerHTML=`<div><span class='pill'>研究池说明</span>${d.product_notes?.universe_note||'-'}</div><div style='margin-top:10px'><span class='pill'>当前阶段</span>${d.product_notes?.scope||'-'}</div><div style='margin-top:10px'><span class='pill'>产品化方向</span>先升级信息架构、导航、筛选、收藏、最近访问等产品能力，再单独升级策略测试问题。</div>`}catch(e){ts.textContent='加载失败';scope.textContent=String(e)}}main();
+async function main(){try{const r=await fetch('dashboard_app.json?t='+Date.now(),{cache:'no-store'});const d=await r.json();ts.textContent='更新时间：'+d.generated_at;const m=d.market||{}, s=d.market_status||{}, c=d.counts||{}, di=d.detail_index||{}, pm=d.product_metrics||{};const items=[['交易日状态',s.is_trading_day?'交易日':'非交易日',s.is_trading_day?'up':'warn'],['市场温度',m.market_state||'-',''],['研究池',c.main_non_st||'-',''],['候选总数',c.candidate_count||'-',''],['重点信号',pm.focus_count??'-','warn'],['详情页数量',di.count||'-',''],['详情覆盖',`${pm.detail_coverage_ratio??0}%`,''],['最新扫描日',d.trade_date||'-','']];cards.innerHTML=items.map(x=>`<div class='card'><div class='muted'>${x[0]}</div><div class='num ${x[2]||''}'>${x[1]}</div></div>`).join('');const cov=Math.max(0,Math.min(100,Number(pm.detail_coverage_ratio||0)));coverageBar.querySelector('i').style.width=cov+'%';health.innerHTML=`<div class='mini'><span>产品版本</span><b>${d.product_version||'-'}</b></div><div class='mini'><span>导航模块</span><b>${(d.navigation||[]).length}</b></div><div class='mini'><span>详情覆盖率</span><b>${cov}%</b></div>`;refresh.textContent=d.product_notes?.refresh_rule||'-';mini.innerHTML=`<div class='mini'><span>全A覆盖</span><b>${c.securities_total||'-'}</b></div><div class='mini'><span>最新扫描时间</span><b>${d.latest_scan_ts||'-'}</b></div><div class='mini'><span>主板非ST研究池</span><b>${c.main_non_st||'-'}</b></div>`;const checks=[['首页产品化导航','已上线'],['高级搜索/筛选','已上线'],['最近访问/收藏','浏览器本地存储'],['快捷决策区','已上线'],['个股详情工作台','已上线'],['系统状态控制台','已上线'],['交易日盘中刷新','保留原逻辑'],['公开匿名化','继续保持']];checklist.innerHTML=checks.map(x=>`<div class='check'><span>${x[0]}</span><b class='up'>${x[1]}</b></div>`).join('');scope.innerHTML=`<div><span class='pill'>研究池说明</span>${d.product_notes?.universe_note||'-'}</div><div style='margin-top:10px'><span class='pill'>当前阶段</span>${d.product_notes?.scope||'-'}</div><div style='margin-top:10px'><span class='pill'>决策路径</span>${d.product_notes?.decision_note||'-'}</div>`}catch(e){ts.textContent='加载失败';scope.textContent=String(e)}}main();
 </script>
 </body>
 </html>
