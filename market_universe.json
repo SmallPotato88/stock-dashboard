@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:58:13",
+  "generated_at": "2026-06-03T07:41:48",
   "data_date": "2026-06-02",
   "scale": {
     "total_securities": 5531,
@@ -36,8 +36,8 @@
         "bars": 646
       }
     ],
-    "industry_filled": 1576,
-    "industry_filled_pct": 52.3,
+    "industry_filled": 3007,
+    "industry_filled_pct": 99.7,
     "strategy_candidates": 150
   },
   "classification_universe": "主板非ST 且 当日有 daily_bars + indicators_daily",
@@ -118,177 +118,177 @@
   },
   "top_industries": [
     {
-      "name": "未分类",
-      "count": 1437
-    },
-    {
       "name": "汽车零部件",
-      "count": 78
+      "count": 143
     },
     {
       "name": "房地产开发",
-      "count": 42
-    },
-    {
-      "name": "证券",
-      "count": 34
+      "count": 66
     },
     {
       "name": "其他化学制品",
-      "count": 30
-    },
-    {
-      "name": "股份制与城商行",
-      "count": 29
-    },
-    {
-      "name": "中药生产",
-      "count": 28
-    },
-    {
-      "name": "专业工程",
-      "count": 25
+      "count": 65
     },
     {
       "name": "其他专用机械",
-      "count": 25
-    },
-    {
-      "name": "物流",
-      "count": 23
-    },
-    {
-      "name": "百货",
-      "count": 22
-    },
-    {
-      "name": "煤炭开采洗选",
-      "count": 21
-    },
-    {
-      "name": "医药商业",
-      "count": 20
+      "count": 56
     },
     {
       "name": "电子元件",
-      "count": 19
+      "count": 49
+    },
+    {
+      "name": "证券",
+      "count": 49
+    },
+    {
+      "name": "中药生产",
+      "count": 48
     },
     {
       "name": "其他通用机械",
-      "count": 18
-    },
-    {
-      "name": "平面媒体",
-      "count": 18
-    },
-    {
-      "name": "燃气",
-      "count": 18
-    },
-    {
-      "name": "环保",
-      "count": 17
-    },
-    {
-      "name": "服装",
-      "count": 17
-    },
-    {
-      "name": "家具制造",
-      "count": 17
+      "count": 43
     },
     {
       "name": "化学制剂",
-      "count": 16
-    },
-    {
-      "name": "造纸",
-      "count": 16
-    },
-    {
-      "name": "火电",
-      "count": 16
-    },
-    {
-      "name": "贸易",
-      "count": 16
+      "count": 39
     },
     {
       "name": "食品综合",
-      "count": 16
+      "count": 39
     },
     {
-      "name": "白酒",
-      "count": 15
+      "name": "物流",
+      "count": 37
     },
     {
-      "name": "其他输变电设备",
-      "count": 15
+      "name": "电子设备制造",
+      "count": 37
     },
     {
-      "name": "太阳能",
-      "count": 14
+      "name": "股份制与城商行",
+      "count": 36
+    },
+    {
+      "name": "专业工程",
+      "count": 36
+    },
+    {
+      "name": "环保",
+      "count": 34
+    },
+    {
+      "name": "金属制品",
+      "count": 34
+    },
+    {
+      "name": "服装",
+      "count": 33
+    },
+    {
+      "name": "其他软件服务",
+      "count": 32
+    },
+    {
+      "name": "百货",
+      "count": 32
     },
     {
       "name": "行业应用软件",
-      "count": 14
+      "count": 32
     },
     {
-      "name": "水电",
-      "count": 14
+      "name": "包装印刷",
+      "count": 31
+    },
+    {
+      "name": "贸易",
+      "count": 30
+    },
+    {
+      "name": "火电",
+      "count": 30
+    },
+    {
+      "name": "化学原料药",
+      "count": 30
+    },
+    {
+      "name": "医药商业",
+      "count": 29
+    },
+    {
+      "name": "其他输变电设备",
+      "count": 28
+    },
+    {
+      "name": "燃气",
+      "count": 26
+    },
+    {
+      "name": "煤炭开采洗选",
+      "count": 26
+    },
+    {
+      "name": "电线电缆",
+      "count": 26
+    },
+    {
+      "name": "家具制造",
+      "count": 26
     }
   ],
   "industry_heatmap": {
     "hot": [
       {
-        "industry": "铜",
-        "count": 9,
-        "avg_pct_chg": 4.41,
-        "up_ratio": 88.9,
-        "above_ma20_ratio": 44.4,
-        "breakout_20d_ratio": 11.1,
-        "amount_total_yi": 176.22,
-        "heat_score": 49.24
+        "industry": "锡",
+        "count": 2,
+        "avg_pct_chg": 10.01,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 100.0,
+        "breakout_20d_ratio": 100.0,
+        "amount_total_yi": 67.42,
+        "heat_score": 96.0
       },
       {
-        "industry": "服饰辅料",
-        "count": 2,
-        "avg_pct_chg": 3.32,
+        "industry": "钨",
+        "count": 4,
+        "avg_pct_chg": 3.3,
         "up_ratio": 100.0,
         "above_ma20_ratio": 50.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 3.68,
-        "heat_score": 44.92
+        "amount_total_yi": 127.92,
+        "heat_score": 44.82
       },
       {
-        "industry": "电子元件",
-        "count": 19,
-        "avg_pct_chg": 2.53,
-        "up_ratio": 78.9,
-        "above_ma20_ratio": 73.7,
-        "breakout_20d_ratio": 10.5,
-        "amount_total_yi": 568.26,
-        "heat_score": 44.38
+        "industry": "铜",
+        "count": 15,
+        "avg_pct_chg": 3.8,
+        "up_ratio": 80.0,
+        "above_ma20_ratio": 53.3,
+        "breakout_20d_ratio": 6.7,
+        "amount_total_yi": 267.05,
+        "heat_score": 42.49
       },
       {
         "industry": "通信传输设备",
-        "count": 12,
-        "avg_pct_chg": 4.91,
-        "up_ratio": 83.3,
-        "above_ma20_ratio": 33.3,
-        "breakout_20d_ratio": 8.3,
-        "amount_total_yi": 634.72,
-        "heat_score": 43.61
+        "count": 22,
+        "avg_pct_chg": 4.64,
+        "up_ratio": 81.8,
+        "above_ma20_ratio": 31.8,
+        "breakout_20d_ratio": 9.1,
+        "amount_total_yi": 910.51,
+        "heat_score": 41.01
       },
       {
-        "industry": "园林工程",
-        "count": 2,
-        "avg_pct_chg": 2.02,
-        "up_ratio": 100.0,
-        "above_ma20_ratio": 50.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 3.59,
-        "heat_score": 37.1
+        "industry": "电子元件",
+        "count": 49,
+        "avg_pct_chg": 2.65,
+        "up_ratio": 69.4,
+        "above_ma20_ratio": 60.4,
+        "breakout_20d_ratio": 6.1,
+        "amount_total_yi": 1406.91,
+        "heat_score": 32.85
       },
       {
         "industry": "国有银行",
@@ -301,76 +301,56 @@
         "heat_score": 32.28
       },
       {
-        "industry": "铝",
-        "count": 12,
-        "avg_pct_chg": 1.44,
-        "up_ratio": 75.0,
-        "above_ma20_ratio": 75.0,
+        "industry": "摩托车",
+        "count": 2,
+        "avg_pct_chg": 3.9,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 120.41,
-        "heat_score": 31.12
+        "amount_total_yi": 3.48,
+        "heat_score": 28.38
       },
       {
-        "industry": "玻纤",
+        "industry": "黄金",
+        "count": 11,
+        "avg_pct_chg": 2.68,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 201.48,
+        "heat_score": 21.1
+      },
+      {
+        "industry": "稀土",
         "count": 4,
-        "avg_pct_chg": 0.74,
-        "up_ratio": 75.0,
-        "above_ma20_ratio": 75.0,
+        "avg_pct_chg": 2.45,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 188.65,
-        "heat_score": 26.91
+        "amount_total_yi": 72.66,
+        "heat_score": 19.71
       },
       {
-        "industry": "股份制与城商行",
-        "count": 29,
-        "avg_pct_chg": 0.37,
-        "up_ratio": 58.6,
-        "above_ma20_ratio": 72.4,
-        "breakout_20d_ratio": 20.7,
-        "amount_total_yi": 194.67,
-        "heat_score": 25.84
-      },
-      {
-        "industry": "显示器件",
-        "count": 7,
-        "avg_pct_chg": 1.58,
-        "up_ratio": 85.7,
-        "above_ma20_ratio": 42.9,
+        "industry": "其他稀有小金属",
+        "count": 18,
+        "avg_pct_chg": 1.63,
+        "up_ratio": 77.8,
+        "above_ma20_ratio": 33.3,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 252.34,
-        "heat_score": 24.46
+        "amount_total_yi": 296.38,
+        "heat_score": 17.02
       }
     ],
     "cold": [
       {
-        "industry": "娱乐用品",
+        "industry": "其他文娱用品",
         "count": 2,
-        "avg_pct_chg": -7.62,
+        "avg_pct_chg": -4.73,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 2.74,
-        "heat_score": -81.0
-      },
-      {
-        "industry": "棉纺",
-        "count": 2,
-        "avg_pct_chg": -5.15,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 2.1,
-        "heat_score": -75.9
-      },
-      {
-        "industry": "其他轻工",
-        "count": 5,
-        "avg_pct_chg": -4.48,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 4.51,
-        "heat_score": -71.86
+        "amount_total_yi": 2.86,
+        "heat_score": -73.38
       },
       {
         "industry": "综合电力设备商",
@@ -383,67 +363,87 @@
         "heat_score": -71.63
       },
       {
-        "industry": "其他纤维",
-        "count": 2,
-        "avg_pct_chg": -3.88,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 3.36,
-        "heat_score": -68.3
-      },
-      {
         "industry": "营销服务",
-        "count": 4,
-        "avg_pct_chg": -3.63,
+        "count": 14,
+        "avg_pct_chg": -4.36,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 20.1,
-        "heat_score": -66.8
-      },
-      {
-        "industry": "其他纺织",
-        "count": 8,
-        "avg_pct_chg": -3.59,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 6.11,
-        "heat_score": -66.54
+        "amount_total_yi": 86.99,
+        "heat_score": -71.19
       },
       {
         "industry": "公交",
-        "count": 4,
-        "avg_pct_chg": -3.5,
+        "count": 5,
+        "avg_pct_chg": -3.27,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 2.08,
-        "heat_score": -66.0
+        "amount_total_yi": 2.78,
+        "heat_score": -64.65
+      },
+      {
+        "industry": "其他纺织",
+        "count": 16,
+        "avg_pct_chg": -3.25,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 10.92,
+        "heat_score": -64.48
       },
       {
         "industry": "房地产服务",
-        "count": 4,
-        "avg_pct_chg": -3.41,
+        "count": 10,
+        "avg_pct_chg": -3.23,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 3.81,
-        "heat_score": -65.47
+        "amount_total_yi": 10.79,
+        "heat_score": -64.39
+      },
+      {
+        "industry": "其他互联网金融",
+        "count": 2,
+        "avg_pct_chg": -3.15,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 8.48,
+        "heat_score": -63.9
+      },
+      {
+        "industry": "园区开发",
+        "count": 3,
+        "avg_pct_chg": -3.15,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 2.13,
+        "heat_score": -63.87
+      },
+      {
+        "industry": "海洋渔业",
+        "count": 5,
+        "avg_pct_chg": -3.1,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 2.68,
+        "heat_score": -63.58
       },
       {
         "industry": "内燃机",
-        "count": 3,
-        "avg_pct_chg": -3.37,
+        "count": 4,
+        "avg_pct_chg": -2.97,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 5.5,
-        "heat_score": -65.24
+        "amount_total_yi": 6.34,
+        "heat_score": -62.83
       }
     ],
-    "total_industries_with_count_ge_2": 189
+    "total_industries_with_count_ge_2": 220
   },
   "market_temperature": {
     "date": "2026-06-02",
@@ -463,56 +463,40 @@
     "market_score": 21.996695790078693,
     "market_state": "不做",
     "reasons_json": "[\"上涨占比23.8%\", \"MA20上方17.7%\", \"MA60上方29.0%\", \"20日高附近2.1%\", \"均涨幅-0.87%\", \"强/弱股459/965\"]",
-    "created_at": "2026-06-02 13:57:04"
+    "created_at": "2026-06-02 23:40:55"
   },
   "sector_hot": [
     {
-      "sector": "服饰辅料",
-      "sector_score": 82.5,
+      "sector": "锡",
+      "sector_score": 100.0,
       "sector_state": "可做",
       "universe_count": 2,
-      "avg_pct_chg": 3.3198505159903187,
+      "avg_pct_chg": 10.005094243504836,
       "up_ratio": 100.0
     },
     {
-      "sector": "电子元件",
-      "sector_score": 82.36842105263158,
-      "sector_state": "可做",
-      "universe_count": 19,
-      "avg_pct_chg": 2.5277188398065524,
-      "up_ratio": 78.94736842105263
-    },
-    {
-      "sector": "园林工程",
-      "sector_score": 80.0823517669764,
+      "sector": "丝绸",
+      "sector_score": 82.5,
       "sector_state": "可做",
       "universe_count": 2,
-      "avg_pct_chg": 2.0164703533952797,
+      "avg_pct_chg": 5.116793796898859,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "钨",
+      "sector_score": 82.5,
+      "sector_state": "可做",
+      "universe_count": 4,
+      "avg_pct_chg": 3.303283302251436,
       "up_ratio": 100.0
     },
     {
       "sector": "铜",
-      "sector_score": 76.11111111111111,
+      "sector_score": 74.41176470588235,
       "sector_state": "可做",
-      "universe_count": 9,
-      "avg_pct_chg": 4.409667814021469,
-      "up_ratio": 88.88888888888889
-    },
-    {
-      "sector": "铝",
-      "sector_score": 75.93034864806009,
-      "sector_state": "可做",
-      "universe_count": 12,
-      "avg_pct_chg": 1.4360697296120177,
-      "up_ratio": 75.0
-    },
-    {
-      "sector": "玻纤",
-      "sector_score": 72.42814515765201,
-      "sector_state": "可做",
-      "universe_count": 4,
-      "avg_pct_chg": 0.7356290315304029,
-      "up_ratio": 75.0
+      "universe_count": 17,
+      "avg_pct_chg": 3.5255604580558426,
+      "up_ratio": 82.35294117647058
     },
     {
       "sector": "国有银行",
@@ -523,109 +507,85 @@
       "up_ratio": 66.66666666666666
     },
     {
-      "sector": "通信传输设备",
-      "sector_score": 70.0,
-      "sector_state": "可做",
-      "universe_count": 12,
-      "avg_pct_chg": 4.906527017157339,
-      "up_ratio": 83.33333333333334
+      "sector": "非金属新材料",
+      "sector_score": 66.99124023798711,
+      "sector_state": "谨慎可做",
+      "universe_count": 18,
+      "avg_pct_chg": 1.6204702698196471,
+      "up_ratio": 72.22222222222221
     },
     {
-      "sector": "显示器件",
-      "sector_score": 69.66524318438032,
+      "sector": "玻纤",
+      "sector_score": 65.1561688349363,
       "sector_state": "谨慎可做",
       "universe_count": 7,
-      "avg_pct_chg": 1.575905779733206,
-      "up_ratio": 85.71428571428571
+      "avg_pct_chg": 0.8169480527015442,
+      "up_ratio": 71.42857142857143
     },
     {
-      "sector": "其他稀有小金属",
-      "sector_score": 67.86957186804065,
+      "sector": "通信传输设备",
+      "sector_score": 65.11111111111111,
       "sector_state": "谨慎可做",
-      "universe_count": 9,
-      "avg_pct_chg": 1.7405810402747948,
-      "up_ratio": 77.77777777777779
+      "universe_count": 45,
+      "avg_pct_chg": 3.5300682435309216,
+      "up_ratio": 71.11111111111111
     },
     {
-      "sector": "稀土",
+      "sector": "摩托车",
       "sector_score": 65.0,
       "sector_state": "谨慎可做",
-      "universe_count": 3,
-      "avg_pct_chg": 2.5311750596267206,
+      "universe_count": 2,
+      "avg_pct_chg": 3.896056481633913,
       "up_ratio": 100.0
     },
     {
       "sector": "黄金",
       "sector_score": 65.0,
       "sector_state": "谨慎可做",
-      "universe_count": 5,
-      "avg_pct_chg": 2.5178378782129736,
+      "universe_count": 12,
+      "avg_pct_chg": 2.648169321379163,
       "up_ratio": 100.0
+    },
+    {
+      "sector": "稀土",
+      "sector_score": 64.75546839785812,
+      "sector_state": "谨慎可做",
+      "universe_count": 4,
+      "avg_pct_chg": 2.4510936795716263,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "电子元件",
+      "sector_score": 64.47305568033732,
+      "sector_state": "谨慎可做",
+      "universe_count": 97,
+      "avg_pct_chg": 2.1368791773045803,
+      "up_ratio": 60.824742268041234
     }
   ],
   "sector_cold": [
     {
-      "sector": "专业市场",
-      "sector_score": 0.0,
-      "sector_state": "不做",
-      "universe_count": 4,
-      "avg_pct_chg": -2.8031689989766506,
-      "up_ratio": 0.0
-    },
-    {
       "sector": "公交",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 4,
-      "avg_pct_chg": -3.499480372450991,
+      "universe_count": 5,
+      "avg_pct_chg": -3.2744181061279343,
       "up_ratio": 0.0
     },
     {
-      "sector": "其他建材",
-      "sector_score": 0.0,
-      "sector_state": "不做",
-      "universe_count": 4,
-      "avg_pct_chg": -2.775330447371474,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "其他纤维",
+      "sector": "其他文娱用品",
       "sector_score": 0.0,
       "sector_state": "不做",
       "universe_count": 2,
-      "avg_pct_chg": -3.8830871115639365,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "其他纺织",
-      "sector_score": 0.0,
-      "sector_state": "不做",
-      "universe_count": 8,
-      "avg_pct_chg": -3.589198976884723,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "其他轻工",
-      "sector_score": 0.0,
-      "sector_state": "不做",
-      "universe_count": 5,
-      "avg_pct_chg": -4.47593003027574,
+      "avg_pct_chg": -4.729959466702398,
       "up_ratio": 0.0
     },
     {
       "sector": "内燃机",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 3,
-      "avg_pct_chg": -3.3736420606330557,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "制冷空调设备",
-      "sector_score": 0.0,
-      "sector_state": "不做",
-      "universe_count": 7,
-      "avg_pct_chg": -2.7946375757703046,
+      "universe_count": 4,
+      "avg_pct_chg": -2.9719276585489993,
       "up_ratio": 0.0
     },
     {
@@ -637,27 +597,67 @@
       "up_ratio": 0.0
     },
     {
-      "sector": "娱乐用品",
+      "sector": "建筑装饰设计",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 2,
-      "avg_pct_chg": -7.618335734143551,
+      "universe_count": 7,
+      "avg_pct_chg": -2.954470442066065,
       "up_ratio": 0.0
     },
     {
       "sector": "房地产服务",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 4,
-      "avg_pct_chg": -3.4119471246820305,
+      "universe_count": 11,
+      "avg_pct_chg": -3.1275350632049252,
       "up_ratio": 0.0
     },
     {
-      "sector": "棉纺",
+      "sector": "海洋渔业",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 6,
+      "avg_pct_chg": -2.931079168995403,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "淡水渔业",
       "sector_score": 0.0,
       "sector_state": "不做",
       "universe_count": 2,
-      "avg_pct_chg": -5.150323419287021,
+      "avg_pct_chg": -3.261124121779851,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "电网设备",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 2,
+      "avg_pct_chg": -3.3011547203125606,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "综合电力设备商",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 4,
+      "avg_pct_chg": -4.645037270332498,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "网上购物",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 3,
+      "avg_pct_chg": -4.182213148608006,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "网络媒体",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 5,
+      "avg_pct_chg": -3.011109891341719,
       "up_ratio": 0.0
     }
   ],
@@ -666,7 +666,7 @@
       {
         "code": "002314",
         "name": "南山控股",
-        "industry": null,
+        "industry": "房地产开发",
         "close": 2.62,
         "pct_chg": 10.084033613445389,
         "amount": 265297532.0,
@@ -690,7 +690,7 @@
       {
         "code": "002575",
         "name": "群兴玩具",
-        "industry": null,
+        "industry": "贸易",
         "close": 6.23,
         "pct_chg": 10.070671378091877,
         "amount": 517450717.00000006,
@@ -726,7 +726,7 @@
       {
         "code": "000601",
         "name": "韶能股份",
-        "industry": null,
+        "industry": "水电",
         "close": 8.99,
         "pct_chg": 10.036719706242353,
         "amount": 1480860669.0,
@@ -774,7 +774,7 @@
       {
         "code": "002579",
         "name": "中京电子",
-        "industry": null,
+        "industry": "电子元件",
         "close": 20.76,
         "pct_chg": 10.015898251192372,
         "amount": 3199174128.0000005,
@@ -798,7 +798,7 @@
       {
         "code": "002903",
         "name": "宇环数控",
-        "industry": null,
+        "industry": "机床设备",
         "close": 43.29,
         "pct_chg": 10.01270648030495,
         "amount": 402328602.0,
@@ -810,7 +810,7 @@
       {
         "code": "002137",
         "name": "实益达",
-        "industry": null,
+        "industry": "电子设备制造",
         "close": 9.45,
         "pct_chg": 10.011641443538991,
         "amount": 444442004.99999994,
@@ -834,7 +834,7 @@
       {
         "code": "002806",
         "name": "华锋股份",
-        "industry": null,
+        "industry": "汽车零部件",
         "close": 20.33,
         "pct_chg": 10.0108225108225,
         "amount": 1484075768.9999998,
@@ -847,8 +847,8 @@
     "top_losers": [
       {
         "code": "002181",
-        "name": "粤 传 媒",
-        "industry": null,
+        "name": "粤传媒",
+        "industry": "平面媒体",
         "close": 16.34,
         "pct_chg": -10.022026431718063,
         "amount": 931458432.0,
@@ -872,7 +872,7 @@
       {
         "code": "002878",
         "name": "元隆雅图",
-        "industry": null,
+        "industry": "营销服务",
         "close": 14.93,
         "pct_chg": -10.006027727546716,
         "amount": 323816770.0,
@@ -896,7 +896,7 @@
       {
         "code": "603435",
         "name": "嘉德利",
-        "industry": null,
+        "industry": "电子元件",
         "close": 76.82,
         "pct_chg": -10.00468603561388,
         "amount": 828449925.9999999,
@@ -908,7 +908,7 @@
       {
         "code": "603075",
         "name": "热威股份",
-        "industry": null,
+        "industry": "其他家电",
         "close": 25.28,
         "pct_chg": -10.003559985760052,
         "amount": 113919264.0,
@@ -920,7 +920,7 @@
       {
         "code": "001259",
         "name": "利仁科技",
-        "industry": null,
+        "industry": "小家电",
         "close": 67.03,
         "pct_chg": -9.993017509936612,
         "amount": 336738611.0,
@@ -932,7 +932,7 @@
       {
         "code": "003018",
         "name": "金富科技",
-        "industry": null,
+        "industry": "包装印刷",
         "close": 54.59,
         "pct_chg": -9.991755976916728,
         "amount": 966663343.0000001,
@@ -1004,7 +1004,7 @@
       {
         "code": "002354",
         "name": "天娱数科",
-        "industry": null,
+        "industry": "营销服务",
         "close": 6.7,
         "pct_chg": -9.946236559139788,
         "amount": 1804247690.0,
@@ -1054,7 +1054,7 @@
       {
         "code": "002384",
         "name": "东山精密",
-        "industry": null,
+        "industry": "其他电子器件",
         "close": 210.93,
         "pct_chg": 10.002607561929599,
         "amount": 22811678733.0,
@@ -1101,7 +1101,7 @@
       },
       {
         "code": "000725",
-        "name": "京东方Ａ",
+        "name": "京东方A",
         "industry": "显示器件",
         "close": 5.47,
         "pct_chg": 2.0522388059701386,
@@ -1126,7 +1126,7 @@
       {
         "code": "002281",
         "name": "光迅科技",
-        "industry": null,
+        "industry": "通信传输设备",
         "close": 215.11,
         "pct_chg": 5.291238374938816,
         "amount": 15544579974.000002,
@@ -1162,7 +1162,7 @@
       {
         "code": "000636",
         "name": "风华高科",
-        "industry": null,
+        "industry": "电子元件",
         "close": 59.91,
         "pct_chg": 8.8283378746594,
         "amount": 11380899006.0,
@@ -1174,7 +1174,7 @@
       {
         "code": "002463",
         "name": "沪电股份",
-        "industry": null,
+        "industry": "电子元件",
         "close": 131.0,
         "pct_chg": 6.930046526814134,
         "amount": 11093289600.0,
@@ -1198,7 +1198,7 @@
       {
         "code": "002156",
         "name": "通富微电",
-        "industry": null,
+        "industry": "集成电路",
         "close": 63.84,
         "pct_chg": 3.9908779931584997,
         "amount": 10405798704.0,
