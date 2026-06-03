@@ -453,18 +453,34 @@
       "avg_loss_pct": -1.854,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "000630",
+          "name": "铜陵有色",
           "date": "2026-06-03",
-          "pct_chg": -1.46,
+          "pct_chg": -1.27,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000630",
-          "name": "铜陵有色",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-06-03",
-          "pct_chg": -0.42,
+          "pct_chg": -2.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-03",
+          "pct_chg": 5.53,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
+          "date": "2026-06-03",
+          "pct_chg": -0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -515,22 +531,6 @@
           "pct_chg": -2.16,
           "vol_ratio5": 0.71,
           "close_pos": 0.09
-        },
-        {
-          "code": "605333",
-          "name": "沪光股份",
-          "date": "2026-06-02",
-          "pct_chg": -0.15,
-          "vol_ratio5": 0.68,
-          "close_pos": 0.23
-        },
-        {
-          "code": "605319",
-          "name": "无锡振华",
-          "date": "2026-06-02",
-          "pct_chg": 0.0,
-          "vol_ratio5": 0.68,
-          "close_pos": 0.41
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-03",
-          "pct_chg": 0.23,
+          "pct_chg": -0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
