@@ -453,6 +453,22 @@
       "avg_loss_pct": -1.854,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-03",
+          "pct_chg": 2.59,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000630",
+          "name": "铜陵有色",
+          "date": "2026-06-03",
+          "pct_chg": 0.85,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605580",
           "name": "恒盛能源",
           "date": "2026-06-02",
@@ -515,22 +531,6 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.68,
           "close_pos": 0.41
-        },
-        {
-          "code": "605305",
-          "name": "中际联合",
-          "date": "2026-06-02",
-          "pct_chg": -0.59,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.31
-        },
-        {
-          "code": "605303",
-          "name": "园林股份",
-          "date": "2026-06-02",
-          "pct_chg": 3.42,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.54
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-03",
-          "pct_chg": -0.05,
+          "pct_chg": -0.18,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
