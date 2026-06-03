@@ -1,31 +1,13 @@
 {
-  "generated_at": "2026-06-03T15:20:55",
-  "latest_bar_date": "2026-06-02",
-  "latest_indicator_date": "2026-06-02",
-  "data_age_days": 1,
+  "generated_at": "2026-06-03T15:30:11",
+  "latest_bar_date": "2026-06-03",
+  "latest_indicator_date": "2026-06-03",
+  "data_age_days": 0,
   "main_non_st": 3019,
-  "main_non_st_latest_bar": 3013,
-  "main_non_st_latest_indicator": 3013,
-  "main_non_st_indicator_coverage_pct": 99.8,
+  "main_non_st_latest_bar": 3016,
+  "main_non_st_latest_indicator": 3016,
+  "main_non_st_indicator_coverage_pct": 99.9,
   "stale_main_non_st_sample": [
-    {
-      "code": "000668",
-      "name": "荣丰控股",
-      "max_date": null,
-      "bars": 0
-    },
-    {
-      "code": "000736",
-      "name": "中交地产",
-      "max_date": null,
-      "bars": 0
-    },
-    {
-      "code": "002200",
-      "name": "交投生态",
-      "max_date": null,
-      "bars": 0
-    },
     {
       "code": "603056",
       "name": "德邦股份",
@@ -43,30 +25,6 @@
       "name": "嘉美包装",
       "max_date": "2026-05-29",
       "bars": 646
-    },
-    {
-      "code": "000630",
-      "name": "铜陵有色",
-      "max_date": "2026-06-03",
-      "bars": 649
-    },
-    {
-      "code": "000651",
-      "name": "格力电器",
-      "max_date": "2026-06-03",
-      "bars": 649
-    },
-    {
-      "code": "002273",
-      "name": "水晶光电",
-      "max_date": "2026-06-03",
-      "bars": 649
-    },
-    {
-      "code": "002851",
-      "name": "麦格米特",
-      "max_date": "2026-06-03",
-      "bars": 649
     }
   ],
   "alerts": [],
