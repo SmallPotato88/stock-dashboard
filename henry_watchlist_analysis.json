@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-06-04T11:02:16",
-  "trade_date": "2026-06-04",
-  "intraday": true,
-  "realtime_generated_at": "2026-06-04T11:00:29",
-  "watchlist_count": 2,
-  "items": [
-    {
-      "code": "002851",
-      "name": "麦格米特",
-      "added_at": "2026-05-28T09:12:50.087677",
-      "added_reason": "Henry哥指定关注",
-      "priority": 1,
-      "analysis": null
-    },
-    {
-      "code": "002273",
-      "name": "水晶光电",
-      "added_at": "2026-05-28T09:12:50.087756",
-      "added_reason": "Henry哥指定关注",
-      "priority": 1,
-      "analysis": null
-    }
-  ],
-  "text_report": "Henry哥，关注池盘中30分钟分析（交易日 2026-06-04，生成 2026-06-04T11:02:16）：\n\n002851 麦格米特：无最新数据，暂不操作。\n\n002273 水晶光电：无最新数据，暂不操作。\n\n汇总：可操作 0 / 观察 0 / 不操作 2。\n执行纪律：没有强候选就不强行交易，尤其市场/板块弱时优先等。"
+  "generated_at": "2026-06-04T11:32:37",
+  "skipped": true,
+  "skipped_reason": "当前不是A股连续竞价开盘时段，按规则不做30分钟主动分析；非开盘时间以15:10收盘报告为准。",
+  "items": []
 }
