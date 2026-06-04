@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:40:16",
+  "generated_at": "2026-06-04T10:50:17",
   "data_date": "2026-06-03",
   "scale": {
     "total_securities": 5531,
@@ -135,7 +135,7 @@
     },
     {
       "name": "通用设备",
-      "count": 79
+      "count": 80
     },
     {
       "name": "房地产开发",
@@ -331,14 +331,14 @@
         "heat_score": 17.19
       },
       {
-        "industry": "其他通用机械",
-        "count": 4,
-        "avg_pct_chg": 2.1,
-        "up_ratio": 50.0,
-        "above_ma20_ratio": 50.0,
+        "industry": "自动化设备",
+        "count": 24,
+        "avg_pct_chg": 1.34,
+        "up_ratio": 58.3,
+        "above_ma20_ratio": 41.7,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 1.98,
-        "heat_score": 12.61
+        "amount_total_yi": 382.21,
+        "heat_score": 8.86
       }
     ],
     "cold": [
