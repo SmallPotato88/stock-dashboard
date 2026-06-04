@@ -456,7 +456,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-04",
-          "pct_chg": -1.83,
+          "pct_chg": -2.6,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,15 +464,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-04",
-          "pct_chg": -0.57,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-04",
-          "pct_chg": -1.44,
+          "pct_chg": -0.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -0.26,
           "vol_ratio5": 0.73,
           "close_pos": 0.47
+        },
+        {
+          "code": "605399",
+          "name": "晨光新材",
+          "date": "2026-06-03",
+          "pct_chg": -0.15,
+          "vol_ratio5": 0.76,
+          "close_pos": 0.22
         }
       ]
     },
