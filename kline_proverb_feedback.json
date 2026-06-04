@@ -455,6 +455,14 @@
         {
           "code": "000651",
           "name": "格力电器",
+          "date": "2026-06-04",
+          "pct_chg": 0.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
           "date": "2026-06-03",
           "pct_chg": -0.05,
           "vol_ratio5": 0.64,
@@ -523,14 +531,6 @@
           "pct_chg": 2.32,
           "vol_ratio5": 1.01,
           "close_pos": 0.5
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-06-03",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.54
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 1.989,
       "avg_loss_pct": -1.732,
       "recent_samples": [
+        {
+          "code": "000630",
+          "name": "铜陵有色",
+          "date": "2026-06-04",
+          "pct_chg": -4.38,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000651",
           "name": "格力电器",
@@ -611,14 +619,6 @@
           "date": "2026-06-03",
           "pct_chg": -0.87,
           "vol_ratio5": 0.68,
-          "close_pos": 0.54
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-06-03",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.04,
           "close_pos": 0.54
         }
       ]
