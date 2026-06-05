@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 55044,
+      "sample_count": 55045,
       "avg_next_return_pct": 0.051,
       "win_rate_pct": 51.39,
       "avg_win_pct": 3.046,
@@ -146,7 +146,7 @@
         },
         {
           "code": "603868",
-          "name": "XD飞科电",
+          "name": "飞科电器",
           "date": "2026-06-04",
           "pct_chg": -4.78,
           "vol_ratio5": 1.59,
@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 99674,
+      "sample_count": 99675,
       "avg_next_return_pct": 0.219,
       "win_rate_pct": 51.87,
       "avg_win_pct": 2.494,
@@ -389,7 +389,7 @@
         },
         {
           "code": "603877",
-          "name": "太平鸟",
+          "name": "XD太平鸟",
           "date": "2026-06-04",
           "pct_chg": -2.8,
           "vol_ratio5": 1.22,
@@ -405,7 +405,7 @@
         },
         {
           "code": "603868",
-          "name": "XD飞科电",
+          "name": "飞科电器",
           "date": "2026-06-04",
           "pct_chg": -4.78,
           "vol_ratio5": 1.59,
@@ -446,12 +446,28 @@
       ]
     },
     "上影线长": {
-      "sample_count": 662017,
+      "sample_count": 662019,
       "avg_next_return_pct": 0.016,
       "win_rate_pct": 48.01,
       "avg_win_pct": 2.044,
       "avg_loss_pct": -1.856,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-05",
+          "pct_chg": -2.45,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-05",
+          "pct_chg": -0.37,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -515,22 +531,6 @@
           "pct_chg": -2.93,
           "vol_ratio5": 0.88,
           "close_pos": 0.32
-        },
-        {
-          "code": "605376",
-          "name": "博迁新材",
-          "date": "2026-06-04",
-          "pct_chg": -1.08,
-          "vol_ratio5": 0.84,
-          "close_pos": 0.27
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-06-04",
-          "pct_chg": -0.53,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.39
         }
       ]
     },
@@ -607,7 +607,7 @@
         },
         {
           "code": "605255",
-          "name": "天普股份",
+          "name": "XD天普股",
           "date": "2026-06-04",
           "pct_chg": -3.42,
           "vol_ratio5": 1.17,
