@@ -453,22 +453,6 @@
       "avg_loss_pct": -1.856,
       "recent_samples": [
         {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-05",
-          "pct_chg": -0.1,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-05",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-05",
@@ -481,6 +465,22 @@
           "name": "神火股份",
           "date": "2026-06-05",
           "pct_chg": -1.12,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
+          "date": "2026-06-05",
+          "pct_chg": -0.1,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-05",
+          "pct_chg": 0.68,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
