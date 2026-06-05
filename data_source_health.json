@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:20:26",
+  "generated_at": "2026-06-05T09:31:22",
   "status": "watch",
   "decision_guard": "可研究，但交易前必须核对关键行情/资金/公告。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-04",
     "latest_indicator_date": "2026-06-04",
     "latest_signal_trade_date": "2026-06-04",
-    "dashboard_generated_at": "2026-06-05T09:10:35",
+    "dashboard_generated_at": "2026-06-05T09:20:27",
     "dashboard_trade_date": "2026-06-04",
     "dashboard_data_date": "2026-06-04",
-    "realtime_snapshot_generated_at": "2026-06-05T09:10:44",
+    "realtime_snapshot_generated_at": "2026-06-05T09:20:36",
     "stock_detail_count": 8,
     "watchlist_count": 6,
     "main_non_st": 3019,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 127,
-      "bytes_sampled": 396
+      "latency_ms": 128,
+      "bytes_sampled": 458
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 178,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 226,
+      "bytes_sampled": 117
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 202,
+      "latency_ms": 349,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 415,
+      "latency_ms": 1551,
       "bytes_sampled": 512
     }
   },
@@ -118,7 +118,7 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 415,
+      "latency_ms": 1551,
       "bytes_sampled": 512
     },
     "github_repo_head": {
@@ -165,11 +165,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
