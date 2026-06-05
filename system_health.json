@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-05T15:20:35",
-  "latest_bar_date": "2026-06-04",
-  "latest_indicator_date": "2026-06-04",
-  "data_age_days": 1,
+  "generated_at": "2026-06-05T15:30:47",
+  "latest_bar_date": "2026-06-05",
+  "latest_indicator_date": "2026-06-05",
+  "data_age_days": 0,
   "main_non_st": 3019,
-  "main_non_st_latest_bar": 3016,
-  "main_non_st_latest_indicator": 3016,
-  "main_non_st_indicator_coverage_pct": 99.9,
+  "main_non_st_latest_bar": 3017,
+  "main_non_st_latest_indicator": 3017,
+  "main_non_st_indicator_coverage_pct": 99.93,
   "stale_main_non_st_sample": [
     {
       "code": "603056",
@@ -19,54 +19,6 @@
       "name": "胜通能源",
       "max_date": "2026-05-27",
       "bars": 644
-    },
-    {
-      "code": "002969",
-      "name": "嘉美包装",
-      "max_date": "2026-05-29",
-      "bars": 646
-    },
-    {
-      "code": "000651",
-      "name": "格力电器",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "000933",
-      "name": "神火股份",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "000988",
-      "name": "华工科技",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "002273",
-      "name": "水晶光电",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "002851",
-      "name": "麦格米特",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "601021",
-      "name": "春秋航空",
-      "max_date": "2026-06-05",
-      "bars": 651
-    },
-    {
-      "code": "601127",
-      "name": "赛力斯",
-      "max_date": "2026-06-05",
-      "bars": 651
     }
   ],
   "alerts": [],
