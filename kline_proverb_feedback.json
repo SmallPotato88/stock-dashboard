@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.856,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-05",
-          "pct_chg": 0.91,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-05",
-          "pct_chg": 0.44,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-05",
-          "pct_chg": -0.62,
+          "pct_chg": -0.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-05",
+          "pct_chg": 1.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +472,15 @@
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-05",
-          "pct_chg": -0.57,
+          "pct_chg": -0.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-05",
+          "pct_chg": 0.39,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.734,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-05",
-          "pct_chg": -1.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-05",
-          "pct_chg": -0.62,
+          "pct_chg": -0.67,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 2.54,
           "vol_ratio5": 0.75,
           "close_pos": 0.98
+        },
+        {
+          "code": "605255",
+          "name": "XD天普股",
+          "date": "2026-06-04",
+          "pct_chg": -3.42,
+          "vol_ratio5": 1.17,
+          "close_pos": 0.46
         }
       ]
     }
