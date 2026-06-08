@@ -453,42 +453,10 @@
       "avg_loss_pct": -1.858,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-08",
-          "pct_chg": 1.2,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-08",
-          "pct_chg": -0.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-08",
-          "pct_chg": -5.0,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-08",
-          "pct_chg": -4.91,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-06-08",
-          "pct_chg": -3.88,
+          "pct_chg": -0.91,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -496,7 +464,39 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-08",
-          "pct_chg": -2.61,
+          "pct_chg": -2.81,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-08",
+          "pct_chg": -5.31,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-08",
+          "pct_chg": -5.58,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-08",
+          "pct_chg": 1.22,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-08",
+          "pct_chg": -3.99,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
