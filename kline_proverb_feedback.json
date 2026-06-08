@@ -453,18 +453,26 @@
       "avg_loss_pct": -1.858,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-08",
-          "pct_chg": -1.63,
+          "pct_chg": -2.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000651",
+          "name": "格力电器",
           "date": "2026-06-08",
-          "pct_chg": -2.7,
+          "pct_chg": -0.23,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-08",
+          "pct_chg": -1.52,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -0.55,
           "vol_ratio5": 0.91,
           "close_pos": 0.58
-        },
-        {
-          "code": "605507",
-          "name": "国邦医药",
-          "date": "2026-06-05",
-          "pct_chg": 0.32,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.57
         }
       ]
     },
