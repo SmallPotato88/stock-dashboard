@@ -455,38 +455,6 @@
         {
           "code": "601021",
           "name": "春秋航空",
-          "date": "2026-06-08",
-          "pct_chg": 0.55,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-08",
-          "pct_chg": -1.08,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-08",
-          "pct_chg": -0.73,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-08",
-          "pct_chg": -2.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
           "date": "2026-06-05",
           "pct_chg": 0.55,
           "vol_ratio5": 0.7,
@@ -531,6 +499,38 @@
           "pct_chg": 1.0,
           "vol_ratio5": 0.86,
           "close_pos": 0.63
+        },
+        {
+          "code": "605588",
+          "name": "冠石科技",
+          "date": "2026-06-05",
+          "pct_chg": -0.55,
+          "vol_ratio5": 0.91,
+          "close_pos": 0.58
+        },
+        {
+          "code": "605507",
+          "name": "国邦医药",
+          "date": "2026-06-05",
+          "pct_chg": 0.32,
+          "vol_ratio5": 0.91,
+          "close_pos": 0.57
+        },
+        {
+          "code": "605499",
+          "name": "东鹏饮料",
+          "date": "2026-06-05",
+          "pct_chg": -3.61,
+          "vol_ratio5": 0.99,
+          "close_pos": 0.01
+        },
+        {
+          "code": "605500",
+          "name": "森林包装",
+          "date": "2026-06-05",
+          "pct_chg": 0.55,
+          "vol_ratio5": 0.67,
+          "close_pos": 0.39
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 1.991,
       "avg_loss_pct": -1.735,
       "recent_samples": [
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-08",
-          "pct_chg": -2.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -620,6 +612,14 @@
           "pct_chg": 0.54,
           "vol_ratio5": 0.83,
           "close_pos": 0.71
+        },
+        {
+          "code": "605389",
+          "name": "长龄液压",
+          "date": "2026-06-05",
+          "pct_chg": 2.48,
+          "vol_ratio5": 0.87,
+          "close_pos": 0.92
         }
       ]
     }
