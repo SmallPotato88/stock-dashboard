@@ -82,39 +82,38 @@
     "source": "eastmoney_sh_index_kline"
   },
   "2026-05-29": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-01": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-02": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-03": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-04": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-05": {
-    "fetched_at": "2026-06-08T11:30:40",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-08": {
-    "error": "CalledProcessError(52, ['curl', '-L', '--max-time', '20', '-s', '-H', 'User-Agent: Mozilla/5.0', '-H', 'Referer: https://quote.eastmoney.com/', 'https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000001&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=1&beg=20260529&end=20260609'])",
-    "fetched_at": "2026-06-08T13:20:17",
+    "fetched_at": "2026-06-08T13:30:18",
     "is_trading_day": true,
-    "source": "chinese_calendar_workday_fallback"
+    "source": "eastmoney_sh_index_kline"
   }
 }
