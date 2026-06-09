@@ -87,37 +87,37 @@
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-01": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-02": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-03": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-04": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-05": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-08": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-09": {
-    "fetched_at": "2026-06-09T13:40:42",
+    "fetched_at": "2026-06-09T13:50:34",
     "is_trading_day": true,
     "source": "eastmoney_sh_index_kline"
   }
