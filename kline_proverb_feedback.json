@@ -545,15 +545,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-09",
-          "pct_chg": 4.12,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-09",
-          "pct_chg": 4.35,
+          "pct_chg": 4.47,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +553,15 @@
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-09",
-          "pct_chg": -0.66,
+          "pct_chg": -0.79,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-09",
+          "pct_chg": 4.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +569,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-09",
-          "pct_chg": 8.19,
+          "pct_chg": 8.29,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
