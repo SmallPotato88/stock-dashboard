@@ -542,6 +542,22 @@
       "avg_loss_pct": -1.74,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-09",
+          "pct_chg": 2.61,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
+          "date": "2026-06-09",
+          "pct_chg": -0.26,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605555",
           "name": "德昌股份",
           "date": "2026-06-08",
@@ -604,22 +620,6 @@
           "pct_chg": -3.89,
           "vol_ratio5": 0.7,
           "close_pos": 0.42
-        },
-        {
-          "code": "605268",
-          "name": "王力安防",
-          "date": "2026-06-08",
-          "pct_chg": -2.41,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.41
-        },
-        {
-          "code": "605266",
-          "name": "健之佳",
-          "date": "2026-06-08",
-          "pct_chg": -1.26,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.5
         }
       ]
     }
