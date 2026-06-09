@@ -453,54 +453,6 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-06-09",
-          "pct_chg": -3.74,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-09",
-          "pct_chg": -5.49,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-09",
-          "pct_chg": -0.91,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-09",
-          "pct_chg": 1.71,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-09",
-          "pct_chg": -2.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-09",
-          "pct_chg": -5.31,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-08",
@@ -531,6 +483,54 @@
           "pct_chg": -5.31,
           "vol_ratio5": 0.83,
           "close_pos": 0.32
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
+          "date": "2026-06-08",
+          "pct_chg": -0.91,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.27
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-08",
+          "pct_chg": -3.74,
+          "vol_ratio5": 0.97,
+          "close_pos": 0.39
+        },
+        {
+          "code": "605599",
+          "name": "菜百股份",
+          "date": "2026-06-08",
+          "pct_chg": -2.38,
+          "vol_ratio5": 1.05,
+          "close_pos": 0.28
+        },
+        {
+          "code": "605598",
+          "name": "上海港湾",
+          "date": "2026-06-08",
+          "pct_chg": -6.08,
+          "vol_ratio5": 1.09,
+          "close_pos": 0.11
+        },
+        {
+          "code": "605589",
+          "name": "圣泉集团",
+          "date": "2026-06-08",
+          "pct_chg": -5.75,
+          "vol_ratio5": 0.78,
+          "close_pos": 0.12
+        },
+        {
+          "code": "605588",
+          "name": "冠石科技",
+          "date": "2026-06-08",
+          "pct_chg": -6.05,
+          "vol_ratio5": 0.99,
+          "close_pos": 0.23
         }
       ]
     },
