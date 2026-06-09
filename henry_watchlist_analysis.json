@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-06-09T15:02:01",
-  "skipped": true,
-  "skipped_reason": "当前不是A股连续竞价开盘时段，按规则不做30分钟主动分析；非开盘时间以15:10收盘报告为准。",
-  "items": []
+  "generated_at": "2026-06-09T15:12:37",
+  "trade_date": "2026-06-09",
+  "intraday": false,
+  "realtime_generated_at": null,
+  "watchlist_count": 6,
+  "items": [
+    {
+      "code": "002851",
+      "name": "麦格米特",
+      "added_at": "2026-05-28T09:12:50.087677",
+      "added_reason": "Henry哥指定关注",
+      "priority": 1,
+      "analysis": null
+    },
+    {
+      "code": "002273",
+      "name": "水晶光电",
+      "added_at": "2026-05-28T09:12:50.087756",
+      "added_reason": "Henry哥指定关注",
+      "priority": 1,
+      "analysis": null
+    },
+    {
+      "code": "601021",
+      "name": "春秋航空",
+      "added_at": "2026-06-04T12:54:29",
+      "added_reason": "Henry哥指定关注/从自选股同步",
+      "priority": 1,
+      "analysis": null
+    },
+    {
+      "code": "000933",
+      "name": "神火股份",
+      "added_at": "2026-06-04T12:54:29",
+      "added_reason": "Henry哥指定关注/从自选股同步",
+      "priority": 1,
+      "analysis": null
+    },
+    {
+      "code": "601127",
+      "name": "赛力斯",
+      "added_at": "2026-06-04T12:54:29",
+      "added_reason": "Henry哥指定关注/从自选股同步",
+      "priority": 1,
+      "analysis": null
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "added_at": "2026-06-04T12:54:29",
+      "added_reason": "Henry哥指定关注/从自选股同步",
+      "priority": 1,
+      "analysis": null
+    }
+  ],
+  "text_report": "Henry哥，关注池收盘分析（交易日 2026-06-09，生成 2026-06-09T15:12:37）：\n\n002851 麦格米特：无最新数据，暂不操作。\n\n002273 水晶光电：无最新数据，暂不操作。\n\n601021 春秋航空：无最新数据，暂不操作。\n\n000933 神火股份：无最新数据，暂不操作。\n\n601127 赛力斯：无最新数据，暂不操作。\n\n000988 华工科技：无最新数据，暂不操作。\n\n汇总：可操作 0 / 观察 0 / 不操作 6。\n执行纪律：没有强候选就不强行交易，尤其市场/板块弱时优先等。"
 }
