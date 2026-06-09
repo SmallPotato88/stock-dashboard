@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:01:09",
+  "generated_at": "2026-06-09T12:10:25",
   "status": "watch",
   "decision_guard": "可研究，但交易前必须核对关键行情/资金/公告。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-06-08",
     "latest_indicator_date": "2026-06-08",
     "latest_signal_trade_date": "2026-06-04",
-    "dashboard_generated_at": "2026-06-09T11:50:25",
+    "dashboard_generated_at": "2026-06-09T12:01:10",
     "dashboard_trade_date": "2026-06-04",
     "dashboard_data_date": "2026-06-08",
     "realtime_snapshot_generated_at": "2026-06-09T11:21:08",
@@ -98,19 +98,19 @@
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 40,
+      "latency_ms": 143,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 423,
+      "latency_ms": 184,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 546,
+      "latency_ms": 845,
       "bytes_sampled": 512
     }
   },
@@ -118,7 +118,7 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 546,
+      "latency_ms": 845,
       "bytes_sampled": 512
     },
     "github_repo_head": {
