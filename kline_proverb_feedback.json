@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-09",
-          "pct_chg": 1.23,
+          "pct_chg": 1.62,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-09",
-          "pct_chg": 3.04,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-09",
-          "pct_chg": 6.99,
+          "pct_chg": 2.8,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -562,6 +554,14 @@
           "name": "水晶光电",
           "date": "2026-06-09",
           "pct_chg": 3.42,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-09",
+          "pct_chg": 7.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
