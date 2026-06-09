@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.74,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-09",
-          "pct_chg": 7.02,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-09",
           "pct_chg": 3.51,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-09",
+          "pct_chg": 7.02,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
