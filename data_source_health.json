@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:00:40",
+  "generated_at": "2026-06-09T14:10:53",
   "status": "watch",
   "decision_guard": "可研究，但交易前必须核对关键行情/资金/公告。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-08",
     "latest_indicator_date": "2026-06-08",
     "latest_signal_trade_date": "2026-06-04",
-    "dashboard_generated_at": "2026-06-09T13:50:41",
+    "dashboard_generated_at": "2026-06-09T14:00:41",
     "dashboard_trade_date": "2026-06-04",
     "dashboard_data_date": "2026-06-08",
-    "realtime_snapshot_generated_at": "2026-06-09T13:50:50",
+    "realtime_snapshot_generated_at": "2026-06-09T14:00:50",
     "stock_detail_count": 8,
     "watchlist_count": 6,
     "main_non_st": 3020,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 127,
-      "bytes_sampled": 463
+      "latency_ms": 114,
+      "bytes_sampled": 462
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 34,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 228,
+      "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 217,
+      "latency_ms": 180,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2161,
+      "latency_ms": 1390,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2161,
+      "latency_ms": 1390,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "62dbced3ad79219fa7ed00f358a62db26db85286",
+      "head": "6e3faad7b72b622c37a8f326ff60e6e290a25c28",
       "error": ""
     },
     "gitee_repo_head": {
@@ -165,11 +165,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "tencent_quote,baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
