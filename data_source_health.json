@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:50:42",
+  "generated_at": "2026-06-09T09:01:03",
   "status": "watch",
   "decision_guard": "可研究，但交易前必须核对关键行情/资金/公告。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-06-08",
     "latest_indicator_date": "2026-06-08",
     "latest_signal_trade_date": "2026-06-04",
-    "dashboard_generated_at": "2026-06-08T15:40:48",
+    "dashboard_generated_at": "2026-06-08T15:50:43",
     "dashboard_trade_date": "2026-06-04",
     "dashboard_data_date": "2026-06-08",
     "realtime_snapshot_generated_at": "2026-06-08T14:50:43",
@@ -30,7 +30,7 @@
       "table": "quote_enrichment",
       "rows": 605,
       "latest_fetched_at": "2026-06-04T15:36:48",
-      "age_days": 4,
+      "age_days": 5,
       "status": "warn"
     },
     {
@@ -39,7 +39,7 @@
       "table": "baidu_kline_enrichment",
       "rows": 3,
       "latest_fetched_at": "2026-05-22 16:18:42",
-      "age_days": 17,
+      "age_days": 18,
       "status": "warn"
     },
     {
@@ -48,7 +48,7 @@
       "table": "stock_risk_enrichment",
       "rows": 97,
       "latest_fetched_at": "2026-05-27 06:46:46",
-      "age_days": 12,
+      "age_days": 13,
       "status": "warn"
     },
     {
@@ -57,7 +57,7 @@
       "table": "stock_news_enrichment",
       "rows": 20,
       "latest_fetched_at": "2026-05-27 06:47:08",
-      "age_days": 12,
+      "age_days": 13,
       "status": "warn"
     },
     {
@@ -66,7 +66,7 @@
       "table": "stock_moneyflow_enrichment",
       "rows": 20,
       "latest_fetched_at": "2026-05-27 06:47:09",
-      "age_days": 12,
+      "age_days": 13,
       "status": "warn"
     },
     {
@@ -75,7 +75,7 @@
       "table": "stock_research_enrichment",
       "rows": 20,
       "latest_fetched_at": "2026-05-27 06:47:08",
-      "age_days": 12,
+      "age_days": 13,
       "status": "warn"
     },
     {
@@ -84,7 +84,7 @@
       "table": "market_signal_enrichment",
       "rows": 1,
       "latest_fetched_at": "2026-05-27 06:46:47",
-      "age_days": 12,
+      "age_days": 13,
       "status": "warn"
     }
   ],
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 119,
+      "latency_ms": 132,
       "bytes_sampled": 467
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 142,
+      "latency_ms": 33,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 169,
+      "latency_ms": 346,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2056,
+      "latency_ms": 605,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2056,
+      "latency_ms": 605,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "1d8794059f1248373a23c6653ffed369165c68f5",
+      "head": "d8a6bfab369e8c0fa28fb5918df2f924dcce7d63",
       "error": ""
     },
     "gitee_repo_head": {
