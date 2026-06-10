@@ -1,11 +1,11 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 117282,
+      "sample_count": 117326,
       "avg_next_return_pct": 0.411,
       "win_rate_pct": 47.9,
       "avg_win_pct": 3.589,
-      "avg_loss_pct": -2.511,
+      "avg_loss_pct": -2.51,
       "recent_samples": [
         {
           "code": "605588",
@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 55327,
+      "sample_count": 55345,
       "avg_next_return_pct": 0.052,
       "win_rate_pct": 51.43,
       "avg_win_pct": 3.043,
@@ -179,10 +179,10 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 105198,
+      "sample_count": 105256,
       "avg_next_return_pct": -0.063,
-      "win_rate_pct": 46.11,
-      "avg_win_pct": 1.883,
+      "win_rate_pct": 46.1,
+      "avg_win_pct": 1.882,
       "avg_loss_pct": -1.727,
       "recent_samples": [
         {
@@ -268,9 +268,9 @@
       ]
     },
     "放量滞涨": {
-      "sample_count": 7261,
-      "avg_next_return_pct": 0.032,
-      "win_rate_pct": 43.85,
+      "sample_count": 7267,
+      "avg_next_return_pct": 0.033,
+      "win_rate_pct": 43.87,
       "avg_win_pct": 2.001,
       "avg_loss_pct": -1.505,
       "recent_samples": [
@@ -357,11 +357,11 @@
       ]
     },
     "低位放量": {
-      "sample_count": 100109,
+      "sample_count": 100169,
       "avg_next_return_pct": 0.216,
       "win_rate_pct": 51.84,
-      "avg_win_pct": 2.494,
-      "avg_loss_pct": -2.236,
+      "avg_win_pct": 2.493,
+      "avg_loss_pct": -2.235,
       "recent_samples": [
         {
           "code": "605009",
@@ -446,11 +446,11 @@
       ]
     },
     "上影线长": {
-      "sample_count": 666911,
-      "avg_next_return_pct": 0.011,
+      "sample_count": 667287,
+      "avg_next_return_pct": 0.012,
       "win_rate_pct": 47.94,
-      "avg_win_pct": 2.048,
-      "avg_loss_pct": -1.864,
+      "avg_win_pct": 2.047,
+      "avg_loss_pct": -1.863,
       "recent_samples": [
         {
           "code": "605577",
@@ -535,25 +535,25 @@
       ]
     },
     "下影线长": {
-      "sample_count": 562016,
+      "sample_count": 562290,
       "avg_next_return_pct": -0.027,
-      "win_rate_pct": 45.91,
-      "avg_win_pct": 1.993,
-      "avg_loss_pct": -1.741,
+      "win_rate_pct": 45.9,
+      "avg_win_pct": 1.992,
+      "avg_loss_pct": -1.74,
       "recent_samples": [
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-10",
-          "pct_chg": -4.61,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-10",
-          "pct_chg": -3.8,
+          "pct_chg": -3.88,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-10",
+          "pct_chg": -4.84,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
