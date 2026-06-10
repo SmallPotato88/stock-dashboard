@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-10",
-          "pct_chg": -1.98,
+          "pct_chg": -0.85,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-06-10",
-          "pct_chg": -0.87,
+          "pct_chg": -1.48,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.741,
       "recent_samples": [
         {
-          "code": "000651",
-          "name": "格力电器",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-06-10",
-          "pct_chg": 0.87,
+          "pct_chg": -3.8,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-10",
+          "pct_chg": -3.33,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -0.61,
           "vol_ratio5": 0.67,
           "close_pos": 0.84
-        },
-        {
-          "code": "605567",
-          "name": "春雪食品",
-          "date": "2026-06-09",
-          "pct_chg": -0.11,
-          "vol_ratio5": 0.86,
-          "close_pos": 0.5
         }
       ]
     }
