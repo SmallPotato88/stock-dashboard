@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:40:43",
+  "generated_at": "2026-06-10T10:50:33",
   "status": "watch",
   "decision_guard": "可研究，但交易前必须核对关键行情/资金/公告。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-09",
     "latest_indicator_date": "2026-06-09",
     "latest_signal_trade_date": "2026-06-04",
-    "dashboard_generated_at": "2026-06-10T10:30:44",
+    "dashboard_generated_at": "2026-06-10T10:40:44",
     "dashboard_trade_date": "2026-06-04",
     "dashboard_data_date": "2026-06-09",
-    "realtime_snapshot_generated_at": "2026-06-10T10:30:52",
+    "realtime_snapshot_generated_at": "2026-06-10T10:40:53",
     "stock_detail_count": 8,
     "watchlist_count": 6,
     "main_non_st": 3020,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 119,
+      "latency_ms": 112,
       "bytes_sampled": 464
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 143,
+      "latency_ms": 31,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 174,
+      "latency_ms": 157,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 562,
+      "latency_ms": 1524,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 562,
+      "latency_ms": 1524,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "6b4d2b9f0853b37bacbae1f15118f4c4b1f93fd1",
+      "head": "160403b77a73fea4602510f8564f7678ab0b32a9",
       "error": ""
     },
     "gitee_repo_head": {
