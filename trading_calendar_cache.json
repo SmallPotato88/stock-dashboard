@@ -122,8 +122,9 @@
     "source": "eastmoney_sh_index_kline"
   },
   "2026-06-10": {
-    "fetched_at": "2026-06-10T10:40:38",
+    "error": "CalledProcessError(52, ['curl', '-L', '--max-time', '20', '-s', '-H', 'User-Agent: Mozilla/5.0', '-H', 'Referer: https://quote.eastmoney.com/', 'https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000001&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt=101&fqt=1&beg=20260531&end=20260611'])",
+    "fetched_at": "2026-06-10T10:50:25",
     "is_trading_day": true,
-    "source": "eastmoney_sh_index_kline"
+    "source": "chinese_calendar_workday_fallback"
   }
 }
