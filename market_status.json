@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "is_trading_day": true,
-  "checked_at": "2026-06-10T09:10:05",
+  "is_trading_day": false,
+  "checked_at": "2026-06-10T09:20:06",
   "source": "eastmoney_sh_index_kline"
 }
