@@ -544,46 +544,6 @@
         {
           "code": "002851",
           "name": "麦格米特",
-          "date": "2026-06-10",
-          "pct_chg": 8.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-06-10",
-          "pct_chg": -1.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-10",
-          "pct_chg": 4.47,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-10",
-          "pct_chg": -0.6,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-10",
-          "pct_chg": 4.49,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
           "date": "2026-06-09",
           "pct_chg": 8.58,
           "vol_ratio5": 0.9,
@@ -620,6 +580,46 @@
           "pct_chg": -0.6,
           "vol_ratio5": 1.11,
           "close_pos": 0.59
+        },
+        {
+          "code": "605599",
+          "name": "菜百股份",
+          "date": "2026-06-09",
+          "pct_chg": 0.2,
+          "vol_ratio5": 1.04,
+          "close_pos": 0.5
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "date": "2026-06-09",
+          "pct_chg": -0.2,
+          "vol_ratio5": 0.74,
+          "close_pos": 0.42
+        },
+        {
+          "code": "605580",
+          "name": "恒盛能源",
+          "date": "2026-06-09",
+          "pct_chg": -0.61,
+          "vol_ratio5": 0.67,
+          "close_pos": 0.84
+        },
+        {
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-06-09",
+          "pct_chg": -0.11,
+          "vol_ratio5": 0.86,
+          "close_pos": 0.5
+        },
+        {
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-06-09",
+          "pct_chg": -1.09,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.76
         }
       ]
     }
