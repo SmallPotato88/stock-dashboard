@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-10",
-          "pct_chg": -1.75,
+          "pct_chg": -0.67,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-06-10",
-          "pct_chg": -0.54,
+          "pct_chg": -1.75,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "000651",
           "name": "格力电器",
           "date": "2026-06-10",
-          "pct_chg": 0.11,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-10",
-          "pct_chg": -7.47,
+          "pct_chg": 0.61,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -0.61,
           "vol_ratio5": 0.67,
           "close_pos": 0.84
+        },
+        {
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-06-09",
+          "pct_chg": -0.11,
+          "vol_ratio5": 0.86,
+          "close_pos": 0.5
         }
       ]
     }
