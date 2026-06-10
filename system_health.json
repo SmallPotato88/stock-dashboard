@@ -1,80 +1,144 @@
 {
-  "generated_at": "2026-06-10T14:41:49",
+  "generated_at": "2026-06-10T15:20:09",
   "latest_bar_date": "2026-06-09",
   "latest_indicator_date": "2026-06-09",
   "data_age_days": 1,
-  "main_non_st": 3020,
+  "main_non_st": 3083,
   "main_non_st_latest_bar": 3016,
   "main_non_st_latest_indicator": 3016,
-  "main_non_st_indicator_coverage_pct": 99.87,
+  "main_non_st_indicator_coverage_pct": 97.83,
+  "effective_main_non_st": 3016,
+  "effective_main_non_st_latest_indicator": 3016,
+  "effective_indicator_coverage_pct": 100.0,
+  "explainable_missing_latest": 67,
   "stale_main_non_st_sample": [
     {
-      "code": "603056",
-      "name": "德邦股份",
-      "max_date": "2026-01-20",
-      "bars": 640
+      "code": "000003",
+      "name": "PT金田A",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "001331",
-      "name": "胜通能源",
-      "max_date": "2026-05-27",
-      "bars": 644
+      "code": "000015",
+      "name": "PT中浩A",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "002160",
-      "name": "常铝股份",
-      "max_date": "2026-06-08",
-      "bars": 652
+      "code": "000024",
+      "name": "招商地产",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "600717",
-      "name": "天津港",
-      "max_date": "2026-06-08",
-      "bars": 652
+      "code": "000406",
+      "name": "石油大明",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "000651",
-      "name": "格力电器",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000418",
+      "name": "小天鹅A",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "000933",
-      "name": "神火股份",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000508",
+      "name": "琼民源A",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "000988",
-      "name": "华工科技",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000515",
+      "name": "攀渝钛业",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "002273",
-      "name": "水晶光电",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000522",
+      "name": "白云山A",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "002851",
-      "name": "麦格米特",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000527",
+      "name": "美的电器",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "601021",
-      "name": "春秋航空",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000542",
+      "name": "TCL通讯",
+      "max_date": null,
+      "bars": 0
     },
     {
-      "code": "601127",
-      "name": "赛力斯",
-      "max_date": "2026-06-10",
-      "bars": 654
+      "code": "000549",
+      "name": "S湘火炬",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000556",
+      "name": "PT南洋",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000562",
+      "name": "宏源证券",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000569",
+      "name": "长城股份",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000578",
+      "name": "盐湖集团",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000588",
+      "name": "PT粤金曼",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000602",
+      "name": "金马集团",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000618",
+      "name": "吉林化工",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000666",
+      "name": "经纬纺机",
+      "max_date": null,
+      "bars": 0
+    },
+    {
+      "code": "000748",
+      "name": "长城信息",
+      "max_date": null,
+      "bars": 0
     }
   ],
-  "alerts": [],
-  "status": "ok"
+  "alerts": [
+    {
+      "level": "P2",
+      "item": "主板非ST原始覆盖率低于99%",
+      "detail": "97.83%；有效应采覆盖率100.0%，可解释缺失67只"
+    }
+  ],
+  "status": "warn"
 }
