@@ -456,7 +456,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-10",
-          "pct_chg": -0.54,
+          "pct_chg": -0.65,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-10",
+          "pct_chg": -1.56,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -0.22,
           "vol_ratio5": 0.75,
           "close_pos": 0.57
-        },
-        {
-          "code": "605305",
-          "name": "中际联合",
-          "date": "2026-06-09",
-          "pct_chg": 0.48,
-          "vol_ratio5": 0.78,
-          "close_pos": 0.28
         }
       ]
     },
