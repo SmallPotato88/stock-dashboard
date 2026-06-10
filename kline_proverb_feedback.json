@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-10",
-          "pct_chg": -1.44,
+          "pct_chg": -0.62,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000651",
-          "name": "格力电器",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-06-10",
-          "pct_chg": -0.05,
+          "pct_chg": -1.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-10",
-          "pct_chg": -2.74,
+          "pct_chg": -2.91,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-06-10",
-          "pct_chg": -2.89,
+          "pct_chg": -7.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,23 +561,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-10",
-          "pct_chg": -1.79,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000651",
-          "name": "格力电器",
-          "date": "2026-06-10",
-          "pct_chg": -0.05,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-10",
-          "pct_chg": 0.0,
+          "pct_chg": -1.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": -0.6,
           "vol_ratio5": 1.11,
           "close_pos": 0.59
+        },
+        {
+          "code": "605599",
+          "name": "菜百股份",
+          "date": "2026-06-09",
+          "pct_chg": 0.2,
+          "vol_ratio5": 1.04,
+          "close_pos": 0.5
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "date": "2026-06-09",
+          "pct_chg": -0.2,
+          "vol_ratio5": 0.74,
+          "close_pos": 0.42
         }
       ]
     }
