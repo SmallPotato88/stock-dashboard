@@ -332,7 +332,7 @@
         },
         {
           "code": "603165",
-          "name": "XD荣晟环",
+          "name": "荣晟环保",
           "date": "2026-06-08",
           "pct_chg": 0.71,
           "vol_ratio5": 1.43,
@@ -526,7 +526,7 @@
         },
         {
           "code": "605319",
-          "name": "无锡振华",
+          "name": "XD无锡振",
           "date": "2026-06-09",
           "pct_chg": -0.71,
           "vol_ratio5": 0.74,
@@ -535,12 +535,52 @@
       ]
     },
     "下影线长": {
-      "sample_count": 562011,
+      "sample_count": 562016,
       "avg_next_return_pct": -0.027,
       "win_rate_pct": 45.91,
       "avg_win_pct": 1.993,
       "avg_loss_pct": -1.741,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-10",
+          "pct_chg": 8.58,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-10",
+          "pct_chg": -1.72,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-10",
+          "pct_chg": 4.47,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000651",
+          "name": "格力电器",
+          "date": "2026-06-10",
+          "pct_chg": -0.6,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-10",
+          "pct_chg": 4.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -580,46 +620,6 @@
           "pct_chg": -0.6,
           "vol_ratio5": 1.11,
           "close_pos": 0.59
-        },
-        {
-          "code": "605599",
-          "name": "菜百股份",
-          "date": "2026-06-09",
-          "pct_chg": 0.2,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.5
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-06-09",
-          "pct_chg": -0.2,
-          "vol_ratio5": 0.74,
-          "close_pos": 0.42
-        },
-        {
-          "code": "605580",
-          "name": "恒盛能源",
-          "date": "2026-06-09",
-          "pct_chg": -0.61,
-          "vol_ratio5": 0.67,
-          "close_pos": 0.84
-        },
-        {
-          "code": "605567",
-          "name": "春雪食品",
-          "date": "2026-06-09",
-          "pct_chg": -0.11,
-          "vol_ratio5": 0.86,
-          "close_pos": 0.5
-        },
-        {
-          "code": "605566",
-          "name": "福莱蒽特",
-          "date": "2026-06-09",
-          "pct_chg": -1.09,
-          "vol_ratio5": 0.79,
-          "close_pos": 0.76
         }
       ]
     }
