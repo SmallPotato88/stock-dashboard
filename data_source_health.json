@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T13:10:32",
+  "generated_at": "2026-06-11T13:20:33",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-10",
     "latest_indicator_date": "2026-06-10",
     "latest_signal_trade_date": "2026-06-10",
-    "dashboard_generated_at": "2026-06-11T13:01:04",
+    "dashboard_generated_at": "2026-06-11T13:10:33",
     "dashboard_trade_date": "2026-06-10",
     "dashboard_data_date": "2026-06-10",
-    "realtime_snapshot_generated_at": "2026-06-11T13:01:13",
+    "realtime_snapshot_generated_at": "2026-06-11T13:10:42",
     "stock_detail_count": 95,
     "watchlist_count": 6,
     "main_non_st": 3084,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-06-11T13:05:06",
+      "latest_fetched_at": "2026-06-11T13:15:07",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 124,
+      "latency_ms": 112,
       "bytes_sampled": 464
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 132,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 241,
+      "bytes_sampled": 117
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 187,
+      "latency_ms": 275,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1802,
+      "latency_ms": 2240,
       "bytes_sampled": 512
     }
   },
@@ -118,7 +118,7 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1802,
+      "latency_ms": 2240,
       "bytes_sampled": 512
     },
     "github_repo_head": {
@@ -170,11 +170,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
