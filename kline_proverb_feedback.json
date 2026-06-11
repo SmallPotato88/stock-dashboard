@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-11",
-          "pct_chg": 0.66,
+          "pct_chg": -2.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,23 +464,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-11",
-          "pct_chg": -0.27,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-11",
-          "pct_chg": -2.64,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-11",
-          "pct_chg": -2.16,
+          "pct_chg": -0.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": 1.32,
           "vol_ratio5": 0.87,
           "close_pos": 0.44
+        },
+        {
+          "code": "605338",
+          "name": "巴比食品",
+          "date": "2026-06-10",
+          "pct_chg": -1.11,
+          "vol_ratio5": 0.62,
+          "close_pos": 0.12
+        },
+        {
+          "code": "605337",
+          "name": "李子园",
+          "date": "2026-06-10",
+          "pct_chg": -0.76,
+          "vol_ratio5": 0.96,
+          "close_pos": 0.52
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 1.993,
       "avg_loss_pct": -1.743,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-11",
+          "pct_chg": -1.5,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -612,14 +620,6 @@
           "pct_chg": 0.62,
           "vol_ratio5": 0.81,
           "close_pos": 0.58
-        },
-        {
-          "code": "605369",
-          "name": "拱东医疗",
-          "date": "2026-06-10",
-          "pct_chg": -1.16,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.62
         }
       ]
     }
