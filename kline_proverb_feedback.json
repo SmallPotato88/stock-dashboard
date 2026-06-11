@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.864,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-06-11",
-          "pct_chg": -2.39,
+          "pct_chg": 0.52,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-06-11",
-          "pct_chg": 0.41,
+          "pct_chg": -2.61,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,14 +542,6 @@
       "avg_loss_pct": -1.743,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-11",
-          "pct_chg": -2.39,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-10",
@@ -620,6 +612,14 @@
           "pct_chg": 0.62,
           "vol_ratio5": 0.81,
           "close_pos": 0.58
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-06-10",
+          "pct_chg": -1.16,
+          "vol_ratio5": 1.07,
+          "close_pos": 0.62
         }
       ]
     }
