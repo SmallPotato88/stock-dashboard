@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 105791,
+      "sample_count": 105792,
       "avg_next_return_pct": -0.065,
       "win_rate_pct": 46.07,
       "avg_win_pct": 1.883,
@@ -219,7 +219,7 @@
         },
         {
           "code": "605167",
-          "name": "XD利柏特",
+          "name": "利柏特",
           "date": "2026-06-10",
           "pct_chg": -1.72,
           "vol_ratio5": 0.76,
@@ -535,12 +535,20 @@
       ]
     },
     "下影线长": {
-      "sample_count": 566040,
+      "sample_count": 566041,
       "avg_next_return_pct": -0.031,
       "win_rate_pct": 45.83,
       "avg_win_pct": 1.993,
       "avg_loss_pct": -1.743,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-11",
+          "pct_chg": -4.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -612,14 +620,6 @@
           "pct_chg": 0.62,
           "vol_ratio5": 0.81,
           "close_pos": 0.58
-        },
-        {
-          "code": "605369",
-          "name": "拱东医疗",
-          "date": "2026-06-10",
-          "pct_chg": -1.16,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.62
         }
       ]
     }
