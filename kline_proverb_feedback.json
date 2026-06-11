@@ -456,7 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-11",
-          "pct_chg": 0.58,
+          "pct_chg": -0.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-11",
-          "pct_chg": -2.48,
+          "pct_chg": -2.7,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-11",
-          "pct_chg": -1.6,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-06-11",
-          "pct_chg": -2.48,
+          "pct_chg": -1.79,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -0.14,
           "vol_ratio5": 1.19,
           "close_pos": 0.85
+        },
+        {
+          "code": "605377",
+          "name": "华旺科技",
+          "date": "2026-06-10",
+          "pct_chg": 0.62,
+          "vol_ratio5": 0.81,
+          "close_pos": 0.58
         }
       ]
     }
