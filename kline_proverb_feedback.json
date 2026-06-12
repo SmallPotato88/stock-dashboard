@@ -284,7 +284,7 @@
         },
         {
           "code": "605266",
-          "name": "健之佳",
+          "name": "XD健之佳",
           "date": "2026-06-11",
           "pct_chg": 0.05,
           "vol_ratio5": 1.45,
@@ -300,7 +300,7 @@
         },
         {
           "code": "603530",
-          "name": "XD神马电",
+          "name": "神马电力",
           "date": "2026-06-11",
           "pct_chg": -0.29,
           "vol_ratio5": 1.36,
@@ -446,15 +446,31 @@
       ]
     },
     "上影线长": {
-      "sample_count": 671420,
+      "sample_count": 671422,
       "avg_next_return_pct": 0.009,
       "win_rate_pct": 47.88,
       "avg_win_pct": 2.049,
       "avg_loss_pct": -1.866,
       "recent_samples": [
         {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-12",
+          "pct_chg": -2.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-12",
+          "pct_chg": 1.01,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605589",
-          "name": "圣泉集团",
+          "name": "XD圣泉集",
           "date": "2026-06-11",
           "pct_chg": 1.5,
           "vol_ratio5": 2.55,
@@ -486,7 +502,7 @@
         },
         {
           "code": "605488",
-          "name": "福莱新材",
+          "name": "XD福莱新",
           "date": "2026-06-11",
           "pct_chg": -4.03,
           "vol_ratio5": 0.66,
@@ -515,32 +531,32 @@
           "pct_chg": -1.28,
           "vol_ratio5": 0.58,
           "close_pos": 0.2
-        },
-        {
-          "code": "605358",
-          "name": "立昂微",
-          "date": "2026-06-11",
-          "pct_chg": -3.17,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.4
-        },
-        {
-          "code": "605289",
-          "name": "罗曼股份",
-          "date": "2026-06-11",
-          "pct_chg": -0.38,
-          "vol_ratio5": 0.79,
-          "close_pos": 0.51
         }
       ]
     },
     "下影线长": {
-      "sample_count": 567428,
+      "sample_count": 567430,
       "avg_next_return_pct": -0.033,
       "win_rate_pct": 45.78,
       "avg_win_pct": 1.994,
       "avg_loss_pct": -1.744,
       "recent_samples": [
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-12",
+          "pct_chg": -2.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-12",
+          "pct_chg": -1.7,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -551,7 +567,7 @@
         },
         {
           "code": "605599",
-          "name": "XD菜百股",
+          "name": "菜百股份",
           "date": "2026-06-11",
           "pct_chg": -0.75,
           "vol_ratio5": 1.08,
@@ -559,7 +575,7 @@
         },
         {
           "code": "605589",
-          "name": "圣泉集团",
+          "name": "XD圣泉集",
           "date": "2026-06-11",
           "pct_chg": 1.5,
           "vol_ratio5": 2.55,
@@ -604,22 +620,6 @@
           "pct_chg": -0.37,
           "vol_ratio5": 1.54,
           "close_pos": 0.85
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-06-11",
-          "pct_chg": -2.22,
-          "vol_ratio5": 0.82,
-          "close_pos": 0.37
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-06-11",
-          "pct_chg": -0.84,
-          "vol_ratio5": 0.69,
-          "close_pos": 0.63
         }
       ]
     }
