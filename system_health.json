@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-12T15:20:07",
-  "latest_bar_date": "2026-06-11",
-  "latest_indicator_date": "2026-06-11",
-  "data_age_days": 1,
+  "generated_at": "2026-06-12T15:30:37",
+  "latest_bar_date": "2026-06-12",
+  "latest_indicator_date": "2026-06-12",
+  "data_age_days": 0,
   "main_non_st": 3087,
-  "main_non_st_latest_bar": 3017,
-  "main_non_st_latest_indicator": 3017,
-  "main_non_st_indicator_coverage_pct": 97.73,
-  "effective_main_non_st": 3017,
-  "effective_main_non_st_latest_indicator": 3017,
+  "main_non_st_latest_bar": 3019,
+  "main_non_st_latest_indicator": 3019,
+  "main_non_st_indicator_coverage_pct": 97.8,
+  "effective_main_non_st": 3019,
+  "effective_main_non_st_latest_indicator": 3019,
   "effective_indicator_coverage_pct": 100.0,
-  "explainable_missing_latest": 70,
+  "explainable_missing_latest": 68,
   "stale_main_non_st_sample": [
     {
       "code": "000003",
@@ -39,12 +39,6 @@
     {
       "code": "000418",
       "name": "小天鹅A",
-      "max_date": null,
-      "bars": 0
-    },
-    {
-      "code": "000504",
-      "name": "南华生物",
       "max_date": null,
       "bars": 0
     },
@@ -131,13 +125,19 @@
       "name": "长城信息",
       "max_date": null,
       "bars": 0
+    },
+    {
+      "code": "000763",
+      "name": "锦州石化",
+      "max_date": null,
+      "bars": 0
     }
   ],
   "alerts": [
     {
       "level": "P2",
       "item": "主板非ST原始覆盖率低于99%",
-      "detail": "97.73%；有效应采覆盖率100.0%，可解释缺失70只"
+      "detail": "97.8%；有效应采覆盖率100.0%，可解释缺失68只"
     }
   ],
   "status": "warn"
