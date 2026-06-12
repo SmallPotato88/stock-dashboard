@@ -542,10 +542,26 @@
       "avg_loss_pct": -1.744,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-06-12",
-          "pct_chg": 1.64,
+          "pct_chg": 2.26,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-12",
+          "pct_chg": 0.37,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-12",
+          "pct_chg": 2.36,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -604,22 +620,6 @@
           "pct_chg": 0.15,
           "vol_ratio5": 0.8,
           "close_pos": 0.64
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-06-11",
-          "pct_chg": -0.37,
-          "vol_ratio5": 1.54,
-          "close_pos": 0.85
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-06-11",
-          "pct_chg": -2.22,
-          "vol_ratio5": 0.82,
-          "close_pos": 0.37
         }
       ]
     }
