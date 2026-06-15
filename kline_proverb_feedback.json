@@ -455,14 +455,6 @@
         {
           "code": "000933",
           "name": "神火股份",
-          "date": "2026-06-15",
-          "pct_chg": 2.02,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
           "date": "2026-06-12",
           "pct_chg": 2.02,
           "vol_ratio5": 1.35,
@@ -531,6 +523,14 @@
           "pct_chg": 0.99,
           "vol_ratio5": 1.09,
           "close_pos": 0.15
+        },
+        {
+          "code": "605488",
+          "name": "福莱新材",
+          "date": "2026-06-12",
+          "pct_chg": 0.56,
+          "vol_ratio5": 0.65,
+          "close_pos": 0.03
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 1.996,
       "avg_loss_pct": -1.745,
       "recent_samples": [
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-15",
-          "pct_chg": 1.42,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -620,6 +612,14 @@
           "pct_chg": 2.38,
           "vol_ratio5": 1.35,
           "close_pos": 0.46
+        },
+        {
+          "code": "605299",
+          "name": "舒华体育",
+          "date": "2026-06-12",
+          "pct_chg": -0.07,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.63
         }
       ]
     }
