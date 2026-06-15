@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.867,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-15",
+          "pct_chg": 3.18,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-15",
-          "pct_chg": 0.04,
+          "pct_chg": -0.8,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -0.96,
           "vol_ratio5": 1.27,
           "close_pos": 0.47
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-06-12",
-          "pct_chg": 0.99,
-          "vol_ratio5": 1.09,
-          "close_pos": 0.15
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-15",
-          "pct_chg": 2.62,
+          "pct_chg": 3.25,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
