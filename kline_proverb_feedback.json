@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 118172,
+      "sample_count": 118173,
       "avg_next_return_pct": 0.41,
       "win_rate_pct": 47.89,
       "avg_win_pct": 3.589,
@@ -98,7 +98,7 @@
       "recent_samples": [
         {
           "code": "605589",
-          "name": "XD圣泉集",
+          "name": "圣泉集团",
           "date": "2026-06-12",
           "pct_chg": -3.36,
           "vol_ratio5": 1.71,
@@ -373,7 +373,7 @@
         },
         {
           "code": "605589",
-          "name": "XD圣泉集",
+          "name": "圣泉集团",
           "date": "2026-06-12",
           "pct_chg": -3.36,
           "vol_ratio5": 1.71,
@@ -421,7 +421,7 @@
         },
         {
           "code": "603936",
-          "name": "博敏电子",
+          "name": "XD博敏电",
           "date": "2026-06-12",
           "pct_chg": -1.31,
           "vol_ratio5": 1.63,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 672839,
+      "sample_count": 672840,
       "avg_next_return_pct": 0.01,
       "win_rate_pct": 47.92,
       "avg_win_pct": 2.051,
       "avg_loss_pct": -1.867,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-15",
+          "pct_chg": 2.02,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000933",
           "name": "神火股份",
@@ -470,7 +478,7 @@
         },
         {
           "code": "605589",
-          "name": "XD圣泉集",
+          "name": "圣泉集团",
           "date": "2026-06-12",
           "pct_chg": -3.36,
           "vol_ratio5": 1.71,
@@ -523,24 +531,24 @@
           "pct_chg": 0.99,
           "vol_ratio5": 1.09,
           "close_pos": 0.15
-        },
-        {
-          "code": "605488",
-          "name": "XD福莱新",
-          "date": "2026-06-12",
-          "pct_chg": 0.56,
-          "vol_ratio5": 0.65,
-          "close_pos": 0.03
         }
       ]
     },
     "下影线长": {
-      "sample_count": 568964,
+      "sample_count": 568965,
       "avg_next_return_pct": -0.029,
       "win_rate_pct": 45.86,
       "avg_win_pct": 1.996,
       "avg_loss_pct": -1.745,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-15",
+          "pct_chg": 1.42,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -612,14 +620,6 @@
           "pct_chg": 2.38,
           "vol_ratio5": 1.35,
           "close_pos": 0.46
-        },
-        {
-          "code": "605299",
-          "name": "舒华体育",
-          "date": "2026-06-12",
-          "pct_chg": -0.07,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.63
         }
       ]
     }
