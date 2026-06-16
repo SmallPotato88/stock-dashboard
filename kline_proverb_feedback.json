@@ -361,7 +361,7 @@
       "avg_next_return_pct": 0.214,
       "win_rate_pct": 51.81,
       "avg_win_pct": 2.501,
-      "avg_loss_pct": -2.243,
+      "avg_loss_pct": -2.244,
       "recent_samples": [
         {
           "code": "000933",
@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.868,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-16",
+          "pct_chg": 3.89,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-16",
-          "pct_chg": 0.6,
+          "pct_chg": 0.44,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 2.65,
           "vol_ratio5": 1.06,
           "close_pos": 0.62
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-06-15",
-          "pct_chg": 1.31,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.52
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-16",
-          "pct_chg": 0.56,
+          "pct_chg": 0.4,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
