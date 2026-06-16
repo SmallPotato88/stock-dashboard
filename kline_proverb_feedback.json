@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.868,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-06-16",
-          "pct_chg": 3.6,
+          "pct_chg": 0.69,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,15 +464,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-16",
-          "pct_chg": 1.82,
+          "pct_chg": 1.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-06-16",
-          "pct_chg": 0.65,
+          "pct_chg": 3.8,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
