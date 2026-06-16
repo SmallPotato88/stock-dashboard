@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 118690,
+      "sample_count": 118693,
       "avg_next_return_pct": 0.415,
       "win_rate_pct": 47.97,
       "avg_win_pct": 3.589,
@@ -49,7 +49,7 @@
         },
         {
           "code": "605339",
-          "name": "南侨食品",
+          "name": "XD南侨食",
           "date": "2026-06-15",
           "pct_chg": 5.54,
           "vol_ratio5": 1.91,
@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 55368,
+      "sample_count": 55369,
       "avg_next_return_pct": 0.036,
       "win_rate_pct": 51.25,
       "avg_win_pct": 3.051,
@@ -170,7 +170,7 @@
         },
         {
           "code": "603569",
-          "name": "XD长久物",
+          "name": "长久物流",
           "date": "2026-06-15",
           "pct_chg": -4.07,
           "vol_ratio5": 1.3,
@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 101167,
+      "sample_count": 101168,
       "avg_next_return_pct": 0.215,
       "win_rate_pct": 51.81,
       "avg_win_pct": 2.501,
@@ -446,12 +446,28 @@
       ]
     },
     "上影线长": {
-      "sample_count": 674370,
+      "sample_count": 674372,
       "avg_next_return_pct": 0.013,
       "win_rate_pct": 47.96,
       "avg_win_pct": 2.055,
       "avg_loss_pct": -1.868,
       "recent_samples": [
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-16",
+          "pct_chg": 6.28,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-16",
+          "pct_chg": -0.68,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -515,32 +531,24 @@
           "pct_chg": 2.65,
           "vol_ratio5": 1.06,
           "close_pos": 0.62
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-06-15",
-          "pct_chg": 1.31,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.52
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-06-15",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.03,
-          "close_pos": 0.33
         }
       ]
     },
     "下影线长": {
-      "sample_count": 570327,
+      "sample_count": 570328,
       "avg_next_return_pct": -0.028,
       "win_rate_pct": 45.88,
       "avg_win_pct": 1.997,
       "avg_loss_pct": -1.745,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-16",
+          "pct_chg": 6.6,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000988",
           "name": "华工科技",
@@ -612,14 +620,6 @@
           "pct_chg": 3.22,
           "vol_ratio5": 0.91,
           "close_pos": 0.87
-        },
-        {
-          "code": "605286",
-          "name": "同力天启",
-          "date": "2026-06-15",
-          "pct_chg": 0.61,
-          "vol_ratio5": 1.01,
-          "close_pos": 0.74
         }
       ]
     }
