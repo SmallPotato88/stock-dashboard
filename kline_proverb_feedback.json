@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.868,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-16",
+          "pct_chg": -0.04,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-15",
@@ -523,14 +531,6 @@
           "pct_chg": 1.31,
           "vol_ratio5": 0.92,
           "close_pos": 0.52
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-06-15",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.03,
-          "close_pos": 0.33
         }
       ]
     },
@@ -553,7 +553,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-16",
-          "pct_chg": 0.4,
+          "pct_chg": -0.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
