@@ -455,22 +455,6 @@
         {
           "code": "601021",
           "name": "春秋航空",
-          "date": "2026-06-16",
-          "pct_chg": 6.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-16",
-          "pct_chg": -0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
           "date": "2026-06-15",
           "pct_chg": 6.28,
           "vol_ratio5": 2.18,
@@ -531,6 +515,22 @@
           "pct_chg": 2.65,
           "vol_ratio5": 1.06,
           "close_pos": 0.62
+        },
+        {
+          "code": "605500",
+          "name": "森林包装",
+          "date": "2026-06-15",
+          "pct_chg": 1.31,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.52
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-06-15",
+          "pct_chg": 0.0,
+          "vol_ratio5": 1.03,
+          "close_pos": 0.33
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 1.997,
       "avg_loss_pct": -1.745,
       "recent_samples": [
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-06-16",
-          "pct_chg": 6.6,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "000988",
           "name": "华工科技",
@@ -620,6 +612,14 @@
           "pct_chg": 3.22,
           "vol_ratio5": 0.91,
           "close_pos": 0.87
+        },
+        {
+          "code": "605286",
+          "name": "同力天启",
+          "date": "2026-06-15",
+          "pct_chg": 0.61,
+          "vol_ratio5": 1.01,
+          "close_pos": 0.74
         }
       ]
     }
