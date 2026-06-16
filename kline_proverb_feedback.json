@@ -456,7 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-16",
-          "pct_chg": -0.86,
+          "pct_chg": -0.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-16",
-          "pct_chg": 0.81,
+          "pct_chg": 0.82,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.745,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-16",
+          "pct_chg": -0.01,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-16",
-          "pct_chg": -3.56,
+          "pct_chg": -3.52,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": 1.08,
           "vol_ratio5": 0.74,
           "close_pos": 0.96
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-06-15",
-          "pct_chg": 3.22,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.87
         }
       ]
     }
