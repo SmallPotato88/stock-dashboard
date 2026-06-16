@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.868,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-16",
+          "pct_chg": -0.86,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-16",
-          "pct_chg": 0.7,
+          "pct_chg": 0.81,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 2.65,
           "vol_ratio5": 1.06,
           "close_pos": 0.62
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-06-15",
-          "pct_chg": 1.31,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.52
         }
       ]
     },
@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.745,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-06-16",
-          "pct_chg": 0.35,
+          "pct_chg": -3.56,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
