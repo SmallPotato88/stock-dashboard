@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-17T14:30:54",
-  "latest_bar_date": "2026-06-16",
-  "latest_indicator_date": "2026-06-16",
-  "data_age_days": 1,
+  "generated_at": "2026-06-17T15:40:54",
+  "latest_bar_date": "2026-06-17",
+  "latest_indicator_date": "2026-06-17",
+  "data_age_days": 0,
   "main_non_st": 3092,
-  "main_non_st_latest_bar": 3023,
-  "main_non_st_latest_indicator": 3023,
-  "main_non_st_indicator_coverage_pct": 97.77,
-  "effective_main_non_st": 3023,
-  "effective_main_non_st_latest_indicator": 3023,
+  "main_non_st_latest_bar": 3021,
+  "main_non_st_latest_indicator": 3021,
+  "main_non_st_indicator_coverage_pct": 97.7,
+  "effective_main_non_st": 3021,
+  "effective_main_non_st_latest_indicator": 3021,
   "effective_indicator_coverage_pct": 100.0,
-  "explainable_missing_latest": 69,
+  "explainable_missing_latest": 71,
   "stale_main_non_st_sample": [
     {
       "code": "000003",
@@ -137,7 +137,7 @@
     {
       "level": "P2",
       "item": "主板非ST原始覆盖率低于99%",
-      "detail": "97.77%；有效应采覆盖率100.0%，可解释缺失69只"
+      "detail": "97.7%；有效应采覆盖率100.0%，可解释缺失71只"
     }
   ],
   "status": "warn"
