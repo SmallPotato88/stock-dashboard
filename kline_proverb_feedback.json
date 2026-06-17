@@ -92,7 +92,7 @@
     "长阴放量": {
       "sample_count": 55481,
       "avg_next_return_pct": 0.034,
-      "win_rate_pct": 51.21,
+      "win_rate_pct": 51.22,
       "avg_win_pct": 3.054,
       "avg_loss_pct": -3.136,
       "recent_samples": [
@@ -456,7 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-17",
-          "pct_chg": 1.17,
+          "pct_chg": 0.72,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-17",
-          "pct_chg": -0.2,
+          "pct_chg": 0.16,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
