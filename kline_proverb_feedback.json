@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.868,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-06-17",
+          "pct_chg": 1.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-17",
-          "pct_chg": -0.78,
+          "pct_chg": -1.51,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -1.45,
           "vol_ratio5": 0.92,
           "close_pos": 0.22
-        },
-        {
-          "code": "605288",
-          "name": "凯迪股份",
-          "date": "2026-06-16",
-          "pct_chg": 4.76,
-          "vol_ratio5": 1.33,
-          "close_pos": 0.62
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 1.999,
       "avg_loss_pct": -1.746,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-17",
+          "pct_chg": -0.48,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -612,14 +620,6 @@
           "pct_chg": -1.29,
           "vol_ratio5": 0.83,
           "close_pos": 0.58
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-06-16",
-          "pct_chg": 0.13,
-          "vol_ratio5": 0.57,
-          "close_pos": 0.89
         }
       ]
     }
