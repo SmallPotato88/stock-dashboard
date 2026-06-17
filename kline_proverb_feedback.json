@@ -456,7 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-17",
-          "pct_chg": 0.14,
+          "pct_chg": -0.08,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-17",
-          "pct_chg": 1.0,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-06-17",
-          "pct_chg": -0.64,
+          "pct_chg": 0.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 3.32,
           "vol_ratio5": 1.35,
           "close_pos": 0.8
+        },
+        {
+          "code": "605488",
+          "name": "福莱新材",
+          "date": "2026-06-16",
+          "pct_chg": -1.29,
+          "vol_ratio5": 0.83,
+          "close_pos": 0.58
         }
       ]
     }
