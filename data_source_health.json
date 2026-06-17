@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T14:00:58",
+  "generated_at": "2026-06-17T14:10:57",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-16",
     "latest_indicator_date": "2026-06-16",
     "latest_signal_trade_date": "2026-06-15",
-    "dashboard_generated_at": "2026-06-17T13:51:05",
+    "dashboard_generated_at": "2026-06-17T14:00:59",
     "dashboard_trade_date": "2026-06-15",
     "dashboard_data_date": "2026-06-16",
-    "realtime_snapshot_generated_at": "2026-06-17T13:51:14",
+    "realtime_snapshot_generated_at": "2026-06-17T14:01:13",
     "stock_detail_count": 114,
     "watchlist_count": 6,
     "main_non_st": 3092,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-06-17T13:55:18",
+      "latest_fetched_at": "2026-06-17T14:05:18",
       "age_days": 0,
       "status": "ok"
     },
@@ -93,24 +93,24 @@
       "ok": true,
       "status": 200,
       "latency_ms": 115,
-      "bytes_sampled": 461
+      "bytes_sampled": 463
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 327,
+      "latency_ms": 237,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 203,
+      "latency_ms": 139,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1724,
+      "latency_ms": 1326,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1724,
+      "latency_ms": 1326,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "59fa6b30f3a8b9003adf876bb70cedaabbe7cc1e",
+      "head": "598001efa0c78d6e6c0514c2bd49e79b383e2782",
       "error": ""
     },
     "gitee_repo_head": {
