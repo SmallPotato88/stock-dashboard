@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T13:11:05",
+  "generated_at": "2026-06-17T13:21:15",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-06-16",
     "latest_indicator_date": "2026-06-16",
     "latest_signal_trade_date": "2026-06-15",
-    "dashboard_generated_at": "2026-06-17T13:01:17",
+    "dashboard_generated_at": "2026-06-17T13:11:06",
     "dashboard_trade_date": "2026-06-15",
     "dashboard_data_date": "2026-06-16",
-    "realtime_snapshot_generated_at": "2026-06-17T13:01:26",
+    "realtime_snapshot_generated_at": "2026-06-17T13:11:15",
     "stock_detail_count": 114,
     "watchlist_count": 6,
     "main_non_st": 3092,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-06-17T13:05:18",
+      "latest_fetched_at": "2026-06-17T13:15:18",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 136,
-      "bytes_sampled": 463
+      "latency_ms": 123,
+      "bytes_sampled": 460
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 132,
+      "latency_ms": 36,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 212,
+      "latency_ms": 177,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 8956,
+      "latency_ms": 710,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 8956,
+      "latency_ms": 710,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "70f71832304a0ef129a73f8d49fa4247291a52d1",
-      "error": ""
+      "head": null,
+      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
     },
     "gitee_repo_head": {
       "ok": true,
