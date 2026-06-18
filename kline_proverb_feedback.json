@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.869,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-06-18",
+          "pct_chg": -1.24,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-06-17",
@@ -523,14 +531,6 @@
           "pct_chg": -0.88,
           "vol_ratio5": 0.55,
           "close_pos": 0.05
-        },
-        {
-          "code": "605287",
-          "name": "德才股份",
-          "date": "2026-06-17",
-          "pct_chg": -1.98,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.07
         }
       ]
     },
