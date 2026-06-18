@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 118603,
+      "sample_count": 118604,
       "avg_next_return_pct": 0.412,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
@@ -49,7 +49,7 @@
         },
         {
           "code": "605133",
-          "name": "嵘泰股份",
+          "name": "XD嵘泰股",
           "date": "2026-06-17",
           "pct_chg": 5.29,
           "vol_ratio5": 1.41,
@@ -98,7 +98,7 @@
       "recent_samples": [
         {
           "code": "605369",
-          "name": "拱东医疗",
+          "name": "XD拱东医",
           "date": "2026-06-17",
           "pct_chg": -3.21,
           "vol_ratio5": 1.26,
@@ -187,7 +187,7 @@
       "recent_samples": [
         {
           "code": "605555",
-          "name": "德昌股份",
+          "name": "XD德昌股",
           "date": "2026-06-17",
           "pct_chg": -2.06,
           "vol_ratio5": 0.74,
@@ -259,7 +259,7 @@
         },
         {
           "code": "603728",
-          "name": "鸣志电器",
+          "name": "XD鸣志电",
           "date": "2026-06-17",
           "pct_chg": -1.4,
           "vol_ratio5": 0.68,
@@ -365,7 +365,7 @@
       "recent_samples": [
         {
           "code": "605369",
-          "name": "拱东医疗",
+          "name": "XD拱东医",
           "date": "2026-06-17",
           "pct_chg": -3.21,
           "vol_ratio5": 1.26,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 677008,
+      "sample_count": 677009,
       "avg_next_return_pct": 0.012,
       "win_rate_pct": 47.91,
       "avg_win_pct": 2.057,
       "avg_loss_pct": -1.869,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-18",
+          "pct_chg": -0.39,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -523,14 +531,6 @@
           "pct_chg": -0.88,
           "vol_ratio5": 0.55,
           "close_pos": 0.05
-        },
-        {
-          "code": "605287",
-          "name": "德才股份",
-          "date": "2026-06-17",
-          "pct_chg": -1.98,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.07
         }
       ]
     },
@@ -543,7 +543,7 @@
       "recent_samples": [
         {
           "code": "605555",
-          "name": "德昌股份",
+          "name": "XD德昌股",
           "date": "2026-06-17",
           "pct_chg": -2.06,
           "vol_ratio5": 0.74,
