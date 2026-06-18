@@ -2,7 +2,7 @@
   "rules": {
     "长阳放量": {
       "sample_count": 118604,
-      "avg_next_return_pct": 0.412,
+      "avg_next_return_pct": 0.411,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
       "avg_loss_pct": -2.517,
@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.869,
       "recent_samples": [
         {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-18",
+          "pct_chg": -0.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-18",
-          "pct_chg": -3.34,
+          "pct_chg": -3.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -1.28,
           "vol_ratio5": 1.25,
           "close_pos": 0.64
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-06-17",
-          "pct_chg": -0.88,
-          "vol_ratio5": 0.55,
-          "close_pos": 0.05
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-18",
-          "pct_chg": 0.54,
+          "pct_chg": -0.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-18",
-          "pct_chg": -2.21,
+          "pct_chg": -2.23,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +561,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-18",
-          "pct_chg": -1.19,
+          "pct_chg": -1.42,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
