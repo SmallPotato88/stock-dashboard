@@ -2,7 +2,7 @@
   "rules": {
     "长阳放量": {
       "sample_count": 118604,
-      "avg_next_return_pct": 0.411,
+      "avg_next_return_pct": 0.412,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
       "avg_loss_pct": -2.517,
@@ -456,7 +456,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-18",
-          "pct_chg": -2.28,
+          "pct_chg": -3.34,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-18",
+          "pct_chg": 1.9,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -1.28,
           "vol_ratio5": 1.25,
           "close_pos": 0.64
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-06-17",
-          "pct_chg": -0.88,
-          "vol_ratio5": 0.55,
-          "close_pos": 0.05
         }
       ]
     },
@@ -545,15 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-18",
-          "pct_chg": -0.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-18",
-          "pct_chg": -1.19,
+          "pct_chg": 0.47,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 7.47,
           "vol_ratio5": 1.79,
           "close_pos": 0.93
+        },
+        {
+          "code": "605277",
+          "name": "新亚电子",
+          "date": "2026-06-17",
+          "pct_chg": -0.04,
+          "vol_ratio5": 0.88,
+          "close_pos": 0.83
         }
       ]
     }
