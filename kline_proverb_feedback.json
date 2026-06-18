@@ -456,7 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-18",
-          "pct_chg": -3.18,
+          "pct_chg": -3.34,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.748,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-06-18",
-          "pct_chg": -1.29,
+          "pct_chg": 0.54,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,15 +553,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-06-18",
-          "pct_chg": -2.44,
+          "pct_chg": -2.21,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-06-18",
-          "pct_chg": 0.58,
+          "pct_chg": -1.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
