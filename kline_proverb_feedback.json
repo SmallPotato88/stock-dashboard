@@ -2,7 +2,7 @@
   "rules": {
     "长阳放量": {
       "sample_count": 118604,
-      "avg_next_return_pct": 0.411,
+      "avg_next_return_pct": 0.412,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
       "avg_loss_pct": -2.517,
@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.869,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-06-18",
-          "pct_chg": 2.32,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-06-18",
-          "pct_chg": -0.18,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-18",
-          "pct_chg": -1.96,
+          "pct_chg": -1.63,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-06-18",
+          "pct_chg": 2.74,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 3.69,
           "vol_ratio5": 2.58,
           "close_pos": 0.51
+        },
+        {
+          "code": "605376",
+          "name": "博迁新材",
+          "date": "2026-06-17",
+          "pct_chg": -1.28,
+          "vol_ratio5": 1.25,
+          "close_pos": 0.64
         }
       ]
     },
@@ -545,15 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-18",
-          "pct_chg": -0.18,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-06-18",
-          "pct_chg": -1.96,
+          "pct_chg": 0.36,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +553,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-18",
-          "pct_chg": -1.18,
+          "pct_chg": -1.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-18",
+          "pct_chg": -1.63,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
