@@ -2,7 +2,7 @@
   "rules": {
     "长阳放量": {
       "sample_count": 118604,
-      "avg_next_return_pct": 0.412,
+      "avg_next_return_pct": 0.411,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
       "avg_loss_pct": -2.517,
