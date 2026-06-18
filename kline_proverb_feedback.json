@@ -2,7 +2,7 @@
   "rules": {
     "长阳放量": {
       "sample_count": 118604,
-      "avg_next_return_pct": 0.412,
+      "avg_next_return_pct": 0.411,
       "win_rate_pct": 47.86,
       "avg_win_pct": 3.602,
       "avg_loss_pct": -2.517,
@@ -456,7 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-06-18",
-          "pct_chg": -0.77,
+          "pct_chg": -0.94,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-06-18",
-          "pct_chg": -0.82,
+          "pct_chg": -0.86,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-06-18",
-          "pct_chg": -0.01,
+          "pct_chg": -0.22,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
