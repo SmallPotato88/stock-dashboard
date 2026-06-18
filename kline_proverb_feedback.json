@@ -456,15 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-06-18",
-          "pct_chg": 0.55,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-06-18",
-          "pct_chg": -1.29,
+          "pct_chg": 0.22,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -1.28,
           "vol_ratio5": 1.25,
           "close_pos": 0.64
+        },
+        {
+          "code": "605318",
+          "name": "法狮龙",
+          "date": "2026-06-17",
+          "pct_chg": -0.88,
+          "vol_ratio5": 0.55,
+          "close_pos": 0.05
         }
       ]
     },
