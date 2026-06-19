@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 677993,
+      "sample_count": 677994,
       "avg_next_return_pct": 0.011,
       "win_rate_pct": 47.9,
       "avg_win_pct": 2.059,
       "avg_loss_pct": -1.871,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-06-19",
+          "pct_chg": -3.3,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605599",
           "name": "菜百股份",
@@ -523,24 +531,32 @@
           "pct_chg": 0.23,
           "vol_ratio5": 0.79,
           "close_pos": 0.63
-        },
-        {
-          "code": "605300",
-          "name": "佳禾食品",
-          "date": "2026-06-18",
-          "pct_chg": -0.92,
-          "vol_ratio5": 0.69,
-          "close_pos": 0.48
         }
       ]
     },
     "下影线长": {
-      "sample_count": 573844,
+      "sample_count": 573846,
       "avg_next_return_pct": -0.032,
       "win_rate_pct": 45.8,
       "avg_win_pct": 2.002,
       "avg_loss_pct": -1.75,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-06-19",
+          "pct_chg": 0.34,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-06-19",
+          "pct_chg": -2.76,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605577",
           "name": "龙版传媒",
@@ -604,22 +620,6 @@
           "pct_chg": -0.19,
           "vol_ratio5": 0.94,
           "close_pos": 0.56
-        },
-        {
-          "code": "605366",
-          "name": "宏柏新材",
-          "date": "2026-06-18",
-          "pct_chg": -0.56,
-          "vol_ratio5": 0.97,
-          "close_pos": 0.93
-        },
-        {
-          "code": "605333",
-          "name": "沪光股份",
-          "date": "2026-06-18",
-          "pct_chg": -0.59,
-          "vol_ratio5": 0.88,
-          "close_pos": 0.38
         }
       ]
     }
