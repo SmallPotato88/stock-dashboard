@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-19T15:21:16",
+  "generated_at": "2026-06-19T16:34:15",
   "latest_bar_date": "2026-06-18",
-  "latest_indicator_date": "2026-06-18",
-  "latest_signal_trade_date": "2026-06-18",
-  "latest_scan_ts": "2026-06-18T15:42:26",
-  "candidate_count": 150,
+  "latest_indicator_date": "2026-06-19",
+  "latest_signal_trade_date": "2026-06-19",
+  "latest_scan_ts": "2026-06-19T16:33:02",
+  "candidate_count": 18,
   "data_age_days": 1,
   "main_non_st": 3093,
   "main_non_st_latest_bar": 3022,
@@ -137,6 +137,16 @@
     }
   ],
   "alerts": [
+    {
+      "level": "P0",
+      "item": "指标日期与日K日期不一致",
+      "detail": "daily_bars=2026-06-18, indicators_daily=2026-06-19"
+    },
+    {
+      "level": "P0",
+      "item": "策略候选日期落后于日K",
+      "detail": "candidate_signals=2026-06-19, daily_bars=2026-06-18"
+    },
     {
       "level": "P2",
       "item": "主板非ST原始覆盖率低于99%",
