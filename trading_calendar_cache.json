@@ -328,5 +328,10 @@
     "fetched_at": "2026-08-03T15:55:46",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
+  },
+  "2026-08-04": {
+    "fetched_at": "2026-08-04T15:55:14",
+    "is_trading_day": true,
+    "source": "canonical_premarket_safe_checker"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:56:46",
+  "generated_at": "2026-08-04T15:56:14",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-08-03",
-    "latest_indicator_date": "2026-08-03",
-    "latest_signal_trade_date": "2026-08-03",
-    "dashboard_generated_at": "2026-08-03T15:51:39",
-    "dashboard_trade_date": "2026-08-03",
-    "dashboard_data_date": "2026-08-03",
-    "realtime_snapshot_generated_at": "2026-08-03T15:51:39",
-    "stock_detail_count": 106,
+    "latest_bar_date": "2026-08-04",
+    "latest_indicator_date": "2026-08-04",
+    "latest_signal_trade_date": "2026-08-04",
+    "dashboard_generated_at": "2026-08-04T15:50:59",
+    "dashboard_trade_date": "2026-08-04",
+    "dashboard_data_date": "2026-08-04",
+    "realtime_snapshot_generated_at": "2026-08-04T15:50:59",
+    "stock_detail_count": 113,
     "watchlist_count": 6,
-    "main_non_st": 3109,
-    "main_non_st_latest_bar": 3042,
-    "main_non_st_latest_indicator": 3042,
-    "bar_coverage_pct": 97.84,
-    "indicator_coverage_pct": 97.84
+    "main_non_st": 3108,
+    "main_non_st_latest_bar": 3043,
+    "main_non_st_latest_indicator": 3043,
+    "bar_coverage_pct": 97.91,
+    "indicator_coverage_pct": 97.91
   },
   "db_sources": [
     {
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-08-03T15:14:17",
+      "latest_fetched_at": "2026-08-04T15:13:40",
       "age_days": 0,
       "status": "ok"
     },
@@ -39,7 +39,7 @@
       "table": "baidu_kline_enrichment",
       "rows": 3,
       "latest_fetched_at": "2026-05-22 16:18:42",
-      "age_days": 73,
+      "age_days": 74,
       "status": "warn"
     },
     {
@@ -48,7 +48,7 @@
       "table": "stock_risk_enrichment",
       "rows": 97,
       "latest_fetched_at": "2026-05-27 06:46:46",
-      "age_days": 68,
+      "age_days": 69,
       "status": "warn"
     },
     {
@@ -56,8 +56,8 @@
       "role": "个股新闻/巨潮公告",
       "table": "stock_news_enrichment",
       "rows": 25,
-      "latest_fetched_at": "2026-07-31 07:13:06",
-      "age_days": 3,
+      "latest_fetched_at": "2026-08-04 07:14:37",
+      "age_days": 0,
       "status": "ok"
     },
     {
@@ -65,8 +65,8 @@
       "role": "资金流/大宗/分红",
       "table": "stock_moneyflow_enrichment",
       "rows": 25,
-      "latest_fetched_at": "2026-07-31 07:13:06",
-      "age_days": 3,
+      "latest_fetched_at": "2026-08-04 07:14:37",
+      "age_days": 0,
       "status": "ok"
     },
     {
@@ -74,8 +74,8 @@
       "role": "研报/EPS",
       "table": "stock_research_enrichment",
       "rows": 25,
-      "latest_fetched_at": "2026-07-31 07:13:06",
-      "age_days": 3,
+      "latest_fetched_at": "2026-08-04 07:14:37",
+      "age_days": 0,
       "status": "ok"
     },
     {
@@ -84,7 +84,7 @@
       "table": "market_signal_enrichment",
       "rows": 1,
       "latest_fetched_at": "2026-05-27 06:46:47",
-      "age_days": 68,
+      "age_days": 69,
       "status": "warn"
     }
   ],
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 111,
-      "bytes_sampled": 465
+      "latency_ms": 134,
+      "bytes_sampled": 464
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 133,
+      "latency_ms": 148,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 121,
-      "bytes_sampled": 0
+      "latency_ms": 273,
+      "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 364,
+      "latency_ms": 481,
       "bytes_sampled": 512
     }
   },
@@ -118,7 +118,7 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 364,
+      "latency_ms": 481,
       "bytes_sampled": 512
     },
     "github_repo_head": {
@@ -136,9 +136,9 @@
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-08-03",
-    "latest_indicator_date": "2026-08-03",
-    "main_non_st_indicator_coverage_pct": 97.84
+    "latest_bar_date": "2026-08-04",
+    "latest_indicator_date": "2026-08-04",
+    "main_non_st_indicator_coverage_pct": 97.91
   },
   "governance": {
     "canonical_fields": [
@@ -164,7 +164,7 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.84%"
+      "detail": "97.91%"
     },
     {
       "level": "P2",
