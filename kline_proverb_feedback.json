@@ -446,12 +446,28 @@
       ]
     },
     "上影线长": {
-      "sample_count": 712926,
+      "sample_count": 712928,
       "avg_next_return_pct": 0.004,
       "win_rate_pct": 47.99,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.927,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-05",
+          "pct_chg": 1.26,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-05",
+          "pct_chg": -3.33,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -515,32 +531,32 @@
           "pct_chg": 2.73,
           "vol_ratio5": 1.08,
           "close_pos": 0.62
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-08-04",
-          "pct_chg": 0.85,
-          "vol_ratio5": 1.31,
-          "close_pos": 0.25
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-04",
-          "pct_chg": -0.36,
-          "vol_ratio5": 0.72,
-          "close_pos": 0.22
         }
       ]
     },
     "下影线长": {
-      "sample_count": 601818,
+      "sample_count": 601820,
       "avg_next_return_pct": -0.038,
       "win_rate_pct": 45.86,
       "avg_win_pct": 2.03,
       "avg_loss_pct": -1.79,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-05",
+          "pct_chg": 1.26,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-05",
+          "pct_chg": 8.03,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -604,22 +620,6 @@
           "pct_chg": -2.46,
           "vol_ratio5": 0.87,
           "close_pos": 0.36
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-08-04",
-          "pct_chg": 0.45,
-          "vol_ratio5": 1.0,
-          "close_pos": 0.53
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-08-04",
-          "pct_chg": 0.69,
-          "vol_ratio5": 1.03,
-          "close_pos": 0.73
         }
       ]
     }
