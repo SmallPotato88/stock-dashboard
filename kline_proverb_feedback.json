@@ -271,7 +271,7 @@
       "sample_count": 13222,
       "avg_next_return_pct": 0.134,
       "win_rate_pct": 45.68,
-      "avg_win_pct": 2.302,
+      "avg_win_pct": 2.303,
       "avg_loss_pct": -1.69,
       "recent_samples": [
         {
@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-06",
-          "pct_chg": -0.73,
+          "pct_chg": -0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-06",
-          "pct_chg": 2.75,
+          "pct_chg": 3.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-06",
-          "pct_chg": 0.34,
+          "pct_chg": 0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
