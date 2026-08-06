@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:16:20",
+  "generated_at": "2026-08-06T12:21:20",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-08-05",
     "latest_indicator_date": "2026-08-05",
     "latest_signal_trade_date": "2026-08-05",
-    "dashboard_generated_at": "2026-08-06T12:06:41",
+    "dashboard_generated_at": "2026-08-06T12:16:21",
     "dashboard_trade_date": "2026-08-05",
     "dashboard_data_date": "2026-08-05",
     "realtime_snapshot_generated_at": "2026-08-06T11:26:52",
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-08-06T12:13:26",
+      "latest_fetched_at": "2026-08-06T12:18:02",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 126,
+      "latency_ms": 133,
       "bytes_sampled": 460
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 39,
+      "latency_ms": 133,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 199,
+      "latency_ms": 244,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1137,
+      "latency_ms": 1114,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1137,
+      "latency_ms": 1114,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "6e9a6993bb9d64a4fe25bf97b09caeda0da17e9f",
+      "head": "f84780ab7021209dc3f5c948f78a38d5b106b49b",
       "error": ""
     },
     "gitee_repo_head": {
