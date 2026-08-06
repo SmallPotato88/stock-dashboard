@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-06",
+          "pct_chg": 1.26,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-06",
-          "pct_chg": 2.2,
+          "pct_chg": 1.46,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +472,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-08-06",
-          "pct_chg": -0.07,
+          "pct_chg": -0.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +480,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-06",
-          "pct_chg": -1.13,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-06",
-          "pct_chg": 1.83,
+          "pct_chg": -1.11,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-06",
-          "pct_chg": 0.53,
+          "pct_chg": 0.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
