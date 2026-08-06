@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-06",
-          "pct_chg": -0.41,
+          "pct_chg": -0.73,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.789,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-08-06",
-          "pct_chg": 0.23,
+          "pct_chg": 2.75,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-08-06",
-          "pct_chg": 2.8,
+          "pct_chg": 0.34,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
