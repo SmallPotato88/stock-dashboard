@@ -268,9 +268,9 @@
       ]
     },
     "放量滞涨": {
-      "sample_count": 13221,
+      "sample_count": 13222,
       "avg_next_return_pct": 0.133,
-      "win_rate_pct": 45.68,
+      "win_rate_pct": 45.67,
       "avg_win_pct": 2.302,
       "avg_loss_pct": -1.69,
       "recent_samples": [
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 713996,
+      "sample_count": 713997,
       "avg_next_return_pct": 0.004,
       "win_rate_pct": 47.99,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.926,
       "recent_samples": [
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-08-06",
+          "pct_chg": 0.36,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -523,24 +531,24 @@
           "pct_chg": 0.32,
           "vol_ratio5": 0.48,
           "close_pos": 0.5
-        },
-        {
-          "code": "605298",
-          "name": "必得科技",
-          "date": "2026-08-05",
-          "pct_chg": 0.78,
-          "vol_ratio5": 0.86,
-          "close_pos": 0.55
         }
       ]
     },
     "下影线长": {
-      "sample_count": 602883,
+      "sample_count": 602884,
       "avg_next_return_pct": -0.037,
       "win_rate_pct": 45.89,
       "avg_win_pct": 2.031,
       "avg_loss_pct": -1.789,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-06",
+          "pct_chg": 0.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -612,14 +620,6 @@
           "pct_chg": 0.05,
           "vol_ratio5": 0.66,
           "close_pos": 0.64
-        },
-        {
-          "code": "605337",
-          "name": "李子园",
-          "date": "2026-08-05",
-          "pct_chg": 0.32,
-          "vol_ratio5": 0.48,
-          "close_pos": 0.5
         }
       ]
     }
