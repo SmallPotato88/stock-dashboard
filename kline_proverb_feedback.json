@@ -1,9 +1,9 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122043,
+      "sample_count": 122042,
       "avg_next_return_pct": 0.375,
-      "win_rate_pct": 47.67,
+      "win_rate_pct": 47.66,
       "avg_win_pct": 3.614,
       "avg_loss_pct": -2.574,
       "recent_samples": [
@@ -268,9 +268,9 @@
       ]
     },
     "放量滞涨": {
-      "sample_count": 13222,
+      "sample_count": 13223,
       "avg_next_return_pct": 0.134,
-      "win_rate_pct": 45.68,
+      "win_rate_pct": 45.69,
       "avg_win_pct": 2.302,
       "avg_loss_pct": -1.69,
       "recent_samples": [
@@ -453,28 +453,28 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-06",
+          "pct_chg": 2.57,
+          "vol_ratio5": 1.18,
+          "close_pos": 0.65
+        },
+        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-06",
-          "pct_chg": -1.02,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
+          "pct_chg": -0.96,
+          "vol_ratio5": 0.83,
+          "close_pos": 0.25
         },
         {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-08-06",
           "pct_chg": 0.66,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-06",
-          "pct_chg": 2.55,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
+          "vol_ratio5": 0.98,
+          "close_pos": 0.64
         },
         {
           "code": "601127",
@@ -545,9 +545,9 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-06",
-          "pct_chg": 0.5,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
+          "pct_chg": 0.53,
+          "vol_ratio5": 1.07,
+          "close_pos": 0.78
         },
         {
           "code": "601127",
