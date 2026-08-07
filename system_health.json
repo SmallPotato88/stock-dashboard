@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:56:19",
+  "generated_at": "2026-08-07T09:00:46",
   "latest_bar_date": "2026-08-06",
   "latest_indicator_date": "2026-08-06",
   "latest_signal_trade_date": "2026-08-06",
   "latest_scan_ts": "2026-08-06T15:43:07",
   "candidate_count": 150,
-  "data_age_days": 0,
+  "data_age_days": 1,
   "main_non_st": 3109,
   "main_non_st_latest_bar": 3046,
   "main_non_st_latest_indicator": 3046,
