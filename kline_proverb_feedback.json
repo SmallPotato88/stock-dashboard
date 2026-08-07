@@ -170,7 +170,7 @@
         },
         {
           "code": "600060",
-          "name": "海信视像",
+          "name": "XD海信视",
           "date": "2026-08-06",
           "pct_chg": -3.05,
           "vol_ratio5": 1.34,
@@ -455,30 +455,6 @@
         {
           "code": "601021",
           "name": "春秋航空",
-          "date": "2026-08-07",
-          "pct_chg": -0.96,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-07",
-          "pct_chg": 0.66,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-07",
-          "pct_chg": 2.57,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
           "date": "2026-08-06",
           "pct_chg": -0.96,
           "vol_ratio5": 0.83,
@@ -531,6 +507,30 @@
           "pct_chg": 0.33,
           "vol_ratio5": 0.87,
           "close_pos": 0.47
+        },
+        {
+          "code": "605389",
+          "name": "长龄液压",
+          "date": "2026-08-06",
+          "pct_chg": 0.45,
+          "vol_ratio5": 0.88,
+          "close_pos": 0.58
+        },
+        {
+          "code": "605277",
+          "name": "新亚电子",
+          "date": "2026-08-06",
+          "pct_chg": 0.0,
+          "vol_ratio5": 1.1,
+          "close_pos": 0.55
+        },
+        {
+          "code": "605218",
+          "name": "伟时电子",
+          "date": "2026-08-06",
+          "pct_chg": 1.11,
+          "vol_ratio5": 0.78,
+          "close_pos": 0.59
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.03,
       "avg_loss_pct": -1.788,
       "recent_samples": [
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-07",
-          "pct_chg": 0.53,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "000933",
           "name": "神火股份",
@@ -620,6 +612,14 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.68,
           "close_pos": 0.8
+        },
+        {
+          "code": "605377",
+          "name": "华旺科技",
+          "date": "2026-08-06",
+          "pct_chg": 0.77,
+          "vol_ratio5": 0.85,
+          "close_pos": 0.89
         }
       ]
     }
