@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.924,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-08-10",
-          "pct_chg": -1.39,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-10",
-          "pct_chg": 1.57,
+          "pct_chg": 1.86,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-08-10",
-          "pct_chg": 0.04,
+          "pct_chg": -1.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 0.09,
           "vol_ratio5": 1.22,
           "close_pos": 0.58
+        },
+        {
+          "code": "605319",
+          "name": "无锡振华",
+          "date": "2026-08-07",
+          "pct_chg": 1.46,
+          "vol_ratio5": 1.26,
+          "close_pos": 0.41
         }
       ]
     },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.03,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-10",
+          "pct_chg": -2.61,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-10",
+          "pct_chg": -2.81,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -604,22 +620,6 @@
           "pct_chg": 1.1,
           "vol_ratio5": 0.97,
           "close_pos": 1.0
-        },
-        {
-          "code": "605566",
-          "name": "福莱蒽特",
-          "date": "2026-08-07",
-          "pct_chg": 0.23,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.87
-        },
-        {
-          "code": "605588",
-          "name": "冠石科技",
-          "date": "2026-08-07",
-          "pct_chg": 0.77,
-          "vol_ratio5": 0.8,
-          "close_pos": 0.75
         }
       ]
     }
