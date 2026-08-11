@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 106232,
+      "sample_count": 106233,
       "avg_next_return_pct": -0.062,
       "win_rate_pct": 46.25,
       "avg_win_pct": 1.947,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 716037,
+      "sample_count": 716039,
       "avg_next_return_pct": 0.005,
       "win_rate_pct": 47.99,
       "avg_win_pct": 2.096,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 607656,
+      "sample_count": 607658,
       "avg_next_return_pct": -0.029,
       "win_rate_pct": 45.99,
       "avg_win_pct": 2.033,
