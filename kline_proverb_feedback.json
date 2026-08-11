@@ -542,14 +542,6 @@
       "avg_loss_pct": -1.785,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-11",
-          "pct_chg": 1.46,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-11",
@@ -562,6 +554,14 @@
           "name": "华工科技",
           "date": "2026-08-11",
           "pct_chg": 0.9,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-11",
+          "pct_chg": 1.46,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
