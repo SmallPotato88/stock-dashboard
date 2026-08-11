@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:26:04",
+  "generated_at": "2026-08-11T10:31:24",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-08-10",
     "latest_indicator_date": "2026-08-10",
     "latest_signal_trade_date": "2026-08-10",
-    "dashboard_generated_at": "2026-08-11T10:21:13",
+    "dashboard_generated_at": "2026-08-11T10:26:06",
     "dashboard_trade_date": "2026-08-10",
     "dashboard_data_date": "2026-08-10",
-    "realtime_snapshot_generated_at": "2026-08-11T10:21:22",
+    "realtime_snapshot_generated_at": "2026-08-11T10:26:15",
     "stock_detail_count": 107,
     "watchlist_count": 6,
     "main_non_st": 3109,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 606,
-      "latest_fetched_at": "2026-08-11T10:23:03",
+      "latest_fetched_at": "2026-08-11T10:27:58",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 118,
-      "bytes_sampled": 464
+      "latency_ms": 115,
+      "bytes_sampled": 462
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 184,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 353,
+      "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 213,
+      "latency_ms": 472,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2691,
+      "latency_ms": 2421,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2691,
+      "latency_ms": 2421,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "eef6f0f3061043284d7d1c88f340a5c85194c352",
-      "error": ""
+      "head": null,
+      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
     },
     "gitee_repo_head": {
       "ok": true,
@@ -170,11 +170,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
