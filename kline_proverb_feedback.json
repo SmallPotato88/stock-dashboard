@@ -453,6 +453,22 @@
       "avg_loss_pct": -1.924,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-11",
+          "pct_chg": -0.63,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-11",
+          "pct_chg": -0.39,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-08-10",
@@ -515,22 +531,6 @@
           "pct_chg": -1.35,
           "vol_ratio5": 1.04,
           "close_pos": 0.21
-        },
-        {
-          "code": "605222",
-          "name": "起帆电缆",
-          "date": "2026-08-10",
-          "pct_chg": 2.88,
-          "vol_ratio5": 1.05,
-          "close_pos": 0.65
-        },
-        {
-          "code": "605198",
-          "name": "安德利",
-          "date": "2026-08-10",
-          "pct_chg": 6.05,
-          "vol_ratio5": 1.77,
-          "close_pos": 0.52
         }
       ]
     },
