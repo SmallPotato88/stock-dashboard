@@ -456,7 +456,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-08-12",
-          "pct_chg": 0.53,
+          "pct_chg": 0.65,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-12",
+          "pct_chg": 1.45,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -465,14 +473,6 @@
           "name": "春秋航空",
           "date": "2026-08-12",
           "pct_chg": -0.33,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-12",
-          "pct_chg": 1.71,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
