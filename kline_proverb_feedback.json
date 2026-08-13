@@ -446,12 +446,36 @@
       ]
     },
     "上影线长": {
-      "sample_count": 718068,
+      "sample_count": 718071,
       "avg_next_return_pct": 0.007,
       "win_rate_pct": 48.02,
       "avg_win_pct": 2.096,
-      "avg_loss_pct": -1.923,
+      "avg_loss_pct": -1.922,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-13",
+          "pct_chg": 1.12,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-13",
+          "pct_chg": 1.23,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-13",
+          "pct_chg": 2.43,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -507,40 +531,24 @@
           "pct_chg": -1.08,
           "vol_ratio5": 0.67,
           "close_pos": 0.16
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-08-12",
-          "pct_chg": 1.09,
-          "vol_ratio5": 2.34,
-          "close_pos": 0.1
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-12",
-          "pct_chg": 0.49,
-          "vol_ratio5": 0.57,
-          "close_pos": 0.57
-        },
-        {
-          "code": "605319",
-          "name": "无锡振华",
-          "date": "2026-08-12",
-          "pct_chg": -0.04,
-          "vol_ratio5": 0.65,
-          "close_pos": 0.35
         }
       ]
     },
     "下影线长": {
-      "sample_count": 609690,
+      "sample_count": 609691,
       "avg_next_return_pct": -0.027,
       "win_rate_pct": 46.03,
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.784,
       "recent_samples": [
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-08-13",
+          "pct_chg": 0.16,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -612,14 +620,6 @@
           "pct_chg": -1.95,
           "vol_ratio5": 0.84,
           "close_pos": 0.44
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-08-12",
-          "pct_chg": 1.45,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.82
         }
       ]
     }
