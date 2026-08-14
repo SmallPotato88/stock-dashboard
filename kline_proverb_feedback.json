@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-08-14",
-          "pct_chg": -0.56,
+          "pct_chg": -1.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,23 +464,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-08-14",
-          "pct_chg": 2.52,
+          "pct_chg": 1.89,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-08-14",
-          "pct_chg": 1.56,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-14",
-          "pct_chg": -0.02,
+          "pct_chg": -0.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +480,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-14",
-          "pct_chg": -1.2,
+          "pct_chg": -1.39,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-14",
+          "pct_chg": 1.03,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.784,
       "recent_samples": [
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-14",
-          "pct_chg": -0.02,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "605507",
           "name": "国邦医药",
@@ -620,6 +612,14 @@
           "pct_chg": -0.44,
           "vol_ratio5": 0.98,
           "close_pos": 0.38
+        },
+        {
+          "code": "605089",
+          "name": "味知香",
+          "date": "2026-08-13",
+          "pct_chg": 0.54,
+          "vol_ratio5": 1.15,
+          "close_pos": 0.4
         }
       ]
     }
