@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-08-14",
-          "pct_chg": 2.45,
+          "pct_chg": -0.49,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-08-14",
-          "pct_chg": -1.05,
+          "pct_chg": 2.56,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,6 +542,14 @@
       "avg_loss_pct": -1.784,
       "recent_samples": [
         {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-14",
+          "pct_chg": -0.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605507",
           "name": "国邦医药",
           "date": "2026-08-13",
@@ -612,14 +620,6 @@
           "pct_chg": -0.44,
           "vol_ratio5": 0.98,
           "close_pos": 0.38
-        },
-        {
-          "code": "605089",
-          "name": "味知香",
-          "date": "2026-08-13",
-          "pct_chg": 0.54,
-          "vol_ratio5": 1.15,
-          "close_pos": 0.4
         }
       ]
     }
