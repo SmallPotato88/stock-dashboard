@@ -453,6 +453,30 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-14",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-08-14",
+          "pct_chg": -0.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-14",
+          "pct_chg": 0.41,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-13",
@@ -507,30 +531,6 @@
           "pct_chg": -2.16,
           "vol_ratio5": 0.89,
           "close_pos": 0.11
-        },
-        {
-          "code": "605507",
-          "name": "国邦医药",
-          "date": "2026-08-13",
-          "pct_chg": 0.38,
-          "vol_ratio5": 1.06,
-          "close_pos": 0.63
-        },
-        {
-          "code": "605499",
-          "name": "东鹏饮料",
-          "date": "2026-08-13",
-          "pct_chg": -1.51,
-          "vol_ratio5": 0.79,
-          "close_pos": 0.03
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-08-13",
-          "pct_chg": 2.05,
-          "vol_ratio5": 1.29,
-          "close_pos": 0.48
         }
       ]
     },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.784,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-14",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-14",
+          "pct_chg": 0.41,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605507",
           "name": "国邦医药",
@@ -604,22 +620,6 @@
           "pct_chg": 10.0,
           "vol_ratio5": 0.78,
           "close_pos": 1.0
-        },
-        {
-          "code": "605162",
-          "name": "新中港",
-          "date": "2026-08-13",
-          "pct_chg": -0.44,
-          "vol_ratio5": 0.98,
-          "close_pos": 0.38
-        },
-        {
-          "code": "605089",
-          "name": "味知香",
-          "date": "2026-08-13",
-          "pct_chg": 0.54,
-          "vol_ratio5": 1.15,
-          "close_pos": 0.4
         }
       ]
     }
