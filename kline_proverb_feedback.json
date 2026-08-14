@@ -453,22 +453,6 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-14",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-14",
-          "pct_chg": 4.93,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-13",
@@ -531,6 +515,22 @@
           "pct_chg": 0.38,
           "vol_ratio5": 1.06,
           "close_pos": 0.63
+        },
+        {
+          "code": "605499",
+          "name": "东鹏饮料",
+          "date": "2026-08-13",
+          "pct_chg": -1.51,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.03
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-08-13",
+          "pct_chg": 2.05,
+          "vol_ratio5": 1.29,
+          "close_pos": 0.48
         }
       ]
     },
