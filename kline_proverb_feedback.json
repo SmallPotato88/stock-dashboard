@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 106394,
+      "sample_count": 106395,
       "avg_next_return_pct": -0.052,
       "win_rate_pct": 46.47,
       "avg_win_pct": 1.947,
@@ -446,12 +446,28 @@
       ]
     },
     "上影线长": {
-      "sample_count": 720300,
+      "sample_count": 720302,
       "avg_next_return_pct": 0.005,
       "win_rate_pct": 47.96,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.922,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-17",
+          "pct_chg": -0.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-17",
+          "pct_chg": 2.45,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -478,7 +494,7 @@
         },
         {
           "code": "605398",
-          "name": "新炬网络",
+          "name": "XD新炬网",
           "date": "2026-08-14",
           "pct_chg": 1.49,
           "vol_ratio5": 0.96,
@@ -515,32 +531,24 @@
           "pct_chg": 0.18,
           "vol_ratio5": 0.69,
           "close_pos": 0.6
-        },
-        {
-          "code": "605337",
-          "name": "李子园",
-          "date": "2026-08-14",
-          "pct_chg": -1.93,
-          "vol_ratio5": 0.72,
-          "close_pos": 0.26
-        },
-        {
-          "code": "605255",
-          "name": "天普股份",
-          "date": "2026-08-14",
-          "pct_chg": -0.52,
-          "vol_ratio5": 0.62,
-          "close_pos": 0.39
         }
       ]
     },
     "下影线长": {
-      "sample_count": 611070,
+      "sample_count": 611071,
       "avg_next_return_pct": -0.029,
       "win_rate_pct": 45.98,
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.784,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-17",
+          "pct_chg": -0.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -612,14 +620,6 @@
           "pct_chg": -1.08,
           "vol_ratio5": 0.62,
           "close_pos": 0.45
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-08-14",
-          "pct_chg": 0.19,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.56
         }
       ]
     }
