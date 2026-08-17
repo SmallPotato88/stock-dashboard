@@ -456,7 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-08-17",
-          "pct_chg": 0.47,
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-17",
-          "pct_chg": 1.1,
+          "pct_chg": 0.79,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -550,18 +550,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-08-17",
-          "pct_chg": 2.09,
+          "pct_chg": 0.37,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-08-17",
-          "pct_chg": 1.09,
+          "pct_chg": -0.96,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
