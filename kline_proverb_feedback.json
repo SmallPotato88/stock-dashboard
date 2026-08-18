@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-18",
-          "pct_chg": -0.61,
+          "pct_chg": -0.65,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-18",
-          "pct_chg": -1.13,
+          "pct_chg": -1.24,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.783,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-18",
-          "pct_chg": -1.65,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-18",
-          "pct_chg": -2.84,
+          "pct_chg": -2.99,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -619,6 +611,14 @@
           "date": "2026-08-17",
           "pct_chg": 2.28,
           "vol_ratio5": 0.61,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605378",
+          "name": "野马电池",
+          "date": "2026-08-17",
+          "pct_chg": 1.7,
+          "vol_ratio5": 1.19,
           "close_pos": 1.0
         }
       ]
