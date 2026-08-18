@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122840,
+      "sample_count": 122841,
       "avg_next_return_pct": 0.378,
       "win_rate_pct": 47.68,
       "avg_win_pct": 3.613,
@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 106657,
+      "sample_count": 106658,
       "avg_next_return_pct": -0.046,
       "win_rate_pct": 46.57,
       "avg_win_pct": 1.949,
@@ -535,12 +535,28 @@
       ]
     },
     "下影线长": {
-      "sample_count": 612467,
+      "sample_count": 612469,
       "avg_next_return_pct": -0.025,
       "win_rate_pct": 46.06,
       "avg_win_pct": 2.034,
       "avg_loss_pct": -1.783,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-18",
+          "pct_chg": -0.11,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-18",
+          "pct_chg": 3.12,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -604,22 +620,6 @@
           "pct_chg": 2.28,
           "vol_ratio5": 0.61,
           "close_pos": 1.0
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-17",
-          "pct_chg": 1.7,
-          "vol_ratio5": 1.19,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-08-17",
-          "pct_chg": 2.61,
-          "vol_ratio5": 1.1,
-          "close_pos": 0.96
         }
       ]
     }
