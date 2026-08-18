@@ -453,34 +453,18 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-18",
-          "pct_chg": -1.05,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-18",
-          "pct_chg": -0.49,
+          "pct_chg": -0.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-08-18",
-          "pct_chg": -0.14,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-18",
-          "pct_chg": -1.24,
+          "pct_chg": -0.64,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": 2.63,
           "vol_ratio5": 1.13,
           "close_pos": 0.64
+        },
+        {
+          "code": "605006",
+          "name": "山东玻纤",
+          "date": "2026-08-17",
+          "pct_chg": 4.3,
+          "vol_ratio5": 1.59,
+          "close_pos": 0.42
+        },
+        {
+          "code": "603988",
+          "name": "中电电机",
+          "date": "2026-08-17",
+          "pct_chg": -4.16,
+          "vol_ratio5": 0.84,
+          "close_pos": 0.27
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.034,
       "avg_loss_pct": -1.783,
       "recent_samples": [
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-18",
-          "pct_chg": -0.69,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -620,6 +612,14 @@
           "pct_chg": 1.7,
           "vol_ratio5": 1.19,
           "close_pos": 1.0
+        },
+        {
+          "code": "605365",
+          "name": "立达信",
+          "date": "2026-08-17",
+          "pct_chg": 2.61,
+          "vol_ratio5": 1.1,
+          "close_pos": 0.96
         }
       ]
     }
