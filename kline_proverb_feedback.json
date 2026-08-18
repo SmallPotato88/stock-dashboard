@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-08-18",
-          "pct_chg": -0.58,
+          "pct_chg": -0.6,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-08-18",
-          "pct_chg": -0.64,
+          "pct_chg": -0.54,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
