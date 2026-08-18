@@ -453,26 +453,10 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-18",
-          "pct_chg": -0.03,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-18",
-          "pct_chg": -0.56,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-18",
-          "pct_chg": -0.69,
+          "pct_chg": -0.67,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": 4.3,
           "vol_ratio5": 1.59,
           "close_pos": 0.42
+        },
+        {
+          "code": "603988",
+          "name": "中电电机",
+          "date": "2026-08-17",
+          "pct_chg": -4.16,
+          "vol_ratio5": 0.84,
+          "close_pos": 0.27
+        },
+        {
+          "code": "603980",
+          "name": "吉华集团",
+          "date": "2026-08-17",
+          "pct_chg": 1.44,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.44
         }
       ]
     },
@@ -545,7 +545,23 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-18",
-          "pct_chg": -0.03,
+          "pct_chg": 0.56,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-18",
+          "pct_chg": -0.59,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-18",
+          "pct_chg": -0.14,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -604,22 +620,6 @@
           "pct_chg": -0.52,
           "vol_ratio5": 0.67,
           "close_pos": 0.7
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-08-17",
-          "pct_chg": 2.28,
-          "vol_ratio5": 0.61,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-17",
-          "pct_chg": 1.7,
-          "vol_ratio5": 1.19,
-          "close_pos": 1.0
         }
       ]
     }
