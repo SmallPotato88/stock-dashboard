@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:38:56",
+  "generated_at": "2026-08-18T15:46:29",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,11 +11,11 @@
     "latest_bar_date": "2026-08-18",
     "latest_indicator_date": "2026-08-18",
     "latest_signal_trade_date": "2026-08-18",
-    "dashboard_generated_at": "2026-08-18T15:30:57",
+    "dashboard_generated_at": "2026-08-18T15:41:34",
     "dashboard_trade_date": "2026-08-18",
     "dashboard_data_date": "2026-08-18",
-    "realtime_snapshot_generated_at": "2026-08-18T15:30:58",
-    "stock_detail_count": 113,
+    "realtime_snapshot_generated_at": "2026-08-18T15:41:34",
+    "stock_detail_count": 115,
     "watchlist_count": 6,
     "main_non_st": 3109,
     "main_non_st_latest_bar": 3042,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 115,
+      "latency_ms": 106,
       "bytes_sampled": 459
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 145,
+      "latency_ms": 140,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 175,
+      "latency_ms": 235,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 713,
+      "latency_ms": 783,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 713,
+      "latency_ms": 783,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "81c67c9ebba74feb122159042cf6526c424f10e4",
-      "error": ""
+      "head": null,
+      "error": "fatal: unable to access 'https://github.com/SmallPotato88/stock-dashboard.git/': Failure when receiving data from the peer"
     },
     "gitee_repo_head": {
       "ok": true,
