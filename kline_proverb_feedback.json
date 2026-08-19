@@ -455,6 +455,22 @@
         {
           "code": "601021",
           "name": "春秋航空",
+          "date": "2026-08-19",
+          "pct_chg": 0.09,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-19",
+          "pct_chg": -3.96,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-08-18",
           "pct_chg": -0.67,
           "vol_ratio5": 0.7,
@@ -515,22 +531,6 @@
           "pct_chg": 0.18,
           "vol_ratio5": 1.07,
           "close_pos": 0.58
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-18",
-          "pct_chg": -0.28,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.37
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-08-18",
-          "pct_chg": 0.48,
-          "vol_ratio5": 0.93,
-          "close_pos": 0.45
         }
       ]
     },
@@ -541,6 +541,30 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.782,
       "recent_samples": [
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-19",
+          "pct_chg": -5.84,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-19",
+          "pct_chg": -3.96,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-19",
+          "pct_chg": -1.12,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -596,30 +620,6 @@
           "pct_chg": 1.71,
           "vol_ratio5": 1.17,
           "close_pos": 0.94
-        },
-        {
-          "code": "605499",
-          "name": "东鹏饮料",
-          "date": "2026-08-18",
-          "pct_chg": -0.73,
-          "vol_ratio5": 0.86,
-          "close_pos": 0.36
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-08-18",
-          "pct_chg": 0.18,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.58
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-08-18",
-          "pct_chg": -1.05,
-          "vol_ratio5": 0.61,
-          "close_pos": 0.63
         }
       ]
     }
