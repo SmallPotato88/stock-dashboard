@@ -183,7 +183,7 @@
       "avg_next_return_pct": -0.045,
       "win_rate_pct": 46.63,
       "avg_win_pct": 1.949,
-      "avg_loss_pct": -1.786,
+      "avg_loss_pct": -1.787,
       "recent_samples": [
         {
           "code": "000933",
@@ -456,7 +456,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-19",
-          "pct_chg": -0.18,
+          "pct_chg": -0.34,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-19",
+          "pct_chg": -1.9,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 0.18,
           "vol_ratio5": 1.07,
           "close_pos": 0.58
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-08-18",
-          "pct_chg": -0.28,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.37
         }
       ]
     },
