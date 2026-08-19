@@ -453,18 +453,10 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-19",
-          "pct_chg": -5.31,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-19",
-          "pct_chg": 0.02,
+          "pct_chg": -0.27,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 0.18,
           "vol_ratio5": 1.07,
           "close_pos": 0.58
+        },
+        {
+          "code": "605378",
+          "name": "野马电池",
+          "date": "2026-08-18",
+          "pct_chg": -0.28,
+          "vol_ratio5": 1.21,
+          "close_pos": 0.37
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.782,
       "recent_samples": [
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-08-19",
-          "pct_chg": 0.02,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -620,6 +612,14 @@
           "pct_chg": 0.18,
           "vol_ratio5": 1.07,
           "close_pos": 0.58
+        },
+        {
+          "code": "605398",
+          "name": "新炬网络",
+          "date": "2026-08-18",
+          "pct_chg": -1.05,
+          "vol_ratio5": 0.61,
+          "close_pos": 0.63
         }
       ]
     }
