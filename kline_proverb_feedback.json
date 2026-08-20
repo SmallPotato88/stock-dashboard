@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-20",
+          "pct_chg": 1.28,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-20",
-          "pct_chg": 0.25,
+          "pct_chg": 0.27,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +472,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-20",
-          "pct_chg": 1.28,
+          "pct_chg": 0.98,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +480,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-20",
-          "pct_chg": -1.33,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-20",
-          "pct_chg": 1.61,
+          "pct_chg": -1.7,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -541,22 +541,6 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.789,
       "recent_samples": [
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-20",
-          "pct_chg": 1.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-20",
-          "pct_chg": 1.61,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "605369",
           "name": "拱东医疗",
@@ -620,6 +604,22 @@
           "pct_chg": -0.7,
           "vol_ratio5": 1.44,
           "close_pos": 0.53
+        },
+        {
+          "code": "603986",
+          "name": "兆易创新",
+          "date": "2026-08-19",
+          "pct_chg": -7.56,
+          "vol_ratio5": 1.15,
+          "close_pos": 0.39
+        },
+        {
+          "code": "603899",
+          "name": "晨光股份",
+          "date": "2026-08-19",
+          "pct_chg": -0.18,
+          "vol_ratio5": 1.13,
+          "close_pos": 0.36
         }
       ]
     }
