@@ -385,7 +385,12 @@
     "source": "canonical_premarket_safe_checker"
   },
   "2026-08-19": {
-    "fetched_at": "2026-08-19T15:46:31",
+    "fetched_at": "2026-08-19T15:55:57",
+    "is_trading_day": true,
+    "source": "canonical_premarket_safe_checker"
+  },
+  "2026-08-20": {
+    "fetched_at": "2026-08-20T09:00:06",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
   }
