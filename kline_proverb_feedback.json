@@ -92,7 +92,7 @@
     "长阴放量": {
       "sample_count": 57678,
       "avg_next_return_pct": 0.001,
-      "win_rate_pct": 50.7,
+      "win_rate_pct": 50.71,
       "avg_win_pct": 3.1,
       "avg_loss_pct": -3.186,
       "recent_samples": [
@@ -455,14 +455,6 @@
         {
           "code": "000933",
           "name": "神火股份",
-          "date": "2026-08-20",
-          "pct_chg": -2.08,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
           "date": "2026-08-19",
           "pct_chg": -2.08,
           "vol_ratio5": 0.75,
@@ -531,6 +523,14 @@
           "pct_chg": -6.13,
           "vol_ratio5": 0.98,
           "close_pos": 0.07
+        },
+        {
+          "code": "605338",
+          "name": "巴比食品",
+          "date": "2026-08-19",
+          "pct_chg": -2.14,
+          "vol_ratio5": 0.88,
+          "close_pos": 0.22
         }
       ]
     },
