@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-08-20",
-          "pct_chg": 0.52,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-20",
-          "pct_chg": 1.42,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-20",
-          "pct_chg": 0.32,
+          "pct_chg": 0.41,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-20",
+          "pct_chg": 0.87,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -0.79,
           "vol_ratio5": 1.45,
           "close_pos": 0.18
+        },
+        {
+          "code": "605368",
+          "name": "蓝天燃气",
+          "date": "2026-08-19",
+          "pct_chg": -0.3,
+          "vol_ratio5": 0.87,
+          "close_pos": 0.29
         }
       ]
     },
@@ -545,7 +545,15 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-20",
-          "pct_chg": 1.02,
+          "pct_chg": 2.02,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-20",
+          "pct_chg": 1.92,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +561,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-20",
-          "pct_chg": 1.42,
+          "pct_chg": 3.11,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -2.22,
           "vol_ratio5": 0.77,
           "close_pos": 0.52
-        },
-        {
-          "code": "605001",
-          "name": "威奥股份",
-          "date": "2026-08-19",
-          "pct_chg": -0.7,
-          "vol_ratio5": 1.44,
-          "close_pos": 0.53
         }
       ]
     }
