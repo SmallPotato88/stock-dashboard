@@ -453,38 +453,6 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-21",
-          "pct_chg": 1.88,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-21",
-          "pct_chg": -0.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-21",
-          "pct_chg": 1.79,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-08-21",
-          "pct_chg": 0.32,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-20",
@@ -531,6 +499,38 @@
           "pct_chg": 0.51,
           "vol_ratio5": 1.42,
           "close_pos": 0.01
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "date": "2026-08-20",
+          "pct_chg": -1.87,
+          "vol_ratio5": 1.19,
+          "close_pos": 0.18
+        },
+        {
+          "code": "605588",
+          "name": "冠石科技",
+          "date": "2026-08-20",
+          "pct_chg": 1.28,
+          "vol_ratio5": 1.07,
+          "close_pos": 0.46
+        },
+        {
+          "code": "605580",
+          "name": "恒盛能源",
+          "date": "2026-08-20",
+          "pct_chg": -0.9,
+          "vol_ratio5": 0.73,
+          "close_pos": 0.14
+        },
+        {
+          "code": "605555",
+          "name": "德昌股份",
+          "date": "2026-08-20",
+          "pct_chg": 1.53,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.59
         }
       ]
     },
@@ -541,30 +541,6 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.789,
       "recent_samples": [
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-21",
-          "pct_chg": 1.88,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-08-21",
-          "pct_chg": -0.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-08-21",
-          "pct_chg": 1.79,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -620,6 +596,30 @@
           "pct_chg": 0.79,
           "vol_ratio5": 0.68,
           "close_pos": 0.86
+        },
+        {
+          "code": "605366",
+          "name": "宏柏新材",
+          "date": "2026-08-20",
+          "pct_chg": 0.88,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.45
+        },
+        {
+          "code": "605338",
+          "name": "巴比食品",
+          "date": "2026-08-20",
+          "pct_chg": 1.83,
+          "vol_ratio5": 1.05,
+          "close_pos": 0.51
+        },
+        {
+          "code": "605305",
+          "name": "中际联合",
+          "date": "2026-08-20",
+          "pct_chg": -0.22,
+          "vol_ratio5": 0.99,
+          "close_pos": 0.36
         }
       ]
     }
