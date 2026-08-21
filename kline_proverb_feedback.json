@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-21",
-          "pct_chg": 0.44,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-20",
@@ -531,6 +523,14 @@
           "pct_chg": -0.9,
           "vol_ratio5": 0.73,
           "close_pos": 0.14
+        },
+        {
+          "code": "605555",
+          "name": "德昌股份",
+          "date": "2026-08-20",
+          "pct_chg": 1.53,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.59
         }
       ]
     },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.789,
       "recent_samples": [
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-21",
-          "pct_chg": 0.44,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -620,6 +612,14 @@
           "pct_chg": 1.83,
           "vol_ratio5": 1.05,
           "close_pos": 0.51
+        },
+        {
+          "code": "605305",
+          "name": "中际联合",
+          "date": "2026-08-20",
+          "pct_chg": -0.22,
+          "vol_ratio5": 0.99,
+          "close_pos": 0.36
         }
       ]
     }
