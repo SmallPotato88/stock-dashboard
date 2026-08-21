@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-08-21",
-          "pct_chg": 0.67,
+          "pct_chg": 2.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-08-21",
-          "pct_chg": -1.65,
+          "pct_chg": -1.67,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
