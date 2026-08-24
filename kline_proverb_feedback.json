@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 107983,
+      "sample_count": 107984,
       "avg_next_return_pct": 0.192,
       "win_rate_pct": 51.55,
       "avg_win_pct": 2.531,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 724555,
+      "sample_count": 724556,
       "avg_next_return_pct": 0.003,
       "win_rate_pct": 47.95,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.925,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-24",
+          "pct_chg": 1.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -523,14 +531,6 @@
           "pct_chg": -1.88,
           "vol_ratio5": 1.13,
           "close_pos": 0.55
-        },
-        {
-          "code": "605188",
-          "name": "国光连锁",
-          "date": "2026-08-21",
-          "pct_chg": -1.12,
-          "vol_ratio5": 0.64,
-          "close_pos": 0.53
         }
       ]
     },
