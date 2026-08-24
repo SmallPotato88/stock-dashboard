@@ -400,7 +400,7 @@
     "source": "canonical_premarket_safe_checker"
   },
   "2026-08-24": {
-    "fetched_at": "2026-08-24T14:25:58",
+    "fetched_at": "2026-08-24T14:30:58",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
   }
