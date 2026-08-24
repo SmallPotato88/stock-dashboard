@@ -456,7 +456,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-08-24",
-          "pct_chg": -0.85,
+          "pct_chg": -0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.789,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-08-24",
-          "pct_chg": -0.85,
+          "pct_chg": 1.4,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-08-24",
-          "pct_chg": 1.59,
+          "pct_chg": -0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
