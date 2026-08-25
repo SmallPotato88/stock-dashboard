@@ -542,14 +542,6 @@
       "avg_loss_pct": -1.789,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-08-25",
-          "pct_chg": -0.71,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-08-25",
@@ -562,6 +554,14 @@
           "name": "神火股份",
           "date": "2026-08-25",
           "pct_chg": -0.84,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-25",
+          "pct_chg": -0.71,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
