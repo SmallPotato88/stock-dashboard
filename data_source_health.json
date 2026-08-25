@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:29:47",
+  "generated_at": "2026-08-25T15:36:22",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,11 +11,11 @@
     "latest_bar_date": "2026-08-25",
     "latest_indicator_date": "2026-08-25",
     "latest_signal_trade_date": "2026-08-25",
-    "dashboard_generated_at": "2026-08-25T15:21:32",
-    "dashboard_trade_date": "2026-08-24",
-    "dashboard_data_date": "2026-08-24",
-    "realtime_snapshot_generated_at": "2026-08-25T14:57:58",
-    "stock_detail_count": 102,
+    "dashboard_generated_at": "2026-08-25T15:29:49",
+    "dashboard_trade_date": "2026-08-25",
+    "dashboard_data_date": "2026-08-25",
+    "realtime_snapshot_generated_at": "2026-08-25T15:29:50",
+    "stock_detail_count": 125,
     "watchlist_count": 6,
     "main_non_st": 3109,
     "main_non_st_latest_bar": 3016,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 108,
-      "bytes_sampled": 460
+      "latency_ms": 115,
+      "bytes_sampled": 461
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 142,
+      "latency_ms": 176,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 233,
+      "latency_ms": 153,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1060,
+      "latency_ms": 791,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1060,
+      "latency_ms": 791,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "9b8a330be4a94bd3327b6cfcba7189f18571f90c",
+      "head": "fad540d610812103b41f5ab684c02d09fef354a0",
       "error": ""
     },
     "gitee_repo_head": {
