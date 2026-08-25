@@ -403,5 +403,10 @@
     "fetched_at": "2026-08-24T15:57:25",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
+  },
+  "2026-08-25": {
+    "fetched_at": "2026-08-25T09:00:34",
+    "is_trading_day": true,
+    "source": "canonical_premarket_safe_checker"
   }
 }
