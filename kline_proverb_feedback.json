@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 58110,
+      "sample_count": 58111,
       "avg_next_return_pct": 0.0,
       "win_rate_pct": 50.7,
       "avg_win_pct": 3.093,
@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 108076,
+      "sample_count": 108077,
       "avg_next_return_pct": 0.191,
       "win_rate_pct": 51.53,
       "avg_win_pct": 2.531,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 725035,
+      "sample_count": 725036,
       "avg_next_return_pct": 0.003,
       "win_rate_pct": 47.95,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.925,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-25",
+          "pct_chg": -1.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -523,24 +531,40 @@
           "pct_chg": -0.35,
           "vol_ratio5": 0.96,
           "close_pos": 0.26
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-08-24",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.9,
-          "close_pos": 0.22
         }
       ]
     },
     "下影线长": {
-      "sample_count": 618185,
+      "sample_count": 618188,
       "avg_next_return_pct": -0.035,
       "win_rate_pct": 45.9,
       "avg_win_pct": 2.032,
       "avg_loss_pct": -1.789,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-08-25",
+          "pct_chg": -3.21,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-25",
+          "pct_chg": 1.16,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-08-25",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -596,30 +620,6 @@
           "pct_chg": -1.28,
           "vol_ratio5": 1.0,
           "close_pos": 0.52
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-08-24",
-          "pct_chg": -0.43,
-          "vol_ratio5": 0.86,
-          "close_pos": 0.36
-        },
-        {
-          "code": "605389",
-          "name": "长龄液压",
-          "date": "2026-08-24",
-          "pct_chg": -1.46,
-          "vol_ratio5": 0.98,
-          "close_pos": 0.53
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-08-24",
-          "pct_chg": 3.68,
-          "vol_ratio5": 2.29,
-          "close_pos": 0.5
         }
       ]
     }
