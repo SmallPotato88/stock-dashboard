@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:21:30",
+  "generated_at": "2026-08-25T15:29:47",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-08-24",
-    "latest_indicator_date": "2026-08-24",
-    "latest_signal_trade_date": "2026-08-24",
-    "dashboard_generated_at": "2026-08-25T15:16:28",
+    "latest_bar_date": "2026-08-25",
+    "latest_indicator_date": "2026-08-25",
+    "latest_signal_trade_date": "2026-08-25",
+    "dashboard_generated_at": "2026-08-25T15:21:32",
     "dashboard_trade_date": "2026-08-24",
     "dashboard_data_date": "2026-08-24",
     "realtime_snapshot_generated_at": "2026-08-25T14:57:58",
     "stock_detail_count": 102,
     "watchlist_count": 6,
     "main_non_st": 3109,
-    "main_non_st_latest_bar": 3044,
-    "main_non_st_latest_indicator": 3044,
-    "bar_coverage_pct": 97.91,
-    "indicator_coverage_pct": 97.91
+    "main_non_st_latest_bar": 3016,
+    "main_non_st_latest_indicator": 3016,
+    "bar_coverage_pct": 97.01,
+    "indicator_coverage_pct": 97.01
   },
   "db_sources": [
     {
@@ -92,39 +92,39 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 124,
+      "latency_ms": 108,
       "bytes_sampled": 460
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 149,
+      "latency_ms": 142,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 197,
+      "latency_ms": 233,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 9259,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 1060,
+      "bytes_sampled": 512
     }
   },
   "publish": {
     "github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 9259,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 1060,
+      "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "b0282e8f2c86a31383ff7f455495560d9ea197da",
+      "head": "9b8a330be4a94bd3327b6cfcba7189f18571f90c",
       "error": ""
     },
     "gitee_repo_head": {
@@ -136,9 +136,9 @@
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-08-24",
-    "latest_indicator_date": "2026-08-24",
-    "main_non_st_indicator_coverage_pct": 97.91
+    "latest_bar_date": "2026-08-25",
+    "latest_indicator_date": "2026-08-25",
+    "main_non_st_indicator_coverage_pct": 97.01
   },
   "governance": {
     "canonical_fields": [
@@ -164,7 +164,7 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.91%"
+      "detail": "97.01%"
     },
     {
       "level": "P2",
@@ -174,12 +174,7 @@
     {
       "level": "P2",
       "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2,dashboard_github_pages"
-    },
-    {
-      "level": "P1",
-      "item": "GitHub Pages 数据不可访问",
-      "detail": "{'ok': False, 'status': None, 'latency_ms': 9259, 'error': \"URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))\"}"
+      "detail": "eastmoney_push2"
     }
   ]
 }
