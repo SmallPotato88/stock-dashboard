@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.925,
       "recent_samples": [
         {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-08-26",
+          "pct_chg": 1.01,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-08-26",
           "pct_chg": -0.04,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-08-26",
-          "pct_chg": 1.03,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-08-26",
-          "pct_chg": 1.85,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 0.28,
           "vol_ratio5": 0.93,
           "close_pos": 0.62
+        },
+        {
+          "code": "605198",
+          "name": "安德利",
+          "date": "2026-08-25",
+          "pct_chg": -1.11,
+          "vol_ratio5": 1.45,
+          "close_pos": 0.4
         }
       ]
     },
@@ -545,15 +545,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-26",
-          "pct_chg": -0.94,
+          "pct_chg": -1.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-08-26",
-          "pct_chg": 1.14,
+          "pct_chg": 1.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -566,10 +566,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-08-26",
-          "pct_chg": 1.03,
+          "pct_chg": 1.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
