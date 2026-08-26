@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107200,
+      "sample_count": 107201,
       "avg_next_return_pct": -0.055,
       "win_rate_pct": 46.49,
       "avg_win_pct": 1.947,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 726023,
+      "sample_count": 726024,
       "avg_next_return_pct": 0.005,
       "win_rate_pct": 47.99,
       "avg_win_pct": 2.097,
       "avg_loss_pct": -1.925,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-26",
+          "pct_chg": -0.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605555",
           "name": "德昌股份",
@@ -523,24 +531,40 @@
           "pct_chg": -1.07,
           "vol_ratio5": 1.27,
           "close_pos": 0.53
-        },
-        {
-          "code": "605183",
-          "name": "确成股份",
-          "date": "2026-08-25",
-          "pct_chg": -1.18,
-          "vol_ratio5": 1.66,
-          "close_pos": 0.15
         }
       ]
     },
     "下影线长": {
-      "sample_count": 619268,
+      "sample_count": 619271,
       "avg_next_return_pct": -0.032,
       "win_rate_pct": 45.96,
       "avg_win_pct": 2.033,
       "avg_loss_pct": -1.789,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-08-26",
+          "pct_chg": 0.52,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-08-26",
+          "pct_chg": 0.69,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-08-26",
+          "pct_chg": -0.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605589",
           "name": "圣泉集团",
@@ -596,30 +620,6 @@
           "pct_chg": 0.26,
           "vol_ratio5": 0.82,
           "close_pos": 0.83
-        },
-        {
-          "code": "605338",
-          "name": "巴比食品",
-          "date": "2026-08-25",
-          "pct_chg": -1.22,
-          "vol_ratio5": 0.64,
-          "close_pos": 0.36
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-08-25",
-          "pct_chg": -1.65,
-          "vol_ratio5": 0.78,
-          "close_pos": 0.66
-        },
-        {
-          "code": "605289",
-          "name": "罗曼股份",
-          "date": "2026-08-25",
-          "pct_chg": 0.14,
-          "vol_ratio5": 0.77,
-          "close_pos": 0.8
         }
       ]
     }
