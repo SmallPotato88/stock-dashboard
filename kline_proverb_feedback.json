@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.923,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-08-28",
-          "pct_chg": -2.54,
+          "pct_chg": -1.18,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-08-28",
-          "pct_chg": -1.15,
+          "pct_chg": -2.39,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +472,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-08-28",
-          "pct_chg": -1.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-08-28",
-          "pct_chg": 0.2,
+          "pct_chg": -0.97,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -0.25,
           "vol_ratio5": 0.87,
           "close_pos": 0.52
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-08-27",
+          "pct_chg": 0.49,
+          "vol_ratio5": 0.8,
+          "close_pos": 0.5
         }
       ]
     },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.788,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-08-28",
-          "pct_chg": 0.25,
+          "pct_chg": 1.78,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-08-28",
-          "pct_chg": 1.75,
+          "pct_chg": 0.25,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
