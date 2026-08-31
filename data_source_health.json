@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:31:05",
+  "generated_at": "2026-08-31T12:36:17",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-08-28",
     "latest_indicator_date": "2026-08-28",
     "latest_signal_trade_date": "2026-08-28",
-    "dashboard_generated_at": "2026-08-31T12:21:19",
+    "dashboard_generated_at": "2026-08-31T12:31:07",
     "dashboard_trade_date": "2026-08-28",
     "dashboard_data_date": "2026-08-28",
     "realtime_snapshot_generated_at": "2026-08-31T11:21:39",
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-08-31T12:28:32",
+      "latest_fetched_at": "2026-08-31T12:32:56",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,40 +92,40 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 115,
+      "latency_ms": 130,
       "bytes_sampled": 461
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 33,
+      "latency_ms": 38,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 194,
+      "latency_ms": 199,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 8218,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 579,
+      "bytes_sampled": 512
     }
   },
   "publish": {
     "github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 8218,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 579,
+      "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "ff2bc9be0939208e2e273695c9be4c121533ed6f",
-      "error": ""
+      "head": null,
+      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
     },
     "gitee_repo_head": {
       "ok": true,
@@ -174,12 +174,7 @@
     {
       "level": "P2",
       "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2,dashboard_github_pages"
-    },
-    {
-      "level": "P1",
-      "item": "GitHub Pages 数据不可访问",
-      "detail": "{'ok': False, 'status': None, 'latency_ms': 8218, 'error': \"URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))\"}"
+      "detail": "eastmoney_push2"
     }
   ]
 }
