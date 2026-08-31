@@ -456,7 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-08-31",
-          "pct_chg": -0.71,
+          "pct_chg": -0.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,6 +542,14 @@
       "avg_loss_pct": -1.787,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-08-31",
+          "pct_chg": -2.04,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-08-31",
@@ -612,14 +620,6 @@
           "pct_chg": 0.38,
           "vol_ratio5": 1.31,
           "close_pos": 0.61
-        },
-        {
-          "code": "605180",
-          "name": "华生科技",
-          "date": "2026-08-28",
-          "pct_chg": 0.93,
-          "vol_ratio5": 0.87,
-          "close_pos": 0.51
         }
       ]
     }
