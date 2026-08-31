@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:21:01",
+  "generated_at": "2026-08-31T15:29:47",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-08-28",
-    "latest_indicator_date": "2026-08-28",
-    "latest_signal_trade_date": "2026-08-28",
-    "dashboard_generated_at": "2026-08-31T15:17:07",
+    "latest_bar_date": "2026-08-31",
+    "latest_indicator_date": "2026-08-31",
+    "latest_signal_trade_date": "2026-08-31",
+    "dashboard_generated_at": "2026-08-31T15:21:03",
     "dashboard_trade_date": "2026-08-28",
     "dashboard_data_date": "2026-08-28",
     "realtime_snapshot_generated_at": "2026-08-31T14:56:30",
     "stock_detail_count": 114,
     "watchlist_count": 6,
     "main_non_st": 3114,
-    "main_non_st_latest_bar": 3045,
-    "main_non_st_latest_indicator": 3045,
-    "bar_coverage_pct": 97.78,
-    "indicator_coverage_pct": 97.78
+    "main_non_st_latest_bar": 3046,
+    "main_non_st_latest_indicator": 3046,
+    "bar_coverage_pct": 97.82,
+    "indicator_coverage_pct": 97.82
   },
   "db_sources": [
     {
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 118,
+      "latency_ms": 140,
       "bytes_sampled": 461
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 142,
+      "latency_ms": 132,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 173,
+      "latency_ms": 156,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1629,
+      "latency_ms": 4823,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1629,
+      "latency_ms": 4823,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "d82deffa6714bdff5a4e3940ab19a17661571a2e",
+      "head": "4f23bd18dfc2c943f2ed8593d7604c3690396d15",
       "error": ""
     },
     "gitee_repo_head": {
@@ -136,9 +136,9 @@
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-08-28",
-    "latest_indicator_date": "2026-08-28",
-    "main_non_st_indicator_coverage_pct": 97.78
+    "latest_bar_date": "2026-08-31",
+    "latest_indicator_date": "2026-08-31",
+    "main_non_st_indicator_coverage_pct": 97.82
   },
   "governance": {
     "canonical_fields": [
@@ -164,7 +164,7 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.78%"
+      "detail": "97.82%"
     },
     {
       "level": "P2",
