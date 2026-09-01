@@ -453,6 +453,30 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-01",
+          "pct_chg": -1.15,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-09-01",
+          "pct_chg": 0.87,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-09-01",
+          "pct_chg": -0.44,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605566",
           "name": "福莱蒽特",
           "date": "2026-08-31",
@@ -507,30 +531,6 @@
           "pct_chg": -2.45,
           "vol_ratio5": 1.08,
           "close_pos": 0.4
-        },
-        {
-          "code": "605151",
-          "name": "西上海",
-          "date": "2026-08-31",
-          "pct_chg": -0.16,
-          "vol_ratio5": 0.9,
-          "close_pos": 0.62
-        },
-        {
-          "code": "605136",
-          "name": "丽人丽妆",
-          "date": "2026-08-31",
-          "pct_chg": 0.06,
-          "vol_ratio5": 0.94,
-          "close_pos": 0.47
-        },
-        {
-          "code": "605108",
-          "name": "同庆楼",
-          "date": "2026-08-31",
-          "pct_chg": -0.39,
-          "vol_ratio5": 0.99,
-          "close_pos": 0.52
         }
       ]
     },
