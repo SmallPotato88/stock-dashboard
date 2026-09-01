@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-09-01",
+          "pct_chg": 1.16,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605566",
           "name": "福莱蒽特",
           "date": "2026-08-31",
@@ -523,14 +531,6 @@
           "pct_chg": 0.06,
           "vol_ratio5": 0.94,
           "close_pos": 0.47
-        },
-        {
-          "code": "605108",
-          "name": "同庆楼",
-          "date": "2026-08-31",
-          "pct_chg": -0.39,
-          "vol_ratio5": 0.99,
-          "close_pos": 0.52
         }
       ]
     },
