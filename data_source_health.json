@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:56:26",
+  "generated_at": "2026-09-02T12:06:42",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-09-01",
     "latest_indicator_date": "2026-09-01",
     "latest_signal_trade_date": "2026-09-01",
-    "dashboard_generated_at": "2026-09-02T11:36:52",
+    "dashboard_generated_at": "2026-09-02T11:56:28",
     "dashboard_trade_date": "2026-09-01",
     "dashboard_data_date": "2026-09-01",
     "realtime_snapshot_generated_at": "2026-09-02T11:26:42",
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-09-02T11:45:01",
+      "latest_fetched_at": "2026-09-02T12:00:48",
       "age_days": 0,
       "status": "ok"
     },
@@ -98,33 +98,33 @@
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 139,
+      "latency_ms": 130,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 192,
+      "latency_ms": 209,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 608,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 10289,
+      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
     }
   },
   "publish": {
     "github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 608,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 10289,
+      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "ae68cafbe3fecf3d27f86176a734816c3b955499",
+      "head": "ba69bfd6ef089ce0d60884eeab03e160263b5f7d",
       "error": ""
     },
     "gitee_repo_head": {
@@ -174,7 +174,12 @@
     {
       "level": "P2",
       "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
+      "detail": "eastmoney_push2,dashboard_github_pages"
+    },
+    {
+      "level": "P1",
+      "item": "GitHub Pages 数据不可访问",
+      "detail": "{'ok': False, 'status': None, 'latency_ms': 10289, 'error': \"URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))\"}"
     }
   ]
 }
