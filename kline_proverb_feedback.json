@@ -455,6 +455,30 @@
         {
           "code": "000933",
           "name": "神火股份",
+          "date": "2026-09-02",
+          "pct_chg": 0.18,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-02",
+          "pct_chg": -1.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-09-02",
+          "pct_chg": -0.86,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-09-01",
           "pct_chg": 0.04,
           "vol_ratio5": 0.9,
@@ -507,30 +531,6 @@
           "pct_chg": 2.29,
           "vol_ratio5": 1.59,
           "close_pos": 0.63
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-09-01",
-          "pct_chg": -1.24,
-          "vol_ratio5": 0.97,
-          "close_pos": 0.1
-        },
-        {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-09-01",
-          "pct_chg": -1.45,
-          "vol_ratio5": 0.81,
-          "close_pos": 0.05
-        },
-        {
-          "code": "605389",
-          "name": "长龄液压",
-          "date": "2026-09-01",
-          "pct_chg": 1.18,
-          "vol_ratio5": 1.46,
-          "close_pos": 0.6
         }
       ]
     },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.032,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-02",
+          "pct_chg": -1.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-09-02",
+          "pct_chg": -0.86,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -604,22 +620,6 @@
           "pct_chg": -0.44,
           "vol_ratio5": 0.61,
           "close_pos": 0.53
-        },
-        {
-          "code": "605168",
-          "name": "三人行",
-          "date": "2026-09-01",
-          "pct_chg": 1.64,
-          "vol_ratio5": 1.06,
-          "close_pos": 0.62
-        },
-        {
-          "code": "605167",
-          "name": "利柏特",
-          "date": "2026-09-01",
-          "pct_chg": 1.67,
-          "vol_ratio5": 0.66,
-          "close_pos": 0.74
         }
       ]
     }
