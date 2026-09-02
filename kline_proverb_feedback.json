@@ -453,26 +453,10 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-09-02",
-          "pct_chg": -1.79,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-09-02",
-          "pct_chg": -1.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-02",
-          "pct_chg": -0.65,
+          "pct_chg": -1.27,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +464,23 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-09-02",
-          "pct_chg": -1.38,
+          "pct_chg": -1.82,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-02",
+          "pct_chg": -2.31,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-09-02",
+          "pct_chg": -3.13,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -541,14 +541,6 @@
       "avg_win_pct": 2.032,
       "avg_loss_pct": -1.786,
       "recent_samples": [
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-09-02",
-          "pct_chg": -1.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -620,6 +612,14 @@
           "pct_chg": 1.64,
           "vol_ratio5": 1.06,
           "close_pos": 0.62
+        },
+        {
+          "code": "605167",
+          "name": "利柏特",
+          "date": "2026-09-01",
+          "pct_chg": 1.67,
+          "vol_ratio5": 0.66,
+          "close_pos": 0.74
         }
       ]
     }
