@@ -456,7 +456,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-09-02",
-          "pct_chg": -3.85,
+          "pct_chg": -3.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,15 +464,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-02",
-          "pct_chg": -0.88,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-09-02",
-          "pct_chg": -1.47,
+          "pct_chg": -0.96,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 2.29,
           "vol_ratio5": 1.59,
           "close_pos": 0.63
+        },
+        {
+          "code": "605399",
+          "name": "晨光新材",
+          "date": "2026-09-01",
+          "pct_chg": -1.24,
+          "vol_ratio5": 0.97,
+          "close_pos": 0.1
         }
       ]
     },
@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.786,
       "recent_samples": [
         {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-02",
+          "pct_chg": -1.31,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-02",
-          "pct_chg": -0.88,
+          "pct_chg": -0.96,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,15 +561,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-09-02",
-          "pct_chg": -0.76,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-09-02",
-          "pct_chg": -1.47,
+          "pct_chg": -0.65,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
