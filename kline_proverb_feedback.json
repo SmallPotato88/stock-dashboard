@@ -453,18 +453,10 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-09-02",
-          "pct_chg": -1.27,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-09-02",
-          "pct_chg": -1.82,
+          "pct_chg": -3.28,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +464,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-09-02",
-          "pct_chg": -2.31,
+          "pct_chg": -2.6,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-09-02",
-          "pct_chg": -3.13,
+          "pct_chg": -1.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 1.36,
           "vol_ratio5": 0.86,
           "close_pos": 0.51
+        },
+        {
+          "code": "605499",
+          "name": "东鹏饮料",
+          "date": "2026-09-01",
+          "pct_chg": 2.29,
+          "vol_ratio5": 1.59,
+          "close_pos": 0.63
         }
       ]
     },
