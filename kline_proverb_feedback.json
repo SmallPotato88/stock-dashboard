@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 731339,
+      "sample_count": 731340,
       "avg_next_return_pct": 0.01,
       "win_rate_pct": 48.09,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.922,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-09-02",
+          "pct_chg": 0.04,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000933",
           "name": "神火股份",
@@ -523,14 +531,6 @@
           "pct_chg": -1.45,
           "vol_ratio5": 0.81,
           "close_pos": 0.05
-        },
-        {
-          "code": "605389",
-          "name": "长龄液压",
-          "date": "2026-09-01",
-          "pct_chg": 1.18,
-          "vol_ratio5": 1.46,
-          "close_pos": 0.6
         }
       ]
     },
