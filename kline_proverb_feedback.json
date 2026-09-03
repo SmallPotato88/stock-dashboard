@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-09-03",
-          "pct_chg": -1.19,
+          "pct_chg": -4.6,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -469,10 +469,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-09-03",
-          "pct_chg": -4.6,
+          "pct_chg": -1.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
