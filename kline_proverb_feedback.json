@@ -461,18 +461,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-09-03",
-          "pct_chg": 0.44,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-03",
           "pct_chg": -0.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-09-03",
+          "pct_chg": 0.44,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
