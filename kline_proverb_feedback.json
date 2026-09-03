@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 58086,
+      "sample_count": 58087,
       "avg_next_return_pct": 0.012,
       "win_rate_pct": 50.87,
       "avg_win_pct": 3.096,
@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 106918,
+      "sample_count": 106919,
       "avg_next_return_pct": -0.041,
       "win_rate_pct": 46.78,
       "avg_win_pct": 1.952,
@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 108998,
+      "sample_count": 108999,
       "avg_next_return_pct": 0.195,
       "win_rate_pct": 51.62,
       "avg_win_pct": 2.531,
@@ -446,12 +446,36 @@
       ]
     },
     "上影线长": {
-      "sample_count": 732566,
+      "sample_count": 732569,
       "avg_next_return_pct": 0.009,
       "win_rate_pct": 48.05,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.922,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-09-03",
+          "pct_chg": -1.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-03",
+          "pct_chg": -2.2,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-09-03",
+          "pct_chg": -4.6,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -507,40 +531,24 @@
           "pct_chg": -1.47,
           "vol_ratio5": 0.74,
           "close_pos": 0.45
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-09-02",
-          "pct_chg": -2.49,
-          "vol_ratio5": 1.98,
-          "close_pos": 0.01
-        },
-        {
-          "code": "605303",
-          "name": "园林股份",
-          "date": "2026-09-02",
-          "pct_chg": 1.58,
-          "vol_ratio5": 0.76,
-          "close_pos": 0.61
-        },
-        {
-          "code": "605300",
-          "name": "佳禾食品",
-          "date": "2026-09-02",
-          "pct_chg": -2.05,
-          "vol_ratio5": 2.93,
-          "close_pos": 0.12
         }
       ]
     },
     "下影线长": {
-      "sample_count": 625214,
+      "sample_count": 625215,
       "avg_next_return_pct": -0.028,
       "win_rate_pct": 46.06,
       "avg_win_pct": 2.032,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-09-03",
+          "pct_chg": -1.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002273",
           "name": "水晶光电",
@@ -612,14 +620,6 @@
           "pct_chg": 0.42,
           "vol_ratio5": 0.94,
           "close_pos": 0.71
-        },
-        {
-          "code": "605369",
-          "name": "拱东医疗",
-          "date": "2026-09-02",
-          "pct_chg": -1.98,
-          "vol_ratio5": 1.87,
-          "close_pos": 0.5
         }
       ]
     }
