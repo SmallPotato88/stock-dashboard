@@ -453,18 +453,10 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-09-03",
-          "pct_chg": 1.36,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-03",
-          "pct_chg": 1.25,
+          "pct_chg": 1.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +464,15 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-09-03",
-          "pct_chg": 2.17,
+          "pct_chg": 1.33,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-09-03",
-          "pct_chg": 2.1,
+          "pct_chg": 0.88,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 1.48,
           "vol_ratio5": 1.05,
           "close_pos": 0.47
+        },
+        {
+          "code": "605376",
+          "name": "博迁新材",
+          "date": "2026-09-02",
+          "pct_chg": -1.47,
+          "vol_ratio5": 0.74,
+          "close_pos": 0.45
         }
       ]
     },
@@ -542,26 +542,10 @@
       "avg_loss_pct": -1.786,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-09-03",
-          "pct_chg": 2.17,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-09-03",
-          "pct_chg": 2.1,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-09-03",
-          "pct_chg": 0.09,
+          "pct_chg": 0.23,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": -1.47,
           "vol_ratio5": 0.74,
           "close_pos": 0.45
+        },
+        {
+          "code": "605378",
+          "name": "野马电池",
+          "date": "2026-09-02",
+          "pct_chg": -0.82,
+          "vol_ratio5": 0.66,
+          "close_pos": 0.58
+        },
+        {
+          "code": "605368",
+          "name": "蓝天燃气",
+          "date": "2026-09-02",
+          "pct_chg": 0.42,
+          "vol_ratio5": 0.94,
+          "close_pos": 0.71
         }
       ]
     }
