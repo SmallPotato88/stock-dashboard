@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:43:57",
+  "generated_at": "2026-09-04T15:51:26",
   "data_date": "2026-09-04",
   "scale": {
     "total_securities": 5895,
@@ -157,7 +157,7 @@
     ],
     "industry_filled": 3116,
     "industry_filled_pct": 100.0,
-    "strategy_candidates": 21
+    "strategy_candidates": 150
   },
   "classification_universe": "主板非ST 且 当日有 daily_bars + indicators_daily",
   "classification_size": 3048,
@@ -582,7 +582,7 @@
     "market_score": 40.968423823993774,
     "market_state": "谨慎",
     "reasons_json": "[\"上涨占比39.8%\", \"MA20上方49.7%\", \"MA60上方56.4%\", \"20日高附近4.5%\", \"均涨幅-0.35%\", \"强/弱股323/666\"]",
-    "created_at": "2026-09-04 07:43:55"
+    "created_at": "2026-09-04 07:51:24"
   },
   "sector_hot": [
     {
