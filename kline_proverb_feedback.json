@@ -456,15 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-09-04",
-          "pct_chg": -0.43,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-09-04",
-          "pct_chg": 0.59,
+          "pct_chg": -0.69,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +464,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-04",
-          "pct_chg": 3.05,
+          "pct_chg": 2.97,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-09-04",
+          "pct_chg": 0.08,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
