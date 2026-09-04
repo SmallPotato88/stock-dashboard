@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 123468,
+      "sample_count": 123469,
       "avg_next_return_pct": 0.364,
       "win_rate_pct": 47.48,
       "avg_win_pct": 3.623,
@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107268,
+      "sample_count": 107269,
       "avg_next_return_pct": -0.041,
       "win_rate_pct": 46.75,
       "avg_win_pct": 1.952,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 733370,
+      "sample_count": 733373,
       "avg_next_return_pct": 0.008,
       "win_rate_pct": 48.03,
       "avg_win_pct": 2.096,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 626517,
+      "sample_count": 626518,
       "avg_next_return_pct": -0.028,
       "win_rate_pct": 46.03,
       "avg_win_pct": 2.031,
