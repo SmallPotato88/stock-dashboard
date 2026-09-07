@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-09-07",
-          "pct_chg": 3.69,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-07",
@@ -531,6 +523,14 @@
           "pct_chg": 0.43,
           "vol_ratio5": 0.58,
           "close_pos": 0.3
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-09-04",
+          "pct_chg": 2.73,
+          "vol_ratio5": 1.45,
+          "close_pos": 0.51
         }
       ]
     },
