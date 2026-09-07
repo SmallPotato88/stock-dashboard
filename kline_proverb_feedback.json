@@ -456,7 +456,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-07",
-          "pct_chg": 0.0,
+          "pct_chg": -0.34,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-09-07",
+          "pct_chg": 1.93,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 0.43,
           "vol_ratio5": 0.58,
           "close_pos": 0.3
-        },
-        {
-          "code": "605369",
-          "name": "拱东医疗",
-          "date": "2026-09-04",
-          "pct_chg": 2.73,
-          "vol_ratio5": 1.45,
-          "close_pos": 0.51
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-09-07",
-          "pct_chg": -0.02,
+          "pct_chg": 0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
