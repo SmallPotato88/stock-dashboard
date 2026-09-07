@@ -456,15 +456,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-07",
-          "pct_chg": 0.16,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-09-07",
-          "pct_chg": 3.6,
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 0.43,
           "vol_ratio5": 0.58,
           "close_pos": 0.3
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-09-04",
+          "pct_chg": 2.73,
+          "vol_ratio5": 1.45,
+          "close_pos": 0.51
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 2.031,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-09-07",
+          "pct_chg": -0.05,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605500",
           "name": "森林包装",
@@ -612,14 +620,6 @@
           "pct_chg": 0.81,
           "vol_ratio5": 0.52,
           "close_pos": 0.55
-        },
-        {
-          "code": "603977",
-          "name": "国泰集团",
-          "date": "2026-09-04",
-          "pct_chg": -0.59,
-          "vol_ratio5": 0.96,
-          "close_pos": 0.44
         }
       ]
     }
