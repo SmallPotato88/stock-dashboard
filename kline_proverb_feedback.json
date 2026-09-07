@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-09-07",
+          "pct_chg": 0.45,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-04",
@@ -523,14 +531,6 @@
           "pct_chg": 2.73,
           "vol_ratio5": 1.45,
           "close_pos": 0.51
-        },
-        {
-          "code": "605366",
-          "name": "宏柏新材",
-          "date": "2026-09-04",
-          "pct_chg": -1.38,
-          "vol_ratio5": 0.99,
-          "close_pos": 0.19
         }
       ]
     },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.031,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-09-07",
+          "pct_chg": 1.99,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-09-07",
+          "pct_chg": -0.84,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605500",
           "name": "森林包装",
@@ -604,22 +620,6 @@
           "pct_chg": 1.43,
           "vol_ratio5": 1.07,
           "close_pos": 0.62
-        },
-        {
-          "code": "603970",
-          "name": "中农立华",
-          "date": "2026-09-04",
-          "pct_chg": 0.81,
-          "vol_ratio5": 0.52,
-          "close_pos": 0.55
-        },
-        {
-          "code": "603977",
-          "name": "国泰集团",
-          "date": "2026-09-04",
-          "pct_chg": -0.59,
-          "vol_ratio5": 0.96,
-          "close_pos": 0.44
         }
       ]
     }
