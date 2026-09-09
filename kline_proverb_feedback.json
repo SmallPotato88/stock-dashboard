@@ -456,7 +456,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-09-09",
-          "pct_chg": 1.55,
+          "pct_chg": 0.99,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-09-09",
+          "pct_chg": -0.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 1.77,
           "vol_ratio5": 0.98,
           "close_pos": 0.54
-        },
-        {
-          "code": "605338",
-          "name": "巴比食品",
-          "date": "2026-09-08",
-          "pct_chg": -0.05,
-          "vol_ratio5": 0.99,
-          "close_pos": 0.38
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-09-09",
-          "pct_chg": -0.95,
+          "pct_chg": -1.03,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-09-09",
-          "pct_chg": -0.3,
+          "pct_chg": -0.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
