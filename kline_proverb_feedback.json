@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 737610,
+      "sample_count": 737612,
       "avg_next_return_pct": 0.011,
       "win_rate_pct": 48.08,
       "avg_win_pct": 2.094,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 628052,
+      "sample_count": 628053,
       "avg_next_return_pct": -0.027,
       "win_rate_pct": 46.06,
       "avg_win_pct": 2.031,
