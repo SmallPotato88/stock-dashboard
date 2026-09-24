@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:16:26",
+  "generated_at": "2026-09-24T15:56:14",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-09-08",
-    "latest_indicator_date": "2026-09-08",
-    "latest_signal_trade_date": "2026-09-08",
-    "dashboard_generated_at": "2026-09-09T14:06:54",
-    "dashboard_trade_date": "2026-09-08",
-    "dashboard_data_date": "2026-09-08",
-    "realtime_snapshot_generated_at": "2026-09-09T14:07:04",
-    "stock_detail_count": 102,
+    "latest_bar_date": "2026-09-24",
+    "latest_indicator_date": "2026-09-24",
+    "latest_signal_trade_date": "2026-09-24",
+    "dashboard_generated_at": "2026-09-24T15:52:18",
+    "dashboard_trade_date": "2026-09-24",
+    "dashboard_data_date": "2026-09-24",
+    "realtime_snapshot_generated_at": "2026-09-24T15:52:18",
+    "stock_detail_count": 118,
     "watchlist_count": 7,
-    "main_non_st": 3115,
-    "main_non_st_latest_bar": 3047,
-    "main_non_st_latest_indicator": 3047,
-    "bar_coverage_pct": 97.82,
-    "indicator_coverage_pct": 97.82
+    "main_non_st": 3116,
+    "main_non_st_latest_bar": 3046,
+    "main_non_st_latest_indicator": 3046,
+    "bar_coverage_pct": 97.75,
+    "indicator_coverage_pct": 97.75
   },
   "db_sources": [
     {
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-09-09T14:12:56",
+      "latest_fetched_at": "2026-09-24T14:57:11",
       "age_days": 0,
       "status": "ok"
     },
@@ -39,7 +39,7 @@
       "table": "baidu_kline_enrichment",
       "rows": 3,
       "latest_fetched_at": "2026-05-22 16:18:42",
-      "age_days": 110,
+      "age_days": 125,
       "status": "warn"
     },
     {
@@ -48,7 +48,7 @@
       "table": "stock_risk_enrichment",
       "rows": 97,
       "latest_fetched_at": "2026-05-27 06:46:46",
-      "age_days": 105,
+      "age_days": 120,
       "status": "warn"
     },
     {
@@ -57,7 +57,7 @@
       "table": "stock_news_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-09-04 07:31:34",
-      "age_days": 5,
+      "age_days": 20,
       "status": "warn"
     },
     {
@@ -65,18 +65,18 @@
       "role": "资金流/大宗/分红",
       "table": "stock_moneyflow_enrichment",
       "rows": 26,
-      "latest_fetched_at": "2026-09-04 07:31:34",
-      "age_days": 5,
-      "status": "warn"
+      "latest_fetched_at": "2026-09-21 07:22:28",
+      "age_days": 3,
+      "status": "ok"
     },
     {
       "name": "research_eps",
       "role": "研报/EPS",
       "table": "stock_research_enrichment",
       "rows": 26,
-      "latest_fetched_at": "2026-09-04 07:31:34",
-      "age_days": 5,
-      "status": "warn"
+      "latest_fetched_at": "2026-09-21 07:22:27",
+      "age_days": 3,
+      "status": "ok"
     },
     {
       "name": "market_signal_news",
@@ -84,7 +84,7 @@
       "table": "market_signal_enrichment",
       "rows": 1,
       "latest_fetched_at": "2026-05-27 06:46:47",
-      "age_days": 105,
+      "age_days": 120,
       "status": "warn"
     }
   ],
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 125,
-      "bytes_sampled": 457
+      "latency_ms": 132,
+      "bytes_sampled": 464
     },
     "eastmoney_push2": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 191,
-      "bytes_sampled": 127
+      "ok": false,
+      "status": null,
+      "latency_ms": 182,
+      "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 147,
+      "latency_ms": 150,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 5520,
+      "latency_ms": 2643,
       "bytes_sampled": 512
     }
   },
@@ -118,27 +118,27 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 5520,
+      "latency_ms": 2643,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "ef6d8477d94433b298e056e800ddc4e252f1af9b",
+      "head": "3b6f8bcbb6fa27af41c5e13396b46e04c089a1c7",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "029b3fd043f3ff98de7b5fdd0394aa9725bd8c6e",
+      "head": "cee692ea571f10bb1590ab36700c8248b2143e42",
       "error": ""
     }
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-09-08",
-    "latest_indicator_date": "2026-09-08",
-    "main_non_st_indicator_coverage_pct": 97.82
+    "latest_bar_date": "2026-09-24",
+    "latest_indicator_date": "2026-09-24",
+    "main_non_st_indicator_coverage_pct": 97.75
   },
   "governance": {
     "canonical_fields": [
@@ -164,12 +164,17 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.82%"
+      "detail": "97.75%"
     },
     {
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
-      "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
+      "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,market_signal_news"
+    },
+    {
+      "level": "P2",
+      "item": "部分外部源探针失败",
+      "detail": "eastmoney_push2"
     }
   ]
 }
