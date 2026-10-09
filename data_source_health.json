@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:47:04",
+  "generated_at": "2026-10-09T13:56:30",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-08",
     "latest_indicator_date": "2026-10-08",
     "latest_signal_trade_date": "2026-10-08",
-    "dashboard_generated_at": "2026-10-09T13:31:50",
+    "dashboard_generated_at": "2026-10-09T13:47:06",
     "dashboard_trade_date": "2026-10-08",
     "dashboard_data_date": "2026-10-08",
-    "realtime_snapshot_generated_at": "2026-10-09T13:31:59",
+    "realtime_snapshot_generated_at": "2026-10-09T13:47:15",
     "stock_detail_count": 96,
     "watchlist_count": 7,
     "main_non_st": 3115,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-10-09T13:45:58",
+      "latest_fetched_at": "2026-10-09T13:53:43",
       "age_days": 0,
       "status": "ok"
     },
@@ -98,19 +98,19 @@
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 163,
+      "latency_ms": 32,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 239,
+      "latency_ms": 220,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1451,
+      "latency_ms": 5766,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1451,
+      "latency_ms": 5766,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": false,
+      "ok": true,
       "remote": "origin",
-      "head": null,
-      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
+      "head": "b20e71c64a7af2e686b8033f04d89ce64b0dd7af",
+      "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
