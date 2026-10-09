@@ -361,7 +361,7 @@
       "avg_next_return_pct": 0.188,
       "win_rate_pct": 51.47,
       "avg_win_pct": 2.53,
-      "avg_loss_pct": -2.296,
+      "avg_loss_pct": -2.295,
       "recent_samples": [
         {
           "code": "603019",
@@ -542,10 +542,34 @@
       "avg_loss_pct": -1.781,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-09",
+          "pct_chg": -3.84,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-10-09",
+          "pct_chg": -5.3,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-09",
-          "pct_chg": 1.25,
+          "pct_chg": 1.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-09",
+          "pct_chg": -3.11,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +577,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-09",
-          "pct_chg": -5.69,
+          "pct_chg": -5.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-09",
+          "pct_chg": -3.26,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -588,38 +620,6 @@
           "pct_chg": -0.22,
           "vol_ratio5": 1.35,
           "close_pos": 0.67
-        },
-        {
-          "code": "605300",
-          "name": "佳禾食品",
-          "date": "2026-10-08",
-          "pct_chg": 1.06,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.9
-        },
-        {
-          "code": "605286",
-          "name": "同力天启",
-          "date": "2026-10-08",
-          "pct_chg": 1.41,
-          "vol_ratio5": 1.06,
-          "close_pos": 0.92
-        },
-        {
-          "code": "605259",
-          "name": "绿田机械",
-          "date": "2026-10-08",
-          "pct_chg": 0.12,
-          "vol_ratio5": 1.26,
-          "close_pos": 0.74
-        },
-        {
-          "code": "605183",
-          "name": "确成股份",
-          "date": "2026-10-08",
-          "pct_chg": 0.18,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.5
         }
       ]
     }
