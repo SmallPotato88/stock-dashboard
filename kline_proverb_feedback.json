@@ -94,7 +94,7 @@
       "avg_next_return_pct": 0.112,
       "win_rate_pct": 51.84,
       "avg_win_pct": 2.924,
-      "avg_loss_pct": -2.915,
+      "avg_loss_pct": -2.914,
       "recent_samples": [
         {
           "code": "603019",
@@ -545,7 +545,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-09",
-          "pct_chg": 1.17,
+          "pct_chg": 1.25,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-09",
+          "pct_chg": -5.69,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": 0.18,
           "vol_ratio5": 0.91,
           "close_pos": 0.5
-        },
-        {
-          "code": "605158",
-          "name": "华达新材",
-          "date": "2026-10-08",
-          "pct_chg": 0.66,
-          "vol_ratio5": 1.36,
-          "close_pos": 0.69
         }
       ]
     }
