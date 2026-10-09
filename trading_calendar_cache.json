@@ -540,7 +540,7 @@
     "source": "canonical_premarket_safe_checker"
   },
   "2026-10-09": {
-    "fetched_at": "2026-10-09T14:18:13",
+    "fetched_at": "2026-10-09T14:25:40",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
   }
