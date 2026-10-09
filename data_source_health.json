@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:51:35",
+  "generated_at": "2026-10-09T15:56:34",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,11 +11,11 @@
     "latest_bar_date": "2026-10-09",
     "latest_indicator_date": "2026-10-09",
     "latest_signal_trade_date": "2026-10-09",
-    "dashboard_generated_at": "2026-10-09T14:26:54",
-    "dashboard_trade_date": "2026-10-08",
-    "dashboard_data_date": "2026-10-08",
-    "realtime_snapshot_generated_at": "2026-10-09T14:27:03",
-    "stock_detail_count": 96,
+    "dashboard_generated_at": "2026-10-09T15:54:14",
+    "dashboard_trade_date": "2026-10-09",
+    "dashboard_data_date": "2026-10-09",
+    "realtime_snapshot_generated_at": "2026-10-09T15:54:14",
+    "stock_detail_count": 107,
     "watchlist_count": 7,
     "main_non_st": 3115,
     "main_non_st_latest_bar": 3044,
@@ -92,39 +92,39 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 117,
+      "latency_ms": 126,
       "bytes_sampled": 464
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 145,
+      "latency_ms": 157,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 203,
+      "latency_ms": 199,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 9398,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 2086,
+      "bytes_sampled": 512
     }
   },
   "publish": {
     "github_pages": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 9398,
-      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 2086,
+      "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "712f815a2e8f44e680c148141e7b7d6dd5aa94a4",
+      "head": "5bd9520878eb18242ab51de9d35c855e593b78dd",
       "error": ""
     },
     "gitee_repo_head": {
@@ -170,16 +170,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "dashboard_github_pages"
-    },
-    {
-      "level": "P1",
-      "item": "GitHub Pages 数据不可访问",
-      "detail": "{'ok': False, 'status': None, 'latency_ms': 9398, 'error': \"URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))\"}"
     }
   ]
 }
