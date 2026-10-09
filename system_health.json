@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-09T14:26:24",
-  "latest_bar_date": "2026-10-08",
-  "latest_indicator_date": "2026-10-08",
-  "latest_signal_trade_date": "2026-10-08",
-  "latest_scan_ts": "2026-10-08T15:45:41",
-  "candidate_count": 150,
-  "data_age_days": 1,
+  "generated_at": "2026-10-09T15:51:23",
+  "latest_bar_date": "2026-10-09",
+  "latest_indicator_date": "2026-10-09",
+  "latest_signal_trade_date": "2026-10-09",
+  "latest_scan_ts": "2026-10-09T15:31:47",
+  "candidate_count": 50,
+  "data_age_days": 0,
   "main_non_st": 3115,
-  "main_non_st_latest_bar": 3043,
-  "main_non_st_latest_indicator": 3043,
-  "main_non_st_indicator_coverage_pct": 97.69,
-  "effective_main_non_st": 3043,
-  "effective_main_non_st_latest_indicator": 3043,
+  "main_non_st_latest_bar": 3044,
+  "main_non_st_latest_indicator": 3044,
+  "main_non_st_indicator_coverage_pct": 97.72,
+  "effective_main_non_st": 3044,
+  "effective_main_non_st_latest_indicator": 3044,
   "effective_indicator_coverage_pct": 100.0,
-  "explainable_missing_latest": 72,
+  "explainable_missing_latest": 71,
   "stale_main_non_st_sample": [
     {
       "code": "000003",
@@ -140,7 +140,7 @@
     {
       "level": "P2",
       "item": "主板非ST原始覆盖率低于99%",
-      "detail": "97.69%；有效应采覆盖率100.0%，可解释缺失72只"
+      "detail": "97.72%；有效应采覆盖率100.0%，可解释缺失71只"
     }
   ],
   "status": "warn"
