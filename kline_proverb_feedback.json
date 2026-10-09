@@ -90,11 +90,11 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 53076,
+      "sample_count": 53078,
       "avg_next_return_pct": 0.112,
       "win_rate_pct": 51.84,
       "avg_win_pct": 2.924,
-      "avg_loss_pct": -2.914,
+      "avg_loss_pct": -2.915,
       "recent_samples": [
         {
           "code": "603019",
@@ -357,11 +357,11 @@
       ]
     },
     "低位放量": {
-      "sample_count": 111391,
+      "sample_count": 111394,
       "avg_next_return_pct": 0.188,
       "win_rate_pct": 51.47,
       "avg_win_pct": 2.53,
-      "avg_loss_pct": -2.295,
+      "avg_loss_pct": -2.296,
       "recent_samples": [
         {
           "code": "603019",
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 753988,
+      "sample_count": 753989,
       "avg_next_return_pct": 0.006,
       "win_rate_pct": 47.96,
       "avg_win_pct": 2.095,
@@ -542,6 +542,14 @@
       "avg_loss_pct": -1.781,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-09",
+          "pct_chg": 0.95,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605599",
           "name": "菜百股份",
           "date": "2026-10-08",
@@ -612,14 +620,6 @@
           "pct_chg": 0.66,
           "vol_ratio5": 1.36,
           "close_pos": 0.69
-        },
-        {
-          "code": "605099",
-          "name": "共创草坪",
-          "date": "2026-10-08",
-          "pct_chg": -0.29,
-          "vol_ratio5": 0.89,
-          "close_pos": 0.53
         }
       ]
     }
