@@ -453,26 +453,10 @@
       "avg_loss_pct": -1.919,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-12",
-          "pct_chg": -1.01,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-12",
-          "pct_chg": -3.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-12",
-          "pct_chg": 0.74,
+          "pct_chg": 0.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": -3.21,
           "vol_ratio5": 1.31,
           "close_pos": 0.08
+        },
+        {
+          "code": "605296",
+          "name": "神农集团",
+          "date": "2026-10-09",
+          "pct_chg": -0.99,
+          "vol_ratio5": 1.0,
+          "close_pos": 0.31
+        },
+        {
+          "code": "605080",
+          "name": "浙江自然",
+          "date": "2026-10-09",
+          "pct_chg": 1.06,
+          "vol_ratio5": 1.14,
+          "close_pos": 0.43
         }
       ]
     },
