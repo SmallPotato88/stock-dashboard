@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:46:39",
+  "generated_at": "2026-10-12T10:17:16",
   "data_date": "2026-10-09",
   "scale": {
     "total_securities": 5918,
@@ -183,11 +183,11 @@
       "无数据": 0
     },
     "turnover_distribution": {
-      ">10%": 154,
-      "5-10%": 327,
-      "3-5%": 454,
-      "1-3%": 1417,
-      "<1%": 692,
+      ">10%": 155,
+      "5-10%": 336,
+      "3-5%": 450,
+      "1-3%": 1415,
+      "<1%": 688,
       "无数据": 0
     },
     "trend_stage": {
@@ -238,216 +238,216 @@
   "top_industries": [
     {
       "name": "C 制造业",
-      "count": 967
+      "count": 428
     },
     {
       "name": "汽车零部件",
-      "count": 98
-    },
-    {
-      "name": "I 信息技术",
-      "count": 77
-    },
-    {
-      "name": "F 批发零售",
-      "count": 61
+      "count": 130
     },
     {
       "name": "电力",
-      "count": 58
+      "count": 90
     },
     {
       "name": "化学制品",
-      "count": 56
-    },
-    {
-      "name": "D 水电煤气",
-      "count": 55
+      "count": 77
     },
     {
       "name": "专用设备",
-      "count": 51
-    },
-    {
-      "name": "房地产开发",
-      "count": 42
-    },
-    {
-      "name": "通用设备",
-      "count": 40
+      "count": 66
     },
     {
       "name": "电网设备",
-      "count": 39
+      "count": 63
     },
     {
-      "name": "K 房地产",
-      "count": 35
+      "name": "通用设备",
+      "count": 61
     },
     {
-      "name": "一般零售",
-      "count": 34
-    },
-    {
-      "name": "J 金融业",
-      "count": 33
-    },
-    {
-      "name": "银行Ⅱ",
-      "count": 33
-    },
-    {
-      "name": "G 运输仓储",
-      "count": 31
-    },
-    {
-      "name": "证券Ⅱ",
-      "count": 31
+      "name": "房地产开发",
+      "count": 58
     },
     {
       "name": "化学制药",
-      "count": 31
+      "count": 57
     },
     {
-      "name": "E 建筑业",
-      "count": 30
+      "name": "一般零售",
+      "count": 45
     },
     {
       "name": "工业金属",
-      "count": 30
+      "count": 43
     },
     {
-      "name": "L 商务服务",
-      "count": 29
-    },
-    {
-      "name": "环境治理",
-      "count": 29
-    },
-    {
-      "name": "化学原料",
-      "count": 29
+      "name": "银行Ⅱ",
+      "count": 41
     },
     {
       "name": "中药Ⅱ",
-      "count": 28
+      "count": 41
+    },
+    {
+      "name": "证券Ⅱ",
+      "count": 40
+    },
+    {
+      "name": "农化制品",
+      "count": 39
+    },
+    {
+      "name": "化学原料",
+      "count": 38
+    },
+    {
+      "name": "环境治理",
+      "count": 37
     },
     {
       "name": "家居用品",
-      "count": 28
+      "count": 36
+    },
+    {
+      "name": "元件",
+      "count": 35
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 34
+    },
+    {
+      "name": "F 批发零售",
+      "count": 33
+    },
+    {
+      "name": "半导体",
+      "count": 33
+    },
+    {
+      "name": "通信设备",
+      "count": 32
     },
     {
       "name": "航运港口",
-      "count": 26
-    },
-    {
-      "name": "B 采矿业",
-      "count": 25
-    },
-    {
-      "name": "物流",
-      "count": 23
+      "count": 30
     },
     {
       "name": "服装家纺",
-      "count": 23
+      "count": 30
     },
     {
-      "name": "铁路公路",
-      "count": 22
+      "name": "消费电子",
+      "count": 29
+    },
+    {
+      "name": "物流",
+      "count": 29
+    },
+    {
+      "name": "光学光电子",
+      "count": 28
+    },
+    {
+      "name": "电池",
+      "count": 28
+    },
+    {
+      "name": "I 信息技术",
+      "count": 28
     }
   ],
   "industry_heatmap": {
     "hot": [
       {
         "industry": "影视院线",
-        "count": 5,
-        "avg_pct_chg": 6.53,
+        "count": 10,
+        "avg_pct_chg": 7.3,
         "up_ratio": 100.0,
-        "above_ma20_ratio": 100.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 16.34,
-        "heat_score": 81.0
+        "above_ma20_ratio": 90.0,
+        "breakout_20d_ratio": 10.0,
+        "amount_total_yi": 48.51,
+        "heat_score": 82.0
       },
       {
         "industry": "出版",
-        "count": 19,
-        "avg_pct_chg": 5.44,
+        "count": 21,
+        "avg_pct_chg": 5.6,
         "up_ratio": 100.0,
-        "above_ma20_ratio": 94.7,
-        "breakout_20d_ratio": 10.5,
-        "amount_total_yi": 59.01,
-        "heat_score": 80.79
-      },
-      {
-        "industry": "R 文化传播",
-        "count": 8,
-        "avg_pct_chg": 6.05,
-        "up_ratio": 87.5,
-        "above_ma20_ratio": 87.5,
-        "breakout_20d_ratio": 12.5,
-        "amount_total_yi": 34.62,
-        "heat_score": 76.0
+        "above_ma20_ratio": 95.2,
+        "breakout_20d_ratio": 9.5,
+        "amount_total_yi": 68.29,
+        "heat_score": 81.48
       },
       {
         "industry": "电视广播Ⅱ",
-        "count": 6,
-        "avg_pct_chg": 4.87,
+        "count": 10,
+        "avg_pct_chg": 4.73,
         "up_ratio": 100.0,
-        "above_ma20_ratio": 83.3,
-        "breakout_20d_ratio": 16.7,
-        "amount_total_yi": 15.27,
-        "heat_score": 75.89
+        "above_ma20_ratio": 80.0,
+        "breakout_20d_ratio": 10.0,
+        "amount_total_yi": 23.5,
+        "heat_score": 70.41
+      },
+      {
+        "industry": "P 教育",
+        "count": 2,
+        "avg_pct_chg": 3.85,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 100.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 2.13,
+        "heat_score": 68.13
       },
       {
         "industry": "广告营销",
-        "count": 7,
-        "avg_pct_chg": 5.1,
+        "count": 17,
+        "avg_pct_chg": 4.86,
+        "up_ratio": 100.0,
+        "above_ma20_ratio": 82.4,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 70.07,
+        "heat_score": 67.11
+      },
+      {
+        "industry": "专业连锁Ⅱ",
+        "count": 3,
+        "avg_pct_chg": 2.51,
         "up_ratio": 100.0,
         "above_ma20_ratio": 100.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 22.68,
-        "heat_score": 75.63
-      },
-      {
-        "industry": "游戏Ⅱ",
-        "count": 5,
-        "avg_pct_chg": 5.66,
-        "up_ratio": 100.0,
-        "above_ma20_ratio": 80.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 11.74,
-        "heat_score": 70.93
+        "amount_total_yi": 4.13,
+        "heat_score": 60.08
       },
       {
         "industry": "厨卫电器",
-        "count": 2,
-        "avg_pct_chg": 2.15,
+        "count": 3,
+        "avg_pct_chg": 2.37,
         "up_ratio": 100.0,
         "above_ma20_ratio": 100.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 2.48,
-        "heat_score": 57.9
+        "amount_total_yi": 4.17,
+        "heat_score": 59.22
       },
       {
-        "industry": "互联网电商",
-        "count": 3,
-        "avg_pct_chg": 4.02,
-        "up_ratio": 100.0,
-        "above_ma20_ratio": 33.3,
-        "breakout_20d_ratio": 33.3,
-        "amount_total_yi": 4.9,
-        "heat_score": 57.47
+        "industry": "中药Ⅱ",
+        "count": 41,
+        "avg_pct_chg": 2.23,
+        "up_ratio": 95.1,
+        "above_ma20_ratio": 82.9,
+        "breakout_20d_ratio": 12.2,
+        "amount_total_yi": 110.43,
+        "heat_score": 55.2
       },
       {
         "industry": "医药商业",
-        "count": 14,
-        "avg_pct_chg": 1.7,
+        "count": 16,
+        "avg_pct_chg": 1.79,
         "up_ratio": 100.0,
-        "above_ma20_ratio": 78.6,
-        "breakout_20d_ratio": 21.4,
-        "amount_total_yi": 25.75,
-        "heat_score": 57.36
+        "above_ma20_ratio": 75.0,
+        "breakout_20d_ratio": 18.8,
+        "amount_total_yi": 30.2,
+        "heat_score": 55.1
       },
       {
         "industry": "化妆品",
@@ -472,14 +472,14 @@
         "heat_score": -65.72
       },
       {
-        "industry": "电子化学品Ⅱ",
-        "count": 5,
-        "avg_pct_chg": -3.17,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
+        "industry": "元件",
+        "count": 35,
+        "avg_pct_chg": -4.13,
+        "up_ratio": 2.9,
+        "above_ma20_ratio": 11.4,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 58.04,
-        "heat_score": -64.03
+        "amount_total_yi": 786.89,
+        "heat_score": -63.8
       },
       {
         "industry": "航天装备Ⅱ",
@@ -492,77 +492,77 @@
         "heat_score": -60.8
       },
       {
+        "industry": "电子化学品Ⅱ",
+        "count": 8,
+        "avg_pct_chg": -2.9,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 12.5,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 73.41,
+        "heat_score": -57.38
+      },
+      {
         "industry": "其他电子Ⅱ",
-        "count": 2,
-        "avg_pct_chg": -2.12,
-        "up_ratio": 0.0,
+        "count": 10,
+        "avg_pct_chg": -2.02,
+        "up_ratio": 10.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 12.56,
-        "heat_score": -57.74
+        "amount_total_yi": 40.39,
+        "heat_score": -52.1
       },
       {
-        "industry": "元件",
-        "count": 17,
-        "avg_pct_chg": -3.25,
-        "up_ratio": 5.9,
-        "above_ma20_ratio": 11.8,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 268.02,
-        "heat_score": -56.85
-      },
-      {
-        "industry": "地面兵装Ⅱ",
+        "industry": "黑色家电",
         "count": 4,
-        "avg_pct_chg": -1.48,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 0.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 14.11,
-        "heat_score": -53.88
-      },
-      {
-        "industry": "塑料",
-        "count": 11,
-        "avg_pct_chg": -2.01,
-        "up_ratio": 18.2,
-        "above_ma20_ratio": 18.2,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 85.13,
-        "heat_score": -40.7
-      },
-      {
-        "industry": "光学光电子",
-        "count": 11,
-        "avg_pct_chg": -1.28,
-        "up_ratio": 18.2,
-        "above_ma20_ratio": 9.1,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 61.11,
-        "heat_score": -39.96
-      },
-      {
-        "industry": "金属新材料",
-        "count": 9,
-        "avg_pct_chg": -1.96,
-        "up_ratio": 33.3,
-        "above_ma20_ratio": 11.1,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 35.98,
-        "heat_score": -35.67
-      },
-      {
-        "industry": "特钢Ⅱ",
-        "count": 4,
-        "avg_pct_chg": -0.28,
+        "avg_pct_chg": -1.66,
         "up_ratio": 25.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 4.26,
-        "heat_score": -34.19
+        "amount_total_yi": 11.02,
+        "heat_score": -42.46
+      },
+      {
+        "industry": "半导体",
+        "count": 33,
+        "avg_pct_chg": -1.17,
+        "up_ratio": 24.2,
+        "above_ma20_ratio": 9.1,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 558.68,
+        "heat_score": -36.26
+      },
+      {
+        "industry": "地面兵装Ⅱ",
+        "count": 7,
+        "avg_pct_chg": -0.91,
+        "up_ratio": 28.6,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 21.46,
+        "heat_score": -36.15
+      },
+      {
+        "industry": "光学光电子",
+        "count": 28,
+        "avg_pct_chg": -1.45,
+        "up_ratio": 25.0,
+        "above_ma20_ratio": 14.3,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 191.11,
+        "heat_score": -35.46
+      },
+      {
+        "industry": "航空装备Ⅱ",
+        "count": 16,
+        "avg_pct_chg": -0.83,
+        "up_ratio": 31.2,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 54.99,
+        "heat_score": -34.37
       }
     ],
-    "total_industries_with_count_ge_2": 141
+    "total_industries_with_count_ge_2": 142
   },
   "market_temperature": {
     "date": "2026-10-09",
@@ -582,72 +582,88 @@
     "market_score": 45.83418160154513,
     "market_state": "谨慎",
     "reasons_json": "[\"上涨占比54.2%\", \"MA20上方39.4%\", \"MA60上方47.5%\", \"20日高附近5.6%\", \"均涨幅0.49%\", \"强/弱股696/465\"]",
-    "created_at": "2026-10-12 01:46:37"
+    "created_at": "2026-10-12 02:17:14"
   },
   "sector_hot": [
     {
-      "sector": "广告营销",
+      "sector": "专业连锁Ⅱ",
       "sector_score": 100.0,
       "sector_state": "可做",
-      "universe_count": 7,
-      "avg_pct_chg": 5.1043577537503255,
-      "up_ratio": 100.0
-    },
-    {
-      "sector": "影视院线",
-      "sector_score": 100.0,
-      "sector_state": "可做",
-      "universe_count": 5,
-      "avg_pct_chg": 6.529348949623213,
+      "universe_count": 3,
+      "avg_pct_chg": 2.5128125473063494,
       "up_ratio": 100.0
     },
     {
       "sector": "厨卫电器",
-      "sector_score": 98.2481559536354,
+      "sector_score": 99.35084560228974,
       "sector_state": "可做",
-      "universe_count": 2,
-      "avg_pct_chg": 2.1496311907270815,
+      "universe_count": 3,
+      "avg_pct_chg": 2.370169120457947,
       "up_ratio": 100.0
     },
     {
       "sector": "出版",
-      "sector_score": 98.15789473684211,
+      "sector_score": 98.33333333333333,
       "sector_state": "可做",
-      "universe_count": 19,
-      "avg_pct_chg": 5.438547363458221,
+      "universe_count": 21,
+      "avg_pct_chg": 5.603475176988338,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "影视院线",
+      "sector_score": 96.5,
+      "sector_state": "可做",
+      "universe_count": 10,
+      "avg_pct_chg": 7.29655251612707,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "其他家电Ⅱ",
+      "sector_score": 95.41951968430868,
+      "sector_state": "可做",
+      "universe_count": 2,
+      "avg_pct_chg": 1.5839039368617351,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "广告营销",
+      "sector_score": 93.8235294117647,
+      "sector_state": "可做",
+      "universe_count": 17,
+      "avg_pct_chg": 4.860958263042819,
+      "up_ratio": 100.0
+    },
+    {
+      "sector": "P 教育",
+      "sector_score": 93.0,
+      "sector_state": "可做",
+      "universe_count": 5,
+      "avg_pct_chg": 2.656766978412401,
       "up_ratio": 100.0
     },
     {
       "sector": "电视广播Ⅱ",
-      "sector_score": 94.16666666666667,
-      "sector_state": "可做",
-      "universe_count": 6,
-      "avg_pct_chg": 4.870867398196488,
-      "up_ratio": 100.0
-    },
-    {
-      "sector": "游戏Ⅱ",
       "sector_score": 93.0,
       "sector_state": "可做",
-      "universe_count": 5,
-      "avg_pct_chg": 5.655712438879233,
+      "universe_count": 10,
+      "avg_pct_chg": 4.734685981688722,
       "up_ratio": 100.0
     },
     {
-      "sector": "教育",
-      "sector_score": 91.25,
+      "sector": "饮料乳品",
+      "sector_score": 88.8235294117647,
       "sector_state": "可做",
-      "universe_count": 4,
-      "avg_pct_chg": 2.791697156588194,
-      "up_ratio": 100.0
+      "universe_count": 17,
+      "avg_pct_chg": 2.548289515774468,
+      "up_ratio": 82.35294117647058
     },
     {
-      "sector": "医药商业",
-      "sector_score": 88.5162090896919,
+      "sector": "中药Ⅱ",
+      "sector_score": 87.89130165488783,
       "sector_state": "可做",
-      "universe_count": 14,
-      "avg_pct_chg": 1.7032418179383786,
-      "up_ratio": 100.0
+      "universe_count": 43,
+      "avg_pct_chg": 2.1247719588845424,
+      "up_ratio": 90.69767441860465
     },
     {
       "sector": "汽车服务",
@@ -658,28 +674,12 @@
       "up_ratio": 100.0
     },
     {
-      "sector": "R 文化传播",
-      "sector_score": 87.60869565217392,
+      "sector": "医药商业",
+      "sector_score": 87.6869661183849,
       "sector_state": "可做",
-      "universe_count": 23,
-      "avg_pct_chg": 6.718986786526062,
-      "up_ratio": 95.65217391304348
-    },
-    {
-      "sector": "一般零售",
-      "sector_score": 86.32352941176471,
-      "sector_state": "可做",
-      "universe_count": 34,
-      "avg_pct_chg": 4.223688360726096,
-      "up_ratio": 94.11764705882352
-    },
-    {
-      "sector": "饮料乳品",
-      "sector_score": 85.69459211556232,
-      "sector_state": "可做",
-      "universe_count": 15,
-      "avg_pct_chg": 2.1722517564457973,
-      "up_ratio": 80.0
+      "universe_count": 16,
+      "avg_pct_chg": 1.787393223676981,
+      "up_ratio": 100.0
     }
   ],
   "sector_cold": [
@@ -693,27 +693,19 @@
     },
     {
       "sector": "电子化学品Ⅱ",
-      "sector_score": 1.75,
+      "sector_score": 3.043478260869565,
       "sector_state": "不做",
-      "universe_count": 20,
-      "avg_pct_chg": -3.0499931095348143,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "地面兵装Ⅱ",
-      "sector_score": 4.84259685591377,
-      "sector_state": "不做",
-      "universe_count": 5,
-      "avg_pct_chg": -1.531480628817246,
+      "universe_count": 23,
+      "avg_pct_chg": -2.970270465353383,
       "up_ratio": 0.0
     },
     {
       "sector": "元件",
-      "sector_score": 5.799999999999999,
+      "sector_score": 4.999999999999999,
       "sector_state": "不做",
-      "universe_count": 25,
-      "avg_pct_chg": -3.099811969529368,
-      "up_ratio": 4.0
+      "universe_count": 43,
+      "avg_pct_chg": -3.8828183635833873,
+      "up_ratio": 2.3255813953488373
     },
     {
       "sector": "航天装备Ⅱ",
@@ -725,43 +717,51 @@
     },
     {
       "sector": "其他电子Ⅱ",
-      "sector_score": 15.385337697899082,
+      "sector_score": 10.905685902123773,
       "sector_state": "不做",
-      "universe_count": 6,
-      "avg_pct_chg": -1.9229324604201832,
-      "up_ratio": 16.666666666666664
+      "universe_count": 14,
+      "avg_pct_chg": -1.9617199624323882,
+      "up_ratio": 14.285714285714285
+    },
+    {
+      "sector": "地面兵装Ⅱ",
+      "sector_score": 17.454906477436676,
+      "sector_state": "不做",
+      "universe_count": 8,
+      "avg_pct_chg": -1.009018704512665,
+      "up_ratio": 25.0
     },
     {
       "sector": "其他电源设备Ⅱ",
-      "sector_score": 16.658578884157844,
+      "sector_score": 17.526591063705986,
       "sector_state": "不做",
-      "universe_count": 10,
-      "avg_pct_chg": -1.568284223168431,
-      "up_ratio": 30.0
-    },
-    {
-      "sector": "光学光电子",
-      "sector_score": 18.006441210199032,
-      "sector_state": "不做",
-      "universe_count": 26,
-      "avg_pct_chg": -0.9756348348832706,
-      "up_ratio": 19.230769230769234
+      "universe_count": 16,
+      "avg_pct_chg": -1.8696817872588032,
+      "up_ratio": 25.0
     },
     {
       "sector": "半导体",
-      "sector_score": 18.545341048303293,
+      "sector_score": 17.6787629906612,
       "sector_state": "不做",
-      "universe_count": 141,
-      "avg_pct_chg": -1.2377403009776393,
-      "up_ratio": 21.27659574468085
+      "universe_count": 152,
+      "avg_pct_chg": -1.2866158229203921,
+      "up_ratio": 20.394736842105264
+    },
+    {
+      "sector": "光学光电子",
+      "sector_score": 19.852802120624624,
+      "sector_state": "不做",
+      "universe_count": 43,
+      "avg_pct_chg": -1.2038581805262385,
+      "up_ratio": 23.25581395348837
     },
     {
       "sector": "金属新材料",
-      "sector_score": 19.65143687340754,
+      "sector_score": 21.04258180784477,
       "sector_state": "不做",
-      "universe_count": 18,
-      "avg_pct_chg": -1.569712625318492,
-      "up_ratio": 27.77777777777778
+      "universe_count": 20,
+      "avg_pct_chg": -1.391483638431046,
+      "up_ratio": 30.0
     },
     {
       "sector": "非金属材料Ⅱ",
@@ -772,12 +772,12 @@
       "up_ratio": 18.181818181818183
     },
     {
-      "sector": "军工电子Ⅱ",
-      "sector_score": 22.877777563923665,
+      "sector": "黑色家电",
+      "sector_score": 24.150326272805707,
       "sector_state": "不做",
-      "universe_count": 24,
-      "avg_pct_chg": -1.1327778205486008,
-      "up_ratio": 29.166666666666668
+      "universe_count": 6,
+      "avg_pct_chg": -0.336601412105525,
+      "up_ratio": 33.33333333333333
     }
   ],
   "leaderboards": {
@@ -786,11 +786,11 @@
         "code": "601929",
         "name": "吉视传媒",
         "industry": "电视广播Ⅱ",
-        "float_mv": 9388000000.0,
+        "float_mv": 9387530172.0,
         "close": 2.5,
         "pct_chg": 10.13215859030837,
         "amount": 499312750.0,
-        "turnover": 5.3186,
+        "turnover": 5.3189,
         "volume": 1997251.0,
         "ma20": 2.4385000000000003,
         "ma60": 2.3750000000000004,
@@ -801,12 +801,12 @@
       {
         "code": "000420",
         "name": "吉林化纤",
-        "industry": "C 制造业",
-        "float_mv": 10302000000.0,
+        "industry": "化学纤维",
+        "float_mv": 9712162605.0,
         "close": 3.81,
         "pct_chg": 10.115606936416189,
         "amount": 914087199.0,
-        "turnover": 8.8729,
+        "turnover": 9.4118,
         "volume": 2399179.0,
         "ma20": 3.5870000000000006,
         "ma60": 3.673,
@@ -817,12 +817,12 @@
       {
         "code": "002480",
         "name": "新筑股份",
-        "industry": "C 制造业",
-        "float_mv": 4551000000.0,
+        "industry": "电力",
+        "float_mv": 4842845942.0,
         "close": 6.0,
         "pct_chg": 10.091743119266052,
         "amount": 294627600.0,
-        "turnover": 6.4739,
+        "turnover": 6.0838,
         "volume": 491046.0,
         "ma20": 5.373,
         "ma60": 5.387666666666665,
@@ -833,12 +833,12 @@
       {
         "code": "002696",
         "name": "百洋股份",
-        "industry": "C 制造业",
-        "float_mv": 2691000000.0,
+        "industry": "饲料",
+        "float_mv": 2690784290.0,
         "close": 7.32,
         "pct_chg": 10.07518796992481,
         "amount": 224657388.0,
-        "turnover": 8.3485,
+        "turnover": 8.3491,
         "volume": 306909.0,
         "ma20": 6.853,
         "ma60": 6.085666666666667,
@@ -850,11 +850,11 @@
         "code": "603101",
         "name": "汇嘉时代",
         "industry": "一般零售",
-        "float_mv": 4031000000.0,
+        "float_mv": 3814944000.0,
         "close": 7.99,
         "pct_chg": 10.055096418732788,
         "amount": 149834872.0,
-        "turnover": 3.7171,
+        "turnover": 3.9276,
         "volume": 187528.0,
         "ma20": 7.549499999999999,
         "ma60": 7.337833333333334,
@@ -865,12 +865,12 @@
       {
         "code": "002212",
         "name": "天融信",
-        "industry": "I 信息技术",
-        "float_mv": 8926000000.0,
+        "industry": "软件开发",
+        "float_mv": 8844716807.0,
         "close": 7.56,
         "pct_chg": 10.043668122270736,
         "amount": 931574196.0,
-        "turnover": 10.4366,
+        "turnover": 10.5325,
         "volume": 1232241.0,
         "ma20": 7.052,
         "ma60": 6.509666666666663,
@@ -882,11 +882,11 @@
         "code": "600865",
         "name": "百大集团",
         "industry": "一般零售",
-        "float_mv": 4364000000.0,
+        "float_mv": 4462210148.0,
         "close": 11.51,
         "pct_chg": 10.038240917782016,
         "amount": 469815180.0,
-        "turnover": 10.7657,
+        "turnover": 10.5288,
         "volume": 408180.0,
         "ma20": 11.711000000000002,
         "ma60": 9.6755,
@@ -898,11 +898,11 @@
         "code": "600812",
         "name": "华北制药",
         "industry": "化学制药",
-        "float_mv": 11375000000.0,
+        "float_mv": 11375292353.0,
         "close": 6.03,
         "pct_chg": 10.03649635036496,
         "amount": 698709366.0,
-        "turnover": 6.1425,
+        "turnover": 6.1423,
         "volume": 1158722.0,
         "ma20": 4.931000000000001,
         "ma60": 4.893333333333333,
@@ -913,12 +913,12 @@
       {
         "code": "002242",
         "name": "九阳股份",
-        "industry": "C 制造业",
-        "float_mv": 12066000000.0,
+        "industry": "小家电",
+        "float_mv": 12325367813.0,
         "close": 15.13,
         "pct_chg": 10.036363636363642,
         "amount": 2106540822.0,
-        "turnover": 17.4585,
+        "turnover": 17.0911,
         "volume": 1392294.0,
         "ma20": 10.054999999999998,
         "ma60": 9.142166666666668,
@@ -930,11 +930,11 @@
         "code": "603096",
         "name": "新经典",
         "industry": "出版",
-        "float_mv": 2940000000.0,
+        "float_mv": 2939711933.0,
         "close": 17.33,
         "pct_chg": 10.031746031746021,
         "amount": 74766819.0,
-        "turnover": 2.5431,
+        "turnover": 2.5433,
         "volume": 43143.0,
         "ma20": 15.7955,
         "ma60": 14.976333333333335,
@@ -946,11 +946,11 @@
         "code": "600621",
         "name": "华鑫股份",
         "industry": "证券Ⅱ",
-        "float_mv": 15574000000.0,
+        "float_mv": 15595219592.0,
         "close": 14.48,
         "pct_chg": 10.030395136778116,
         "amount": 725064280.0,
-        "turnover": 4.6556,
+        "turnover": 4.6493,
         "volume": 500735.0,
         "ma20": 13.4513,
         "ma60": 13.269016666666667,
@@ -961,12 +961,12 @@
       {
         "code": "000710",
         "name": "贝瑞基因",
-        "industry": "M 科研服务",
-        "float_mv": 3647000000.0,
+        "industry": "医疗服务",
+        "float_mv": 3871985711.0,
         "close": 11.3,
         "pct_chg": 10.029211295034091,
         "amount": 866682880.0,
-        "turnover": 23.7643,
+        "turnover": 22.3834,
         "volume": 766976.0,
         "ma20": 9.3785,
         "ma60": 8.93083333333333,
@@ -978,11 +978,11 @@
         "code": "605399",
         "name": "晨光新材",
         "industry": "化学制品",
-        "float_mv": 4184000000.0000005,
+        "float_mv": 3996919306.0,
         "close": 13.06,
         "pct_chg": 10.025273799494535,
         "amount": 79288566.0,
-        "turnover": 1.895,
+        "turnover": 1.9837,
         "volume": 60711.0,
         "ma20": 11.558000000000002,
         "ma60": 10.96133333333333,
@@ -993,12 +993,12 @@
       {
         "code": "001336",
         "name": "楚环科技",
-        "industry": "C 制造业",
-        "float_mv": 1377000000.0,
+        "industry": "环保设备Ⅱ",
+        "float_mv": 1328410378.0,
         "close": 22.72,
         "pct_chg": 10.024213075060535,
         "amount": 352491712.0,
-        "turnover": 25.5985,
+        "turnover": 26.5349,
         "volume": 155146.0,
         "ma20": 19.015499999999996,
         "ma60": 17.921599999999998,
@@ -1010,11 +1010,11 @@
         "code": "605136",
         "name": "丽人丽妆",
         "industry": "互联网电商",
-        "float_mv": 4157000000.0,
+        "float_mv": 4156759230.0,
         "close": 9.44,
         "pct_chg": 10.023310023310017,
         "amount": 161051120.0,
-        "turnover": 3.8742,
+        "turnover": 3.8744,
         "volume": 170605.0,
         "ma20": 8.614,
         "ma60": 8.168166666666666,
@@ -1026,13 +1026,13 @@
     "top_losers": [
       {
         "code": "001246",
-        "name": "C力勤资源",
-        "industry": "C 制造业",
-        "float_mv": 6589000000.0,
+        "name": "C力勤",
+        "industry": "能源金属",
+        "float_mv": 6527479555.0,
         "close": 45.05,
         "pct_chg": -15.873015873015875,
         "amount": 3240257290.0,
-        "turnover": 49.1768,
+        "turnover": 49.6403,
         "volume": 719258.0,
         "ma20": null,
         "ma60": null,
@@ -1044,11 +1044,11 @@
         "code": "603073",
         "name": "彩蝶实业",
         "industry": "化学纤维",
-        "float_mv": 2264000000.0,
+        "float_mv": 2227200000.0,
         "close": 20.67,
         "pct_chg": -10.013060513713528,
         "amount": 198082677.00000003,
-        "turnover": 8.7492,
+        "turnover": 8.8938,
         "volume": 95831.0,
         "ma20": 17.762500000000003,
         "ma60": 16.47016666666666,
@@ -1059,12 +1059,12 @@
       {
         "code": "002962",
         "name": "五方光电",
-        "industry": "C 制造业",
-        "float_mv": 3006000000.0,
+        "industry": "光学光电子",
+        "float_mv": 2887177074.0,
         "close": 15.02,
         "pct_chg": -10.005991611743568,
         "amount": 328856892.0,
-        "turnover": 10.94,
+        "turnover": 11.3903,
         "volume": 218946.0,
         "ma20": 13.810999999999998,
         "ma60": 13.063333333333333,
@@ -1076,11 +1076,11 @@
         "code": "603823",
         "name": "百合花",
         "industry": "化学制品",
-        "float_mv": 16305000000.000002,
+        "float_mv": 16812927888.0,
         "close": 41.93,
         "pct_chg": -10.002146383344073,
         "amount": 851904389.0,
-        "turnover": 5.2248,
+        "turnover": 5.067,
         "volume": 203173.0,
         "ma20": 52.455,
         "ma60": 63.033166666666666,
@@ -1092,11 +1092,11 @@
         "code": "603400",
         "name": "华之杰",
         "industry": "通用设备",
-        "float_mv": 1563000000.0,
+        "float_mv": 1536879782.0,
         "close": 42.93,
         "pct_chg": -10.000000000000005,
         "amount": 282002877.0,
-        "turnover": 18.0424,
+        "turnover": 18.3491,
         "volume": 65689.0,
         "ma20": 48.862,
         "ma60": 43.98771666666664,
@@ -1107,12 +1107,12 @@
       {
         "code": "002927",
         "name": "泰永长征",
-        "industry": "C 制造业",
-        "float_mv": 3786000000.0,
+        "industry": "电网设备",
+        "float_mv": 3628929958.0,
         "close": 17.64,
         "pct_chg": -10.000000000000004,
         "amount": 281589084.0,
-        "turnover": 7.4376,
+        "turnover": 7.7596,
         "volume": 159631.0,
         "ma20": 18.552500000000002,
         "ma60": 16.583666666666666,
@@ -1123,12 +1123,12 @@
       {
         "code": "002487",
         "name": "大金重工",
-        "industry": "C 制造业",
-        "float_mv": 28195999999.999996,
+        "industry": "风电设备",
+        "float_mv": 29230535924.0,
         "close": 43.75,
         "pct_chg": -9.997942810121373,
         "amount": 4600343125.0,
-        "turnover": 16.3156,
+        "turnover": 15.7381,
         "volume": 1051507.0,
         "ma20": 38.679199999999994,
         "ma60": 39.12856666666667,
@@ -1139,12 +1139,12 @@
       {
         "code": "002636",
         "name": "金安国纪",
-        "industry": "C 制造业",
-        "float_mv": 49019000000.0,
+        "industry": "元件",
+        "float_mv": 47234657348.0,
         "close": 71.67,
         "pct_chg": -9.99623257566243,
         "amount": 2788987881.0,
-        "turnover": 5.6896,
+        "turnover": 5.9045,
         "volume": 389143.0,
         "ma20": 78.3475,
         "ma60": 71.34816666666667,
@@ -1156,11 +1156,11 @@
         "code": "605366",
         "name": "宏柏新材",
         "industry": "化学制品",
-        "float_mv": 7226000000.000001,
+        "float_mv": 7094558286.0,
         "close": 9.94,
         "pct_chg": -9.963768115942026,
         "amount": 941540656.0,
-        "turnover": 13.0299,
+        "turnover": 13.2713,
         "volume": 947224.0,
         "ma20": 8.8205,
         "ma60": 8.273000000000001,
@@ -1171,12 +1171,12 @@
       {
         "code": "002531",
         "name": "天顺风能",
-        "industry": "C 制造业",
-        "float_mv": 13902000000.000002,
+        "industry": "风电设备",
+        "float_mv": 14777403314.0,
         "close": 7.52,
         "pct_chg": -9.940119760479044,
         "amount": 1326705472.0,
-        "turnover": 9.5433,
+        "turnover": 8.9779,
         "volume": 1764236.0,
         "ma20": 7.339499999999999,
         "ma60": 6.7521666666666675,
@@ -1188,11 +1188,11 @@
         "code": "600663",
         "name": "陆家嘴",
         "industry": "房地产开发",
-        "float_mv": 37770000000.0,
+        "float_mv": 37652377188.0,
         "close": 10.15,
         "pct_chg": -8.723021582733804,
         "amount": 906059035.0,
-        "turnover": 2.3989,
+        "turnover": 2.4064,
         "volume": 892669.0,
         "ma20": 9.194500000000001,
         "ma60": 8.648333333333335,
@@ -1203,12 +1203,12 @@
       {
         "code": "002988",
         "name": "豪美新材",
-        "industry": "C 制造业",
-        "float_mv": 7219000000.0,
+        "industry": "工业金属",
+        "float_mv": 7189390087.0,
         "close": 29.2,
         "pct_chg": -8.60719874804382,
         "amount": 291728440.0,
-        "turnover": 4.0411,
+        "turnover": 4.0578,
         "volume": 99907.0,
         "ma20": 30.58400000000001,
         "ma60": 24.574166666666667,
@@ -1219,12 +1219,12 @@
       {
         "code": "001331",
         "name": "胜通能源",
-        "industry": "D 水电煤气",
-        "float_mv": 9833000000.0,
+        "industry": "燃气Ⅱ",
+        "float_mv": 10124245593.0,
         "close": 35.33,
         "pct_chg": -8.233766233766238,
         "amount": 406273802.0,
-        "turnover": 4.1317,
+        "turnover": 4.0129,
         "volume": 114994.0,
         "ma20": 42.138999999999996,
         "ma60": 45.65266666666668,
@@ -1236,11 +1236,11 @@
         "code": "600418",
         "name": "江淮汽车",
         "industry": "商用车",
-        "float_mv": 47496000000.0,
+        "float_mv": 49141084651.0,
         "close": 22.75,
         "pct_chg": -7.969255663430416,
         "amount": 6433404250.0,
-        "turnover": 13.5451,
+        "turnover": 13.0917,
         "volume": 2827870.0,
         "ma20": 21.4805,
         "ma60": 22.067666666666675,
@@ -1252,11 +1252,11 @@
         "code": "603186",
         "name": "华正新材",
         "industry": "元件",
-        "float_mv": 30961000000.0,
+        "float_mv": 29903087593.0,
         "close": 206.46,
         "pct_chg": -7.933110367892973,
         "amount": 4665252744.0,
-        "turnover": 15.0682,
+        "turnover": 15.6012,
         "volume": 225964.0,
         "ma20": 217.802,
         "ma60": 175.0258333333333,
@@ -1269,12 +1269,12 @@
       {
         "code": "002384",
         "name": "东山精密",
-        "industry": "C 制造业",
-        "float_mv": 196580000000.0,
+        "industry": "元件",
+        "float_mv": 194847518168.0,
         "close": 145.49,
         "pct_chg": -3.431567768485323,
         "amount": 13026418052.0,
-        "turnover": 6.6265,
+        "turnover": 6.6854,
         "volume": 895348.0,
         "ma20": 183.23200000000003,
         "ma60": 196.95933333333332,
@@ -1286,11 +1286,11 @@
         "code": "603986",
         "name": "兆易创新",
         "industry": "半导体",
-        "float_mv": 214998999999.99997,
+        "float_mv": 213288427986.0,
         "close": 326.46,
         "pct_chg": -2.3744019138755976,
         "amount": 10920511398.0,
-        "turnover": 5.0793,
+        "turnover": 5.1201,
         "volume": 334513.0,
         "ma20": 372.272,
         "ma60": 408.95733333333334,
@@ -1302,11 +1302,11 @@
         "code": "603259",
         "name": "药明康德",
         "industry": "医疗服务",
-        "float_mv": 392361000000.0,
+        "float_mv": 389986829189.0,
         "close": 157.8,
         "pct_chg": -2.5925925925925855,
         "amount": 9538962660.0,
-        "turnover": 2.4312,
+        "turnover": 2.446,
         "volume": 604497.0,
         "ma20": 159.67700000000002,
         "ma60": 148.97966666666667,
@@ -1318,11 +1318,11 @@
         "code": "600183",
         "name": "生益科技",
         "industry": "元件",
-        "float_mv": 294065000000.0,
+        "float_mv": 297440986534.0,
         "close": 124.14,
         "pct_chg": -5.854694372819667,
         "amount": 8585174808.0,
-        "turnover": 2.9195,
+        "turnover": 2.8863,
         "volume": 691572.0,
         "ma20": 141.8835,
         "ma60": 135.26533333333333,
@@ -1334,11 +1334,11 @@
         "code": "600176",
         "name": "中国巨石",
         "industry": "玻璃玻纤",
-        "float_mv": 156123000000.0,
+        "float_mv": 153462122762.0,
         "close": 38.57,
         "pct_chg": -2.4778761061946826,
         "amount": 8166483955.0,
-        "turnover": 5.2308,
+        "turnover": 5.3215,
         "volume": 2117315.0,
         "ma20": 43.1255,
         "ma60": 42.665833333333346,
@@ -1350,11 +1350,11 @@
         "code": "600487",
         "name": "亨通光电",
         "industry": "通信设备",
-        "float_mv": 127711999999.99998,
+        "float_mv": 125675761284.0,
         "close": 52.95,
         "pct_chg": 0.47438330170777987,
         "amount": 7602275070.0,
-        "turnover": 5.9527,
+        "turnover": 6.0491,
         "volume": 1435746.0,
         "ma20": 63.72149999999999,
         "ma60": 61.59333333333332,
@@ -1366,11 +1366,11 @@
         "code": "601899",
         "name": "紫金矿业",
         "industry": "工业金属",
-        "float_mv": 634535000000.0,
+        "float_mv": 628972744564.0,
         "close": 30.8,
         "pct_chg": 4.868913857677901,
         "amount": 7341099920.0,
-        "turnover": 1.1569,
+        "turnover": 1.1672,
         "volume": 2383474.0,
         "ma20": 31.6115,
         "ma60": 31.956833333333336,
@@ -1381,12 +1381,12 @@
       {
         "code": "002709",
         "name": "天赐材料",
-        "industry": "C 制造业",
-        "float_mv": 54142999999.99999,
+        "industry": "电池",
+        "float_mv": 54052774701.0,
         "close": 35.68,
         "pct_chg": 9.14652799021108,
         "amount": 7266000080.0,
-        "turnover": 13.42,
+        "turnover": 13.4424,
         "volume": 2036435.0,
         "ma20": 32.917500000000004,
         "ma60": 35.80633333333332,
@@ -1398,11 +1398,11 @@
         "code": "600418",
         "name": "江淮汽车",
         "industry": "商用车",
-        "float_mv": 47496000000.0,
+        "float_mv": 49141084651.0,
         "close": 22.75,
         "pct_chg": -7.969255663430416,
         "amount": 6433404250.0,
-        "turnover": 13.5451,
+        "turnover": 13.0917,
         "volume": 2827870.0,
         "ma20": 21.4805,
         "ma60": 22.067666666666675,
@@ -1413,12 +1413,12 @@
       {
         "code": "002463",
         "name": "沪电股份",
-        "industry": "C 制造业",
-        "float_mv": 214802000000.0,
+        "industry": "元件",
+        "float_mv": 217955244276.0,
         "close": 112.29,
         "pct_chg": -3.098032447359328,
         "amount": 5977926585.0,
-        "turnover": 2.783,
+        "turnover": 2.7427,
         "volume": 532365.0,
         "ma20": 122.6365,
         "ma60": 120.09783333333333,
@@ -1429,12 +1429,12 @@
       {
         "code": "000636",
         "name": "风华高科",
-        "industry": "C 制造业",
-        "float_mv": 52532000000.00001,
+        "industry": "元件",
+        "float_mv": 51820647000.0,
         "close": 47.17,
         "pct_chg": -6.408730158730153,
         "amount": 5397601779.0,
-        "turnover": 10.2749,
+        "turnover": 10.4159,
         "volume": 1144287.0,
         "ma20": 53.7845,
         "ma60": 53.477499999999985,
@@ -1445,12 +1445,12 @@
       {
         "code": "002281",
         "name": "光迅科技",
-        "industry": "C 制造业",
-        "float_mv": 115184999999.99998,
+        "industry": "通信设备",
+        "float_mv": 114257284751.0,
         "close": 148.71,
         "pct_chg": -2.1709098085652148,
         "amount": 4993176186.0,
-        "turnover": 4.3349,
+        "turnover": 4.3701,
         "volume": 335766.0,
         "ma20": 176.80300000000003,
         "ma60": 181.47766666666664,
@@ -1461,12 +1461,12 @@
       {
         "code": "002371",
         "name": "北方华创",
-        "industry": "C 制造业",
-        "float_mv": 427583000000.0,
+        "industry": "半导体",
+        "float_mv": 432731135614.0,
         "close": 594.04,
         "pct_chg": -1.0461087420042787,
         "amount": 4846653552.0,
-        "turnover": 1.1335,
+        "turnover": 1.12,
         "volume": 81588.0,
         "ma20": 644.4374999999998,
         "ma60": 696.2955000000002,
@@ -1477,12 +1477,12 @@
       {
         "code": "002436",
         "name": "兴森科技",
-        "industry": "C 制造业",
-        "float_mv": 57454000000.0,
+        "industry": "元件",
+        "float_mv": 56664272995.0,
         "close": 38.51,
         "pct_chg": -4.701806483543674,
         "amount": 4837279610.0,
-        "turnover": 8.4194,
+        "turnover": 8.5367,
         "volume": 1256110.0,
         "ma20": 40.876999999999995,
         "ma60": 36.3555,
@@ -1494,11 +1494,11 @@
         "code": "601208",
         "name": "东材科技",
         "industry": "塑料",
-        "float_mv": 47580000000.0,
+        "float_mv": 46630044649.0,
         "close": 48.47,
         "pct_chg": -4.811468970934805,
         "amount": 4761983620.0,
-        "turnover": 10.0084,
+        "turnover": 10.2123,
         "volume": 982460.0,
         "ma20": 50.2745,
         "ma60": 46.52033333333333,
