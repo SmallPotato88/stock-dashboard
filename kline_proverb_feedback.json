@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.919,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-10-13",
-          "pct_chg": -2.82,
+          "pct_chg": -6.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-10-13",
-          "pct_chg": -4.49,
+          "pct_chg": -1.16,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-13",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-13",
-          "pct_chg": -2.82,
+          "pct_chg": 1.6,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,23 +553,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-13",
-          "pct_chg": -0.76,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-13",
-          "pct_chg": -2.54,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-13",
-          "pct_chg": -4.49,
+          "pct_chg": -1.16,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +596,30 @@
           "pct_chg": -1.07,
           "vol_ratio5": 0.95,
           "close_pos": 0.43
+        },
+        {
+          "code": "605318",
+          "name": "法狮龙",
+          "date": "2026-10-12",
+          "pct_chg": -1.58,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.38
+        },
+        {
+          "code": "605319",
+          "name": "无锡振华",
+          "date": "2026-10-12",
+          "pct_chg": 0.05,
+          "vol_ratio5": 0.85,
+          "close_pos": 0.58
+        },
+        {
+          "code": "605258",
+          "name": "协和电子",
+          "date": "2026-10-12",
+          "pct_chg": -3.1,
+          "vol_ratio5": 0.73,
+          "close_pos": 0.44
         }
       ]
     }
