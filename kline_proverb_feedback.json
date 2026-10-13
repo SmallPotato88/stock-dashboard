@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 123147,
+      "sample_count": 123148,
       "avg_next_return_pct": 0.305,
       "win_rate_pct": 46.73,
       "avg_win_pct": 3.594,
@@ -332,7 +332,7 @@
         },
         {
           "code": "600125",
-          "name": "铁龙物流",
+          "name": "XD铁龙物",
           "date": "2026-10-12",
           "pct_chg": 0.75,
           "vol_ratio5": 1.57,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 755904,
+      "sample_count": 755905,
       "avg_next_return_pct": 0.007,
       "win_rate_pct": 47.99,
       "avg_win_pct": 2.095,
