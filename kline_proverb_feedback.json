@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.918,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-14",
-          "pct_chg": 0.24,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-13",
@@ -531,6 +523,14 @@
           "pct_chg": -0.44,
           "vol_ratio5": 0.84,
           "close_pos": 0.58
+        },
+        {
+          "code": "605100",
+          "name": "华丰股份",
+          "date": "2026-10-13",
+          "pct_chg": 0.27,
+          "vol_ratio5": 0.98,
+          "close_pos": 0.39
         }
       ]
     },
@@ -542,26 +542,10 @@
       "avg_loss_pct": -1.785,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-14",
-          "pct_chg": 3.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-14",
-          "pct_chg": -0.61,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-14",
-          "pct_chg": 0.24,
+          "pct_chg": -0.24,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +553,15 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-14",
-          "pct_chg": -1.57,
+          "pct_chg": -1.35,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-14",
+          "pct_chg": 0.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 9.99,
           "vol_ratio5": 1.85,
           "close_pos": 1.0
+        },
+        {
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-10-13",
+          "pct_chg": 2.04,
+          "vol_ratio5": 0.84,
+          "close_pos": 0.9
         }
       ]
     }
