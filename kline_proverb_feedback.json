@@ -456,15 +456,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-15",
-          "pct_chg": -3.33,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-15",
-          "pct_chg": -5.44,
+          "pct_chg": -3.43,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +464,23 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-15",
-          "pct_chg": -4.55,
+          "pct_chg": -5.18,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-15",
+          "pct_chg": -5.79,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-10-15",
+          "pct_chg": -0.03,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,15 +488,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-15",
-          "pct_chg": -6.99,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-15",
-          "pct_chg": -4.29,
+          "pct_chg": -7.34,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
