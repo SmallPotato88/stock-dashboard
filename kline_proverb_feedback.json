@@ -453,6 +453,22 @@
       "avg_loss_pct": -1.919,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-15",
+          "pct_chg": -3.06,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-10-15",
+          "pct_chg": -4.95,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-14",
@@ -515,22 +531,6 @@
           "pct_chg": -0.03,
           "vol_ratio5": 0.68,
           "close_pos": 0.2
-        },
-        {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-10-14",
-          "pct_chg": -1.47,
-          "vol_ratio5": 0.61,
-          "close_pos": 0.38
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-10-14",
-          "pct_chg": -5.99,
-          "vol_ratio5": 0.8,
-          "close_pos": 0.04
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 2.028,
       "avg_loss_pct": -1.787,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-15",
+          "pct_chg": -2.88,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -612,14 +620,6 @@
           "pct_chg": -0.53,
           "vol_ratio5": 0.72,
           "close_pos": 0.43
-        },
-        {
-          "code": "603948",
-          "name": "建业股份",
-          "date": "2026-10-14",
-          "pct_chg": -1.68,
-          "vol_ratio5": 0.84,
-          "close_pos": 0.72
         }
       ]
     }
