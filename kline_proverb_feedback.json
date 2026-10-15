@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.919,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-10-15",
-          "pct_chg": -3.43,
+          "pct_chg": -6.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-15",
-          "pct_chg": -5.18,
+          "pct_chg": -2.98,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +472,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-15",
-          "pct_chg": -5.79,
+          "pct_chg": -5.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-15",
+          "pct_chg": -4.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,15 +488,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-15",
-          "pct_chg": -0.03,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-15",
-          "pct_chg": -7.34,
+          "pct_chg": 0.28,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -541,6 +541,14 @@
       "avg_win_pct": 2.028,
       "avg_loss_pct": -1.787,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-15",
+          "pct_chg": -4.15,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -612,14 +620,6 @@
           "pct_chg": -0.53,
           "vol_ratio5": 0.72,
           "close_pos": 0.43
-        },
-        {
-          "code": "603948",
-          "name": "建业股份",
-          "date": "2026-10-14",
-          "pct_chg": -1.68,
-          "vol_ratio5": 0.84,
-          "close_pos": 0.72
         }
       ]
     }
