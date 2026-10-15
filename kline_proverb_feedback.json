@@ -49,7 +49,7 @@
         },
         {
           "code": "603861",
-          "name": "白云电器",
+          "name": "XD白云电",
           "date": "2026-10-14",
           "pct_chg": 4.17,
           "vol_ratio5": 2.48,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 757500,
+      "sample_count": 757502,
       "avg_next_return_pct": 0.007,
       "win_rate_pct": 47.98,
       "avg_win_pct": 2.095,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 646140,
+      "sample_count": 646142,
       "avg_next_return_pct": -0.04,
       "win_rate_pct": 45.8,
       "avg_win_pct": 2.028,
