@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.923,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-10-16",
-          "pct_chg": 5.37,
+          "pct_chg": 2.7,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-10-16",
-          "pct_chg": 2.57,
+          "pct_chg": 1.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-16",
-          "pct_chg": 0.44,
+          "pct_chg": 0.49,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
