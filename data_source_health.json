@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:36:00",
+  "generated_at": "2026-10-16T15:52:41",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,11 +11,11 @@
     "latest_bar_date": "2026-10-16",
     "latest_indicator_date": "2026-10-16",
     "latest_signal_trade_date": "2026-10-16",
-    "dashboard_generated_at": "2026-10-16T15:29:05",
+    "dashboard_generated_at": "2026-10-16T15:50:17",
     "dashboard_trade_date": "2026-10-16",
     "dashboard_data_date": "2026-10-16",
-    "realtime_snapshot_generated_at": "2026-10-16T15:29:05",
-    "stock_detail_count": 50,
+    "realtime_snapshot_generated_at": "2026-10-16T15:50:18",
+    "stock_detail_count": 94,
     "watchlist_count": 7,
     "main_non_st": 3116,
     "main_non_st_latest_bar": 3048,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 116,
+      "latency_ms": 121,
       "bytes_sampled": 465
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 154,
+      "latency_ms": 144,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 487,
+      "latency_ms": 208,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1501,
+      "latency_ms": 3346,
       "bytes_sampled": 512
     }
   },
@@ -118,19 +118,19 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1501,
+      "latency_ms": 3346,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "cb08a8e256442939632b03d4f2a48bda899d5f37",
+      "head": "a8c0db1a6b8f77b98bb743ef15eae3de8655ef5e",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "6bdb7b4ea5c72702961816ee40c8979b8292483d",
+      "head": "b59288f6fc5c0ae52a8b37ecd171400990ac0e66",
       "error": ""
     }
   },
