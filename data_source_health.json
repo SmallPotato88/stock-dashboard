@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:56:40",
+  "generated_at": "2026-10-16T09:01:46",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-15",
     "latest_indicator_date": "2026-10-15",
     "latest_signal_trade_date": "2026-10-15",
-    "dashboard_generated_at": "2026-10-15T15:52:24",
+    "dashboard_generated_at": "2026-10-15T15:56:42",
     "dashboard_trade_date": "2026-10-15",
     "dashboard_data_date": "2026-10-15",
-    "realtime_snapshot_generated_at": "2026-10-15T15:52:24",
+    "realtime_snapshot_generated_at": "2026-10-15T15:56:42",
     "stock_detail_count": 100,
     "watchlist_count": 7,
     "main_non_st": 3116,
@@ -30,7 +30,7 @@
       "table": "quote_enrichment",
       "rows": 5073,
       "latest_fetched_at": "2026-10-15T14:56:51",
-      "age_days": 0,
+      "age_days": 1,
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "table": "baidu_kline_enrichment",
       "rows": 3,
       "latest_fetched_at": "2026-05-22 16:18:42",
-      "age_days": 146,
+      "age_days": 147,
       "status": "warn"
     },
     {
@@ -48,7 +48,7 @@
       "table": "stock_risk_enrichment",
       "rows": 97,
       "latest_fetched_at": "2026-05-27 06:46:46",
-      "age_days": 141,
+      "age_days": 142,
       "status": "warn"
     },
     {
@@ -57,7 +57,7 @@
       "table": "stock_news_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 7,
+      "age_days": 8,
       "status": "warn"
     },
     {
@@ -66,7 +66,7 @@
       "table": "stock_moneyflow_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 7,
+      "age_days": 8,
       "status": "warn"
     },
     {
@@ -75,7 +75,7 @@
       "table": "stock_research_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 7,
+      "age_days": 8,
       "status": "warn"
     },
     {
@@ -84,7 +84,7 @@
       "table": "market_signal_enrichment",
       "rows": 1,
       "latest_fetched_at": "2026-05-27 06:46:47",
-      "age_days": 141,
+      "age_days": 142,
       "status": "warn"
     }
   ],
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 124,
+      "latency_ms": 136,
       "bytes_sampled": 469
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 30,
+      "latency_ms": 28,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 246,
+      "latency_ms": 356,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3083,
+      "latency_ms": 945,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3083,
+      "latency_ms": 945,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "bbd884a224063f97b1e54747d6715c21e0baf653",
+      "head": "d1aa3a3b1eb40f640e00fc2aafb02ce3012967b1",
       "error": ""
     },
     "gitee_repo_head": {
