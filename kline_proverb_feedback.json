@@ -542,14 +542,6 @@
       "avg_loss_pct": -1.788,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-16",
-          "pct_chg": 1.19,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-16",
@@ -562,6 +554,14 @@
           "name": "春秋航空",
           "date": "2026-10-16",
           "pct_chg": 0.46,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-16",
+          "pct_chg": 1.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
