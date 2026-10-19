@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-19",
+          "pct_chg": 1.25,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-19",
-          "pct_chg": -1.63,
+          "pct_chg": -2.93,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +472,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-19",
-          "pct_chg": -0.87,
+          "pct_chg": -0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 1.24,
           "vol_ratio5": 0.47,
           "close_pos": 0.33
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-10-16",
-          "pct_chg": -2.4,
-          "vol_ratio5": 1.73,
-          "close_pos": 0.16
         }
       ]
     },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.788,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-10-19",
-          "pct_chg": -1.14,
+          "pct_chg": -1.42,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-10-19",
-          "pct_chg": -2.07,
+          "pct_chg": -1.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
