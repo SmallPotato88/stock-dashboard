@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:06:36",
+  "generated_at": "2026-10-19T12:11:36",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-10-16",
     "latest_indicator_date": "2026-10-16",
     "latest_signal_trade_date": "2026-10-16",
-    "dashboard_generated_at": "2026-10-19T12:01:03",
+    "dashboard_generated_at": "2026-10-19T12:06:38",
     "dashboard_trade_date": "2026-10-16",
     "dashboard_data_date": "2026-10-16",
     "realtime_snapshot_generated_at": "2026-10-19T11:26:11",
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 119,
+      "latency_ms": 117,
       "bytes_sampled": 463
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 156,
+      "latency_ms": 152,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 216,
+      "latency_ms": 183,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 838,
+      "latency_ms": 897,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 838,
+      "latency_ms": 897,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "dea6a6930deaf7f75ebda6ce3c9b1919195dda6e",
+      "head": "e9ee005a73a512ccb0d8475e703ec382b7d0a0a2",
       "error": ""
     },
     "gitee_repo_head": {
