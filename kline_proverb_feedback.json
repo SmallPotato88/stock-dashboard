@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 123092,
+      "sample_count": 123093,
       "avg_next_return_pct": 0.292,
       "win_rate_pct": 46.59,
       "avg_win_pct": 3.595,
@@ -446,12 +446,36 @@
       ]
     },
     "上影线长": {
-      "sample_count": 760355,
+      "sample_count": 760358,
       "avg_next_return_pct": 0.003,
       "win_rate_pct": 47.92,
       "avg_win_pct": 2.095,
       "avg_loss_pct": -1.922,
       "recent_samples": [
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-19",
+          "pct_chg": 5.21,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-19",
+          "pct_chg": 2.11,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-19",
+          "pct_chg": 1.47,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "603019",
           "name": "中科曙光",
@@ -507,40 +531,24 @@
           "pct_chg": 1.24,
           "vol_ratio5": 0.47,
           "close_pos": 0.33
-        },
-        {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-10-16",
-          "pct_chg": -2.4,
-          "vol_ratio5": 1.73,
-          "close_pos": 0.16
-        },
-        {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-10-16",
-          "pct_chg": -0.89,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.15
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-10-16",
-          "pct_chg": 1.09,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.47
         }
       ]
     },
     "下影线长": {
-      "sample_count": 646845,
+      "sample_count": 646846,
       "avg_next_return_pct": -0.041,
       "win_rate_pct": 45.79,
       "avg_win_pct": 2.028,
       "avg_loss_pct": -1.788,
       "recent_samples": [
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-10-19",
+          "pct_chg": 0.15,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -612,14 +620,6 @@
           "pct_chg": -0.22,
           "vol_ratio5": 0.71,
           "close_pos": 0.43
-        },
-        {
-          "code": "605069",
-          "name": "正和生态",
-          "date": "2026-10-16",
-          "pct_chg": 4.19,
-          "vol_ratio5": 0.87,
-          "close_pos": 0.67
         }
       ]
     }
