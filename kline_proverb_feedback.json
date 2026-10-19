@@ -448,31 +448,23 @@
     "上影线长": {
       "sample_count": 760358,
       "avg_next_return_pct": 0.003,
-      "win_rate_pct": 47.92,
+      "win_rate_pct": 47.93,
       "avg_win_pct": 2.095,
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-19",
-          "pct_chg": 1.06,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-19",
-          "pct_chg": -0.92,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-19",
-          "pct_chg": -1.29,
+          "pct_chg": -2.41,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-19",
+          "pct_chg": -0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +472,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-19",
-          "pct_chg": -0.95,
+          "pct_chg": -1.39,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 1.1,
           "vol_ratio5": 0.87,
           "close_pos": 0.32
+        },
+        {
+          "code": "605399",
+          "name": "晨光新材",
+          "date": "2026-10-16",
+          "pct_chg": 1.24,
+          "vol_ratio5": 0.47,
+          "close_pos": 0.33
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-19",
-          "pct_chg": -0.92,
+          "pct_chg": 0.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
