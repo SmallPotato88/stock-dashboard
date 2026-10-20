@@ -550,18 +550,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-20",
-          "pct_chg": -1.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-20",
           "pct_chg": -0.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-20",
+          "pct_chg": -1.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
