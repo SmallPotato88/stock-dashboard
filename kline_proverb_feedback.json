@@ -453,6 +453,30 @@
       "avg_loss_pct": -1.922,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-20",
+          "pct_chg": -0.91,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-10-20",
+          "pct_chg": -0.44,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-20",
+          "pct_chg": -0.59,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-19",
@@ -507,30 +531,6 @@
           "pct_chg": -2.32,
           "vol_ratio5": 0.94,
           "close_pos": 0.3
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-10-19",
-          "pct_chg": -0.09,
-          "vol_ratio5": 0.77,
-          "close_pos": 0.41
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-10-19",
-          "pct_chg": -3.03,
-          "vol_ratio5": 0.63,
-          "close_pos": 0.56
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-10-19",
-          "pct_chg": -0.13,
-          "vol_ratio5": 0.85,
-          "close_pos": 0.33
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 2.027,
       "avg_loss_pct": -1.788,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-20",
+          "pct_chg": -0.43,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -612,14 +620,6 @@
           "pct_chg": -0.18,
           "vol_ratio5": 0.51,
           "close_pos": 0.85
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-10-19",
-          "pct_chg": -0.09,
-          "vol_ratio5": 0.77,
-          "close_pos": 0.41
         }
       ]
     }
