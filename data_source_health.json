@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:31:06",
+  "generated_at": "2026-10-21T15:29:57",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-10-20",
-    "latest_indicator_date": "2026-10-20",
-    "latest_signal_trade_date": "2026-10-20",
-    "dashboard_generated_at": "2026-10-21T14:26:07",
+    "latest_bar_date": "2026-10-21",
+    "latest_indicator_date": "2026-10-21",
+    "latest_signal_trade_date": "2026-10-21",
+    "dashboard_generated_at": "2026-10-21T14:31:08",
     "dashboard_trade_date": "2026-10-20",
     "dashboard_data_date": "2026-10-20",
-    "realtime_snapshot_generated_at": "2026-10-21T14:26:17",
+    "realtime_snapshot_generated_at": "2026-10-21T14:31:19",
     "stock_detail_count": 105,
     "watchlist_count": 7,
     "main_non_st": 3118,
-    "main_non_st_latest_bar": 3051,
-    "main_non_st_latest_indicator": 3051,
-    "bar_coverage_pct": 97.85,
-    "indicator_coverage_pct": 97.85
+    "main_non_st_latest_bar": 3050,
+    "main_non_st_latest_indicator": 3050,
+    "bar_coverage_pct": 97.82,
+    "indicator_coverage_pct": 97.82
   },
   "db_sources": [
     {
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-10-21T14:28:02",
+      "latest_fetched_at": "2026-10-21T14:56:20",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 111,
-      "bytes_sampled": 466
+      "latency_ms": 102,
+      "bytes_sampled": 467
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 126,
+      "latency_ms": 41,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 382,
+      "latency_ms": 383,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3075,
+      "latency_ms": 1012,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3075,
+      "latency_ms": 1012,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "2847ee1d9478b51b3ae382da4e7514dc3e270515",
+      "head": "dde56f51f942f5f8c7c8798eddba0ef502d123a4",
       "error": ""
     },
     "gitee_repo_head": {
@@ -136,9 +136,9 @@
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-10-20",
-    "latest_indicator_date": "2026-10-20",
-    "main_non_st_indicator_coverage_pct": 97.85
+    "latest_bar_date": "2026-10-21",
+    "latest_indicator_date": "2026-10-21",
+    "main_non_st_indicator_coverage_pct": 97.82
   },
   "governance": {
     "canonical_fields": [
@@ -164,7 +164,7 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.85%"
+      "detail": "97.82%"
     },
     {
       "level": "P2",
