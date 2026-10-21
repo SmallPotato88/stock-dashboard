@@ -456,7 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-21",
-          "pct_chg": 0.58,
+          "pct_chg": 0.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.787,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-10-21",
-          "pct_chg": 0.27,
+          "pct_chg": 4.71,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-10-21",
-          "pct_chg": 4.52,
+          "pct_chg": -0.02,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,15 +561,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-21",
-          "pct_chg": 0.62,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-21",
-          "pct_chg": -0.26,
+          "pct_chg": 0.91,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -577,7 +569,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-21",
-          "pct_chg": 0.96,
+          "pct_chg": 0.98,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 1.55,
           "vol_ratio5": 1.09,
           "close_pos": 1.0
+        },
+        {
+          "code": "605339",
+          "name": "南侨食品",
+          "date": "2026-10-20",
+          "pct_chg": 1.5,
+          "vol_ratio5": 0.95,
+          "close_pos": 0.89
         }
       ]
     }
