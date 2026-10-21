@@ -453,6 +453,22 @@
       "avg_loss_pct": -1.921,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-21",
+          "pct_chg": -0.14,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-21",
+          "pct_chg": 0.93,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-20",
@@ -515,22 +531,6 @@
           "pct_chg": 2.11,
           "vol_ratio5": 1.2,
           "close_pos": 0.32
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-10-20",
-          "pct_chg": 0.57,
-          "vol_ratio5": 0.65,
-          "close_pos": 0.49
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-10-20",
-          "pct_chg": 0.43,
-          "vol_ratio5": 0.55,
-          "close_pos": 0.28
         }
       ]
     },
