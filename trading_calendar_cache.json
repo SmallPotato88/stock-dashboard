@@ -585,7 +585,7 @@
     "source": "canonical_premarket_safe_checker"
   },
   "2026-10-22": {
-    "fetched_at": "2026-10-22T09:42:19",
+    "fetched_at": "2026-10-22T09:50:37",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
   }
