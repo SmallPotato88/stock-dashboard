@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 123183,
+      "sample_count": 123184,
       "avg_next_return_pct": 0.297,
       "win_rate_pct": 46.58,
       "avg_win_pct": 3.597,
@@ -446,12 +446,36 @@
       ]
     },
     "上影线长": {
-      "sample_count": 764583,
+      "sample_count": 764586,
       "avg_next_return_pct": 0.003,
       "win_rate_pct": 47.9,
       "avg_win_pct": 2.094,
       "avg_loss_pct": -1.92,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-22",
+          "pct_chg": 0.6,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-22",
+          "pct_chg": -1.21,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-10-22",
+          "pct_chg": 3.04,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "002851",
           "name": "麦格米特",
@@ -507,40 +531,24 @@
           "pct_chg": -0.77,
           "vol_ratio5": 0.71,
           "close_pos": 0.07
-        },
-        {
-          "code": "605580",
-          "name": "恒盛能源",
-          "date": "2026-10-21",
-          "pct_chg": 0.0,
-          "vol_ratio5": 0.82,
-          "close_pos": 0.15
-        },
-        {
-          "code": "605555",
-          "name": "德昌股份",
-          "date": "2026-10-21",
-          "pct_chg": -0.52,
-          "vol_ratio5": 0.82,
-          "close_pos": 0.22
-        },
-        {
-          "code": "605507",
-          "name": "国邦医药",
-          "date": "2026-10-21",
-          "pct_chg": -0.39,
-          "vol_ratio5": 0.68,
-          "close_pos": 0.21
         }
       ]
     },
     "下影线长": {
-      "sample_count": 650301,
+      "sample_count": 650302,
       "avg_next_return_pct": -0.039,
       "win_rate_pct": 45.83,
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.786,
       "recent_samples": [
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-22",
+          "pct_chg": 1.5,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "603019",
           "name": "中科曙光",
@@ -612,14 +620,6 @@
           "pct_chg": 0.95,
           "vol_ratio5": 1.44,
           "close_pos": 0.78
-        },
-        {
-          "code": "605016",
-          "name": "百龙创园",
-          "date": "2026-10-21",
-          "pct_chg": -0.26,
-          "vol_ratio5": 0.55,
-          "close_pos": 0.46
         }
       ]
     }
