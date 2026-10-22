@@ -456,15 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-22",
-          "pct_chg": 0.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-22",
-          "pct_chg": 0.28,
+          "pct_chg": -0.46,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +464,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-22",
-          "pct_chg": -1.4,
+          "pct_chg": -1.71,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-22",
+          "pct_chg": -0.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,34 +542,10 @@
       "avg_loss_pct": -1.786,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-22",
-          "pct_chg": 0.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-22",
-          "pct_chg": 0.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-22",
-          "pct_chg": -0.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-22",
-          "pct_chg": -1.4,
+          "pct_chg": -0.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +596,30 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.63,
           "close_pos": 0.73
+        },
+        {
+          "code": "605169",
+          "name": "洪通燃气",
+          "date": "2026-10-21",
+          "pct_chg": 0.49,
+          "vol_ratio5": 0.83,
+          "close_pos": 0.48
+        },
+        {
+          "code": "605118",
+          "name": "力鼎光电",
+          "date": "2026-10-21",
+          "pct_chg": 1.11,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.41
+        },
+        {
+          "code": "605089",
+          "name": "XD味知香",
+          "date": "2026-10-21",
+          "pct_chg": 0.95,
+          "vol_ratio5": 1.44,
+          "close_pos": 0.78
         }
       ]
     }
