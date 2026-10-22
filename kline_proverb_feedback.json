@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.786,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-22",
+          "pct_chg": 0.96,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-22",
-          "pct_chg": -0.9,
+          "pct_chg": -0.88,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,23 +561,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-22",
-          "pct_chg": -0.08,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-22",
-          "pct_chg": 0.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-22",
-          "pct_chg": -0.47,
+          "pct_chg": 0.13,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.63,
           "close_pos": 0.73
+        },
+        {
+          "code": "605169",
+          "name": "洪通燃气",
+          "date": "2026-10-21",
+          "pct_chg": 0.49,
+          "vol_ratio5": 0.83,
+          "close_pos": 0.48
         }
       ]
     }
