@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.92,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-22",
-          "pct_chg": 0.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-22",
           "pct_chg": -1.4,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-22",
+          "pct_chg": 0.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.786,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-22",
-          "pct_chg": 0.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-22",
           "pct_chg": -1.4,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-22",
+          "pct_chg": 0.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
