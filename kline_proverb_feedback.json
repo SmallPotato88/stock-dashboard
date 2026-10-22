@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.92,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-22",
+          "pct_chg": 0.39,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-21",
@@ -523,14 +531,6 @@
           "pct_chg": -0.52,
           "vol_ratio5": 0.82,
           "close_pos": 0.22
-        },
-        {
-          "code": "605507",
-          "name": "国邦医药",
-          "date": "2026-10-21",
-          "pct_chg": -0.39,
-          "vol_ratio5": 0.68,
-          "close_pos": 0.21
         }
       ]
     },
@@ -545,23 +545,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-22",
-          "pct_chg": 0.92,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-22",
-          "pct_chg": -1.22,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-22",
-          "pct_chg": -0.92,
+          "pct_chg": 0.39,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +553,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-22",
-          "pct_chg": 0.46,
+          "pct_chg": 0.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.63,
           "close_pos": 0.73
+        },
+        {
+          "code": "605169",
+          "name": "洪通燃气",
+          "date": "2026-10-21",
+          "pct_chg": 0.49,
+          "vol_ratio5": 0.83,
+          "close_pos": 0.48
+        },
+        {
+          "code": "605118",
+          "name": "力鼎光电",
+          "date": "2026-10-21",
+          "pct_chg": 1.11,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.41
         }
       ]
     }
