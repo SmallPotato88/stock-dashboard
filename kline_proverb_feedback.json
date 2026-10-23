@@ -25,7 +25,7 @@
         },
         {
           "code": "603949",
-          "name": "雪龙集团",
+          "name": "XD雪龙集",
           "date": "2026-10-22",
           "pct_chg": 3.46,
           "vol_ratio5": 1.67,
@@ -300,7 +300,7 @@
         },
         {
           "code": "600415",
-          "name": "XD小商品",
+          "name": "小商品城",
           "date": "2026-10-22",
           "pct_chg": -0.83,
           "vol_ratio5": 1.47,
@@ -308,7 +308,7 @@
         },
         {
           "code": "605089",
-          "name": "XD味知香",
+          "name": "味知香",
           "date": "2026-10-21",
           "pct_chg": 0.96,
           "vol_ratio5": 1.44,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 766365,
+      "sample_count": 766367,
       "avg_next_return_pct": -0.004,
       "win_rate_pct": 47.8,
       "avg_win_pct": 2.094,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 650614,
+      "sample_count": 650615,
       "avg_next_return_pct": -0.04,
       "win_rate_pct": 45.81,
       "avg_win_pct": 2.026,
