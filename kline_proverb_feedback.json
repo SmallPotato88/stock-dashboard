@@ -456,15 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-23",
-          "pct_chg": -2.88,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-23",
-          "pct_chg": -1.58,
+          "pct_chg": -3.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -1.93,
           "vol_ratio5": 0.88,
           "close_pos": 0.04
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-22",
+          "pct_chg": -0.39,
+          "vol_ratio5": 1.28,
+          "close_pos": 0.27
         }
       ]
     },
@@ -542,10 +542,34 @@
       "avg_loss_pct": -1.787,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-23",
+          "pct_chg": -1.93,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-23",
-          "pct_chg": -0.78,
+          "pct_chg": 0.05,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-23",
+          "pct_chg": -1.82,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-10-23",
+          "pct_chg": -0.61,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -596,30 +620,6 @@
           "pct_chg": -2.04,
           "vol_ratio5": 0.79,
           "close_pos": 0.38
-        },
-        {
-          "code": "605001",
-          "name": "威奥股份",
-          "date": "2026-10-22",
-          "pct_chg": -1.42,
-          "vol_ratio5": 0.94,
-          "close_pos": 0.65
-        },
-        {
-          "code": "603939",
-          "name": "益丰药房",
-          "date": "2026-10-22",
-          "pct_chg": 0.08,
-          "vol_ratio5": 0.65,
-          "close_pos": 0.72
-        },
-        {
-          "code": "603896",
-          "name": "寿仙谷",
-          "date": "2026-10-22",
-          "pct_chg": -1.88,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.35
         }
       ]
     }
