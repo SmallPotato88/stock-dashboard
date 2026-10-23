@@ -550,18 +550,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-23",
-          "pct_chg": -1.82,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-23",
           "pct_chg": -0.77,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-23",
+          "pct_chg": -1.82,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
