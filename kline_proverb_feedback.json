@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.787,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-23",
-          "pct_chg": 0.44,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-23",
-          "pct_chg": 1.02,
+          "pct_chg": 1.13,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,15 +553,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-23",
-          "pct_chg": -0.19,
+          "pct_chg": -0.16,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-10-23",
-          "pct_chg": 1.0,
+          "pct_chg": 0.69,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -577,7 +569,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-23",
-          "pct_chg": -1.58,
+          "pct_chg": -1.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 0.0,
           "vol_ratio5": 0.78,
           "close_pos": 0.49
+        },
+        {
+          "code": "605008",
+          "name": "长鸿高科",
+          "date": "2026-10-22",
+          "pct_chg": -2.04,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.38
         }
       ]
     }
