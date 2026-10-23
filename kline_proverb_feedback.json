@@ -456,7 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-23",
-          "pct_chg": -4.21,
+          "pct_chg": -4.53,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-23",
-          "pct_chg": -0.43,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-23",
-          "pct_chg": -1.63,
+          "pct_chg": -0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,15 +553,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-23",
-          "pct_chg": 0.9,
+          "pct_chg": 0.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-23",
-          "pct_chg": -4.21,
+          "pct_chg": -1.82,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -2.04,
           "vol_ratio5": 0.79,
           "close_pos": 0.38
+        },
+        {
+          "code": "605001",
+          "name": "威奥股份",
+          "date": "2026-10-22",
+          "pct_chg": -1.42,
+          "vol_ratio5": 0.94,
+          "close_pos": 0.65
         }
       ]
     }
