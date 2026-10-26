@@ -453,34 +453,10 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-26",
-          "pct_chg": -0.58,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-26",
-          "pct_chg": -0.48,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-26",
-          "pct_chg": -2.19,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-26",
-          "pct_chg": -1.06,
+          "pct_chg": -2.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +464,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-26",
-          "pct_chg": 0.77,
+          "pct_chg": 0.66,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": -0.26,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": -0.42,
           "vol_ratio5": 0.83,
           "close_pos": 0.28
+        },
+        {
+          "code": "603629",
+          "name": "利通电子",
+          "date": "2026-10-23",
+          "pct_chg": -1.97,
+          "vol_ratio5": 1.07,
+          "close_pos": 0.59
+        },
+        {
+          "code": "603565",
+          "name": "中谷物流",
+          "date": "2026-10-23",
+          "pct_chg": 0.53,
+          "vol_ratio5": 1.14,
+          "close_pos": 0.64
         }
       ]
     },
@@ -545,7 +545,23 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-26",
-          "pct_chg": -1.06,
+          "pct_chg": -0.73,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-26",
+          "pct_chg": 0.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": -0.26,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -604,22 +620,6 @@
           "pct_chg": 1.59,
           "vol_ratio5": 1.47,
           "close_pos": 0.97
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-10-23",
-          "pct_chg": -6.59,
-          "vol_ratio5": 0.96,
-          "close_pos": 0.36
-        },
-        {
-          "code": "605567",
-          "name": "春雪食品",
-          "date": "2026-10-23",
-          "pct_chg": 0.57,
-          "vol_ratio5": 1.44,
-          "close_pos": 0.96
         }
       ]
     }
