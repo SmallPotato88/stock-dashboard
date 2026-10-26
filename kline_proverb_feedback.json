@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-26",
+          "pct_chg": -1.93,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-26",
@@ -465,14 +473,6 @@
           "name": "春秋航空",
           "date": "2026-10-26",
           "pct_chg": 1.14,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-26",
-          "pct_chg": -1.93,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,30 +542,6 @@
       "avg_loss_pct": -1.787,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-26",
-          "pct_chg": 0.71,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-26",
-          "pct_chg": -2.76,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-26",
-          "pct_chg": -0.14,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-26",
@@ -578,6 +554,30 @@
           "name": "赛力斯",
           "date": "2026-10-26",
           "pct_chg": -0.38,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-26",
+          "pct_chg": 0.71,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": -0.14,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-26",
+          "pct_chg": -2.76,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
