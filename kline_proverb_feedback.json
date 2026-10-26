@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-10-26",
-          "pct_chg": -0.55,
+          "pct_chg": -1.95,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-26",
-          "pct_chg": 0.36,
+          "pct_chg": -0.63,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": 0.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +480,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-26",
-          "pct_chg": -1.23,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-26",
-          "pct_chg": -2.02,
+          "pct_chg": -0.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.787,
       "recent_samples": [
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": 0.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-26",
+          "pct_chg": -0.57,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -604,22 +620,6 @@
           "pct_chg": -6.59,
           "vol_ratio5": 0.96,
           "close_pos": 0.36
-        },
-        {
-          "code": "605567",
-          "name": "春雪食品",
-          "date": "2026-10-23",
-          "pct_chg": 0.57,
-          "vol_ratio5": 1.44,
-          "close_pos": 0.96
-        },
-        {
-          "code": "605566",
-          "name": "福莱蒽特",
-          "date": "2026-10-23",
-          "pct_chg": -1.52,
-          "vol_ratio5": 1.72,
-          "close_pos": 0.84
         }
       ]
     }
