@@ -453,6 +453,38 @@
       "avg_loss_pct": -1.926,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-26",
+          "pct_chg": -1.58,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-26",
+          "pct_chg": -0.4,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-26",
+          "pct_chg": 0.08,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-26",
+          "pct_chg": -1.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605198",
           "name": "安德利",
           "date": "2026-10-23",
@@ -499,38 +531,6 @@
           "pct_chg": -1.97,
           "vol_ratio5": 1.07,
           "close_pos": 0.59
-        },
-        {
-          "code": "603565",
-          "name": "中谷物流",
-          "date": "2026-10-23",
-          "pct_chg": 0.53,
-          "vol_ratio5": 1.14,
-          "close_pos": 0.64
-        },
-        {
-          "code": "603558",
-          "name": "健盛集团",
-          "date": "2026-10-23",
-          "pct_chg": -0.73,
-          "vol_ratio5": 0.97,
-          "close_pos": 0.58
-        },
-        {
-          "code": "603500",
-          "name": "祥和实业",
-          "date": "2026-10-23",
-          "pct_chg": 1.7,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.55
-        },
-        {
-          "code": "603365",
-          "name": "水星家纺",
-          "date": "2026-10-23",
-          "pct_chg": 1.15,
-          "vol_ratio5": 1.19,
-          "close_pos": 0.56
         }
       ]
     },
