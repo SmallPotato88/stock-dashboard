@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:16:08",
+  "generated_at": "2026-10-26T09:26:08",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-23",
     "latest_indicator_date": "2026-10-23",
     "latest_signal_trade_date": "2026-10-23",
-    "dashboard_generated_at": "2026-10-26T09:06:53",
+    "dashboard_generated_at": "2026-10-26T09:16:10",
     "dashboard_trade_date": "2026-10-23",
     "dashboard_data_date": "2026-10-23",
-    "realtime_snapshot_generated_at": "2026-10-26T09:07:02",
+    "realtime_snapshot_generated_at": "2026-10-26T09:16:19",
     "stock_detail_count": 96,
     "watchlist_count": 7,
     "main_non_st": 3118,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-10-26T09:14:22",
+      "latest_fetched_at": "2026-10-26T09:24:00",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 116,
-      "bytes_sampled": 400
+      "latency_ms": 113,
+      "bytes_sampled": 456
     },
     "eastmoney_push2": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 312,
-      "bytes_sampled": 127
+      "ok": false,
+      "status": null,
+      "latency_ms": 124,
+      "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 192,
+      "latency_ms": 182,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1473,
+      "latency_ms": 1448,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1473,
+      "latency_ms": 1448,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "77262feda4759fc5e108412c91a33a886298c79f",
+      "head": "85840c9822c2a5d2c86bf84aa9497a45e1459ec9",
       "error": ""
     },
     "gitee_repo_head": {
@@ -170,6 +170,11 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
+    },
+    {
+      "level": "P2",
+      "item": "部分外部源探针失败",
+      "detail": "eastmoney_push2"
     }
   ]
 }
