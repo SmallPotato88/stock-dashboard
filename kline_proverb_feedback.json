@@ -456,15 +456,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-26",
-          "pct_chg": -0.64,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-26",
-          "pct_chg": -2.06,
+          "pct_chg": -0.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +464,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-26",
-          "pct_chg": -0.83,
+          "pct_chg": -0.48,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-10-26",
+          "pct_chg": -2.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +480,15 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-26",
-          "pct_chg": -1.5,
+          "pct_chg": -1.06,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-10-26",
+          "pct_chg": 0.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -0.42,
           "vol_ratio5": 0.83,
           "close_pos": 0.28
-        },
-        {
-          "code": "603629",
-          "name": "利通电子",
-          "date": "2026-10-23",
-          "pct_chg": -1.97,
-          "vol_ratio5": 1.07,
-          "close_pos": 0.59
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-26",
-          "pct_chg": -1.5,
+          "pct_chg": -1.06,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
