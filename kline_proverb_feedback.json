@@ -122,7 +122,7 @@
         },
         {
           "code": "603949",
-          "name": "XD雪龙集",
+          "name": "雪龙集团",
           "date": "2026-10-23",
           "pct_chg": -3.94,
           "vol_ratio5": 1.38,
@@ -397,7 +397,7 @@
         },
         {
           "code": "601985",
-          "name": "XD中国核",
+          "name": "中国核电",
           "date": "2026-10-23",
           "pct_chg": -0.85,
           "vol_ratio5": 1.4,
@@ -494,7 +494,7 @@
         },
         {
           "code": "603629",
-          "name": "XD利通电",
+          "name": "利通电子",
           "date": "2026-10-23",
           "pct_chg": -1.97,
           "vol_ratio5": 1.07,
@@ -541,22 +541,6 @@
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.787,
       "recent_samples": [
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-26",
-          "pct_chg": 0.03,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-26",
-          "pct_chg": 1.33,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -620,6 +604,22 @@
           "pct_chg": -6.59,
           "vol_ratio5": 0.96,
           "close_pos": 0.36
+        },
+        {
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-10-23",
+          "pct_chg": 0.57,
+          "vol_ratio5": 1.44,
+          "close_pos": 0.96
+        },
+        {
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-10-23",
+          "pct_chg": -1.52,
+          "vol_ratio5": 1.72,
+          "close_pos": 0.84
         }
       ]
     }
