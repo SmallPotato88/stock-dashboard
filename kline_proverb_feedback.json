@@ -456,7 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-27",
-          "pct_chg": 0.86,
+          "pct_chg": 0.54,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-27",
-          "pct_chg": 0.02,
+          "pct_chg": 0.07,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.788,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-27",
-          "pct_chg": 0.52,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-27",
-          "pct_chg": 0.97,
+          "pct_chg": 0.86,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -0.66,
           "vol_ratio5": 0.64,
           "close_pos": 0.56
+        },
+        {
+          "code": "605300",
+          "name": "佳禾食品",
+          "date": "2026-10-26",
+          "pct_chg": 0.1,
+          "vol_ratio5": 0.68,
+          "close_pos": 0.75
         }
       ]
     }
