@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-28",
-          "pct_chg": 0.6,
+          "pct_chg": 0.39,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,23 +545,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-28",
-          "pct_chg": 3.11,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-28",
-          "pct_chg": 1.41,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-28",
-          "pct_chg": 0.15,
+          "pct_chg": 3.18,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,15 +553,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-28",
-          "pct_chg": 2.87,
+          "pct_chg": 3.49,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-10-28",
-          "pct_chg": 3.01,
+          "pct_chg": 1.36,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": -0.58,
           "vol_ratio5": 0.83,
           "close_pos": 0.57
+        },
+        {
+          "code": "603883",
+          "name": "老百姓",
+          "date": "2026-10-27",
+          "pct_chg": 1.99,
+          "vol_ratio5": 1.87,
+          "close_pos": 0.39
+        },
+        {
+          "code": "603816",
+          "name": "顾家家居",
+          "date": "2026-10-27",
+          "pct_chg": -1.53,
+          "vol_ratio5": 0.89,
+          "close_pos": 0.4
         }
       ]
     }
