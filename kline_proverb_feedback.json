@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.791,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-28",
-          "pct_chg": 2.87,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-28",
-          "pct_chg": 1.41,
+          "pct_chg": 3.11,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -566,10 +558,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-10-28",
-          "pct_chg": 3.11,
+          "pct_chg": 1.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -578,6 +570,14 @@
           "name": "麦格米特",
           "date": "2026-10-28",
           "pct_chg": 3.01,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-10-28",
+          "pct_chg": 2.87,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
