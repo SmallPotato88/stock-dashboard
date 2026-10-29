@@ -1,279 +1,311 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 123146,
-      "avg_next_return_pct": 0.292,
-      "win_rate_pct": 46.52,
+      "sample_count": 123219,
+      "avg_next_return_pct": 0.286,
+      "win_rate_pct": 46.46,
       "avg_win_pct": 3.598,
-      "avg_loss_pct": -2.584,
+      "avg_loss_pct": -2.589,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-28",
-          "pct_chg": 7.0,
+          "code": "605598",
+          "name": "上海港湾",
+          "date": "2026-10-29",
+          "pct_chg": 9.98,
+          "vol_ratio5": 1.5,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605338",
+          "name": "巴比食品",
+          "date": "2026-10-29",
+          "pct_chg": 10.03,
+          "vol_ratio5": 1.78,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605179",
+          "name": "一鸣食品",
+          "date": "2026-10-29",
+          "pct_chg": 10.0,
+          "vol_ratio5": 1.51,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605123",
+          "name": "派克新材",
+          "date": "2026-10-29",
+          "pct_chg": 3.16,
+          "vol_ratio5": 1.58,
+          "close_pos": 0.76
+        },
+        {
+          "code": "605100",
+          "name": "华丰股份",
+          "date": "2026-10-29",
+          "pct_chg": 6.47,
+          "vol_ratio5": 1.63,
+          "close_pos": 0.78
+        },
+        {
+          "code": "603871",
+          "name": "嘉友国际",
+          "date": "2026-10-29",
+          "pct_chg": 3.96,
+          "vol_ratio5": 1.3,
+          "close_pos": 0.85
+        },
+        {
+          "code": "603703",
+          "name": "盛洋科技",
+          "date": "2026-10-29",
+          "pct_chg": 10.03,
           "vol_ratio5": 1.27,
-          "close_pos": 0.87
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-10-28",
-          "pct_chg": 5.68,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.77
-        },
-        {
-          "code": "605566",
-          "name": "福莱蒽特",
-          "date": "2026-10-28",
-          "pct_chg": 10.0,
-          "vol_ratio5": 1.37,
           "close_pos": 1.0
         },
         {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-10-28",
-          "pct_chg": 10.0,
-          "vol_ratio5": 1.26,
+          "code": "603667",
+          "name": "五洲新春",
+          "date": "2026-10-29",
+          "pct_chg": 6.26,
+          "vol_ratio5": 2.0,
+          "close_pos": 0.58
+        },
+        {
+          "code": "603612",
+          "name": "索通发展",
+          "date": "2026-10-29",
+          "pct_chg": 4.72,
+          "vol_ratio5": 2.62,
+          "close_pos": 0.66
+        },
+        {
+          "code": "603536",
+          "name": "惠发食品",
+          "date": "2026-10-29",
+          "pct_chg": 10.01,
+          "vol_ratio5": 1.71,
           "close_pos": 1.0
-        },
-        {
-          "code": "605366",
-          "name": "宏柏新材",
-          "date": "2026-10-28",
-          "pct_chg": 9.94,
-          "vol_ratio5": 1.26,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605333",
-          "name": "沪光股份",
-          "date": "2026-10-28",
-          "pct_chg": 4.52,
-          "vol_ratio5": 2.36,
-          "close_pos": 0.63
-        },
-        {
-          "code": "605319",
-          "name": "无锡振华",
-          "date": "2026-10-28",
-          "pct_chg": 3.6,
-          "vol_ratio5": 1.25,
-          "close_pos": 0.79
-        },
-        {
-          "code": "605287",
-          "name": "德才股份",
-          "date": "2026-10-28",
-          "pct_chg": 8.02,
-          "vol_ratio5": 1.4,
-          "close_pos": 0.8
-        },
-        {
-          "code": "605133",
-          "name": "嵘泰股份",
-          "date": "2026-10-28",
-          "pct_chg": 3.33,
-          "vol_ratio5": 1.36,
-          "close_pos": 0.52
-        },
-        {
-          "code": "605118",
-          "name": "力鼎光电",
-          "date": "2026-10-28",
-          "pct_chg": 5.84,
-          "vol_ratio5": 1.29,
-          "close_pos": 0.91
         }
       ]
     },
     "长阴放量": {
-      "sample_count": 52376,
-      "avg_next_return_pct": 0.019,
-      "win_rate_pct": 50.64,
-      "avg_win_pct": 2.834,
-      "avg_loss_pct": -2.869,
+      "sample_count": 52373,
+      "avg_next_return_pct": 0.015,
+      "win_rate_pct": 50.6,
+      "avg_win_pct": 2.835,
+      "avg_loss_pct": -2.872,
       "recent_samples": [
         {
-          "code": "605179",
-          "name": "一鸣食品",
-          "date": "2026-10-28",
-          "pct_chg": -3.91,
-          "vol_ratio5": 1.58,
-          "close_pos": 0.65
+          "code": "605580",
+          "name": "恒盛能源",
+          "date": "2026-10-29",
+          "pct_chg": -3.11,
+          "vol_ratio5": 1.95,
+          "close_pos": 0.08
         },
         {
-          "code": "605196",
-          "name": "华通线缆",
-          "date": "2026-10-28",
-          "pct_chg": -6.37,
-          "vol_ratio5": 1.8,
-          "close_pos": 0.16
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-10-29",
+          "pct_chg": -6.99,
+          "vol_ratio5": 1.57,
+          "close_pos": 0.03
         },
         {
-          "code": "605009",
-          "name": "豪悦护理",
-          "date": "2026-10-28",
-          "pct_chg": -6.28,
-          "vol_ratio5": 2.24,
-          "close_pos": 0.21
-        },
-        {
-          "code": "603813",
-          "name": "原尚股份",
-          "date": "2026-10-28",
-          "pct_chg": -5.66,
-          "vol_ratio5": 2.13,
-          "close_pos": 0.26
-        },
-        {
-          "code": "603669",
-          "name": "灵康药业",
-          "date": "2026-10-28",
-          "pct_chg": -8.06,
-          "vol_ratio5": 1.26,
-          "close_pos": 0.27
-        },
-        {
-          "code": "603558",
-          "name": "健盛集团",
-          "date": "2026-10-28",
-          "pct_chg": -3.82,
+          "code": "605366",
+          "name": "宏柏新材",
+          "date": "2026-10-29",
+          "pct_chg": -7.36,
           "vol_ratio5": 1.53,
-          "close_pos": 0.12
+          "close_pos": 0.01
         },
         {
-          "code": "603528",
-          "name": "多伦科技",
-          "date": "2026-10-28",
-          "pct_chg": -9.95,
+          "code": "605333",
+          "name": "沪光股份",
+          "date": "2026-10-29",
+          "pct_chg": -5.09,
+          "vol_ratio5": 1.41,
+          "close_pos": 0.31
+        },
+        {
+          "code": "605277",
+          "name": "新亚电子",
+          "date": "2026-10-29",
+          "pct_chg": -9.96,
           "vol_ratio5": 1.94,
+          "close_pos": 0.01
+        },
+        {
+          "code": "603998",
+          "name": "方盛制药",
+          "date": "2026-10-29",
+          "pct_chg": -6.86,
+          "vol_ratio5": 1.86,
           "close_pos": 0.0
         },
         {
-          "code": "603489",
-          "name": "八方股份",
-          "date": "2026-10-28",
-          "pct_chg": -3.68,
-          "vol_ratio5": 1.71,
-          "close_pos": 0.32
+          "code": "603992",
+          "name": "松霖科技",
+          "date": "2026-10-29",
+          "pct_chg": -3.4,
+          "vol_ratio5": 1.35,
+          "close_pos": 0.03
         },
         {
-          "code": "603331",
-          "name": "百达精工",
-          "date": "2026-10-28",
-          "pct_chg": -4.28,
-          "vol_ratio5": 1.32,
-          "close_pos": 0.61
+          "code": "603970",
+          "name": "中农立华",
+          "date": "2026-10-29",
+          "pct_chg": -3.57,
+          "vol_ratio5": 1.27,
+          "close_pos": 0.13
         },
         {
-          "code": "603280",
-          "name": "南方路机",
-          "date": "2026-10-28",
-          "pct_chg": -6.76,
-          "vol_ratio5": 1.46,
-          "close_pos": 0.55
+          "code": "603897",
+          "name": "长城科技",
+          "date": "2026-10-29",
+          "pct_chg": -4.39,
+          "vol_ratio5": 2.21,
+          "close_pos": 0.05
+        },
+        {
+          "code": "603882",
+          "name": "金域医学",
+          "date": "2026-10-29",
+          "pct_chg": -9.55,
+          "vol_ratio5": 1.47,
+          "close_pos": 0.04
         }
       ]
     },
     "缩量回调": {
-      "sample_count": 107558,
-      "avg_next_return_pct": -0.042,
-      "win_rate_pct": 46.62,
+      "sample_count": 107610,
+      "avg_next_return_pct": -0.043,
+      "win_rate_pct": 46.6,
       "avg_win_pct": 1.945,
-      "avg_loss_pct": -1.777,
+      "avg_loss_pct": -1.779,
       "recent_samples": [
         {
-          "code": "605337",
-          "name": "李子园",
-          "date": "2026-10-28",
-          "pct_chg": -0.11,
-          "vol_ratio5": 0.79,
-          "close_pos": 0.42
-        },
-        {
-          "code": "605008",
-          "name": "长鸿高科",
-          "date": "2026-10-28",
-          "pct_chg": -0.45,
-          "vol_ratio5": 0.78,
-          "close_pos": 0.5
-        },
-        {
-          "code": "603949",
-          "name": "雪龙集团",
-          "date": "2026-10-28",
-          "pct_chg": -0.93,
-          "vol_ratio5": 0.74,
-          "close_pos": 0.58
-        },
-        {
-          "code": "603927",
-          "name": "中科软",
-          "date": "2026-10-28",
-          "pct_chg": -0.77,
-          "vol_ratio5": 0.74,
-          "close_pos": 0.37
-        },
-        {
-          "code": "603918",
-          "name": "金桥信息",
-          "date": "2026-10-28",
-          "pct_chg": -0.29,
-          "vol_ratio5": 0.63,
-          "close_pos": 0.52
-        },
-        {
-          "code": "603818",
-          "name": "曲美家居",
-          "date": "2026-10-28",
-          "pct_chg": -1.29,
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-29",
+          "pct_chg": -1.32,
           "vol_ratio5": 0.73,
-          "close_pos": 0.72
-        },
-        {
-          "code": "603713",
-          "name": "密尔克卫",
-          "date": "2026-10-28",
-          "pct_chg": -0.5,
-          "vol_ratio5": 0.7,
           "close_pos": 0.36
         },
         {
-          "code": "603685",
-          "name": "晨丰科技",
-          "date": "2026-10-28",
-          "pct_chg": -1.71,
-          "vol_ratio5": 0.52,
-          "close_pos": 0.52
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-29",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.39
         },
         {
-          "code": "603636",
-          "name": "南威软件",
-          "date": "2026-10-28",
-          "pct_chg": -0.12,
-          "vol_ratio5": 0.75,
-          "close_pos": 0.74
-        },
-        {
-          "code": "603628",
-          "name": "清源股份",
-          "date": "2026-10-28",
-          "pct_chg": -0.11,
+          "code": "605318",
+          "name": "法狮龙",
+          "date": "2026-10-29",
+          "pct_chg": -2.18,
           "vol_ratio5": 0.74,
-          "close_pos": 0.6
+          "close_pos": 0.35
+        },
+        {
+          "code": "605098",
+          "name": "行动教育",
+          "date": "2026-10-29",
+          "pct_chg": -0.17,
+          "vol_ratio5": 0.69,
+          "close_pos": 0.48
+        },
+        {
+          "code": "605080",
+          "name": "浙江自然",
+          "date": "2026-10-29",
+          "pct_chg": -0.21,
+          "vol_ratio5": 0.7,
+          "close_pos": 0.68
+        },
+        {
+          "code": "605033",
+          "name": "美邦股份",
+          "date": "2026-10-29",
+          "pct_chg": -1.21,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.38
+        },
+        {
+          "code": "603999",
+          "name": "读者传媒",
+          "date": "2026-10-29",
+          "pct_chg": -0.31,
+          "vol_ratio5": 0.62,
+          "close_pos": 0.64
+        },
+        {
+          "code": "603993",
+          "name": "洛阳钼业",
+          "date": "2026-10-29",
+          "pct_chg": -0.57,
+          "vol_ratio5": 0.61,
+          "close_pos": 0.44
+        },
+        {
+          "code": "603977",
+          "name": "国泰集团",
+          "date": "2026-10-29",
+          "pct_chg": -0.2,
+          "vol_ratio5": 0.75,
+          "close_pos": 0.37
+        },
+        {
+          "code": "603909",
+          "name": "建发合诚",
+          "date": "2026-10-29",
+          "pct_chg": -0.98,
+          "vol_ratio5": 0.72,
+          "close_pos": 0.61
         }
       ]
     },
     "放量滞涨": {
-      "sample_count": 20729,
-      "avg_next_return_pct": 0.298,
-      "win_rate_pct": 47.84,
-      "avg_win_pct": 2.703,
-      "avg_loss_pct": -1.908,
+      "sample_count": 20816,
+      "avg_next_return_pct": 0.299,
+      "win_rate_pct": 47.82,
+      "avg_win_pct": 2.711,
+      "avg_loss_pct": -1.91,
       "recent_samples": [
+        {
+          "code": "603323",
+          "name": "苏农银行",
+          "date": "2026-10-29",
+          "pct_chg": 0.92,
+          "vol_ratio5": 1.49,
+          "close_pos": 0.82
+        },
+        {
+          "code": "603303",
+          "name": "得邦照明",
+          "date": "2026-10-29",
+          "pct_chg": 0.0,
+          "vol_ratio5": 1.64,
+          "close_pos": 0.95
+        },
+        {
+          "code": "600529",
+          "name": "山东药玻",
+          "date": "2026-10-29",
+          "pct_chg": 0.06,
+          "vol_ratio5": 1.35,
+          "close_pos": 0.87
+        },
+        {
+          "code": "000885",
+          "name": "城发环境",
+          "date": "2026-10-29",
+          "pct_chg": -0.17,
+          "vol_ratio5": 1.31,
+          "close_pos": 0.96
+        },
         {
           "code": "603933",
           "name": "睿能科技",
@@ -321,305 +353,273 @@
           "pct_chg": 0.85,
           "vol_ratio5": 1.44,
           "close_pos": 1.0
-        },
-        {
-          "code": "002818",
-          "name": "富森美",
-          "date": "2026-10-26",
-          "pct_chg": 0.09,
-          "vol_ratio5": 1.97,
-          "close_pos": 0.97
-        },
-        {
-          "code": "000728",
-          "name": "国元证券",
-          "date": "2026-10-26",
-          "pct_chg": -0.29,
-          "vol_ratio5": 1.49,
-          "close_pos": 1.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-23",
-          "pct_chg": 0.03,
-          "vol_ratio5": 1.47,
-          "close_pos": 0.79
-        },
-        {
-          "code": "605599",
-          "name": "菜百股份",
-          "date": "2026-10-23",
-          "pct_chg": -0.37,
-          "vol_ratio5": 1.5,
-          "close_pos": 0.92
         }
       ]
     },
     "低位放量": {
-      "sample_count": 113618,
-      "avg_next_return_pct": 0.19,
-      "win_rate_pct": 51.59,
+      "sample_count": 113673,
+      "avg_next_return_pct": 0.189,
+      "win_rate_pct": 51.58,
       "avg_win_pct": 2.526,
-      "avg_loss_pct": -2.3,
+      "avg_loss_pct": -2.301,
       "recent_samples": [
         {
-          "code": "605599",
-          "name": "菜百股份",
-          "date": "2026-10-28",
-          "pct_chg": -1.77,
-          "vol_ratio5": 1.25,
-          "close_pos": 0.02
+          "code": "605580",
+          "name": "恒盛能源",
+          "date": "2026-10-29",
+          "pct_chg": -3.11,
+          "vol_ratio5": 1.95,
+          "close_pos": 0.08
         },
         {
-          "code": "605196",
-          "name": "华通线缆",
-          "date": "2026-10-28",
-          "pct_chg": -6.37,
-          "vol_ratio5": 1.8,
-          "close_pos": 0.16
-        },
-        {
-          "code": "605009",
-          "name": "豪悦护理",
-          "date": "2026-10-28",
-          "pct_chg": -6.28,
-          "vol_ratio5": 2.24,
-          "close_pos": 0.21
-        },
-        {
-          "code": "603939",
-          "name": "益丰药房",
-          "date": "2026-10-28",
-          "pct_chg": -2.58,
-          "vol_ratio5": 1.26,
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-10-29",
+          "pct_chg": -1.38,
+          "vol_ratio5": 1.44,
           "close_pos": 0.09
         },
         {
-          "code": "603657",
-          "name": "春光科技",
-          "date": "2026-10-28",
-          "pct_chg": -1.0,
-          "vol_ratio5": 1.2,
-          "close_pos": 0.13
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-10-29",
+          "pct_chg": -6.99,
+          "vol_ratio5": 1.57,
+          "close_pos": 0.03
         },
         {
-          "code": "603558",
-          "name": "健盛集团",
-          "date": "2026-10-28",
-          "pct_chg": -3.82,
+          "code": "605366",
+          "name": "宏柏新材",
+          "date": "2026-10-29",
+          "pct_chg": -7.36,
           "vol_ratio5": 1.53,
-          "close_pos": 0.12
+          "close_pos": 0.01
         },
         {
-          "code": "603528",
-          "name": "多伦科技",
-          "date": "2026-10-28",
-          "pct_chg": -9.95,
+          "code": "605288",
+          "name": "凯迪股份",
+          "date": "2026-10-29",
+          "pct_chg": -2.22,
+          "vol_ratio5": 1.3,
+          "close_pos": 0.02
+        },
+        {
+          "code": "605277",
+          "name": "新亚电子",
+          "date": "2026-10-29",
+          "pct_chg": -9.96,
           "vol_ratio5": 1.94,
+          "close_pos": 0.01
+        },
+        {
+          "code": "605055",
+          "name": "迎丰股份",
+          "date": "2026-10-29",
+          "pct_chg": -2.39,
+          "vol_ratio5": 2.2,
+          "close_pos": 0.06
+        },
+        {
+          "code": "603998",
+          "name": "方盛制药",
+          "date": "2026-10-29",
+          "pct_chg": -6.86,
+          "vol_ratio5": 1.86,
           "close_pos": 0.0
         },
         {
-          "code": "603369",
-          "name": "今世缘",
-          "date": "2026-10-28",
-          "pct_chg": -2.8,
-          "vol_ratio5": 1.22,
-          "close_pos": 0.23
+          "code": "603992",
+          "name": "松霖科技",
+          "date": "2026-10-29",
+          "pct_chg": -3.4,
+          "vol_ratio5": 1.35,
+          "close_pos": 0.03
         },
         {
-          "code": "603376",
-          "name": "大明电子",
-          "date": "2026-10-28",
-          "pct_chg": -1.75,
-          "vol_ratio5": 1.92,
-          "close_pos": 0.2
-        },
-        {
-          "code": "603199",
-          "name": "九华旅游",
-          "date": "2026-10-28",
-          "pct_chg": -1.91,
-          "vol_ratio5": 1.22,
-          "close_pos": 0.23
+          "code": "603970",
+          "name": "中农立华",
+          "date": "2026-10-29",
+          "pct_chg": -3.57,
+          "vol_ratio5": 1.27,
+          "close_pos": 0.13
         }
       ]
     },
     "上影线长": {
-      "sample_count": 769595,
-      "avg_next_return_pct": -0.004,
-      "win_rate_pct": 47.81,
-      "avg_win_pct": 2.097,
-      "avg_loss_pct": -1.928,
+      "sample_count": 770722,
+      "avg_next_return_pct": -0.007,
+      "win_rate_pct": 47.76,
+      "avg_win_pct": 2.096,
+      "avg_loss_pct": -1.93,
       "recent_samples": [
         {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-29",
           "pct_chg": 0.19,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-28",
-          "pct_chg": -0.68,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.11
-        },
-        {
-          "code": "605599",
-          "name": "菜百股份",
-          "date": "2026-10-28",
-          "pct_chg": -1.77,
-          "vol_ratio5": 1.25,
-          "close_pos": 0.02
+          "vol_ratio5": 0.67,
+          "close_pos": 0.52
         },
         {
           "code": "605589",
           "name": "圣泉集团",
-          "date": "2026-10-28",
-          "pct_chg": 2.67,
-          "vol_ratio5": 0.97,
-          "close_pos": 0.48
+          "date": "2026-10-29",
+          "pct_chg": -3.72,
+          "vol_ratio5": 0.93,
+          "close_pos": 0.01
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "date": "2026-10-29",
+          "pct_chg": -7.77,
+          "vol_ratio5": 0.99,
+          "close_pos": 0.08
         },
         {
           "code": "605580",
           "name": "恒盛能源",
-          "date": "2026-10-28",
-          "pct_chg": 1.4,
-          "vol_ratio5": 0.83,
-          "close_pos": 0.6
+          "date": "2026-10-29",
+          "pct_chg": -3.11,
+          "vol_ratio5": 1.95,
+          "close_pos": 0.08
         },
         {
-          "code": "605507",
-          "name": "国邦医药",
-          "date": "2026-10-28",
-          "pct_chg": 0.07,
-          "vol_ratio5": 0.69,
-          "close_pos": 0.04
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-10-29",
+          "pct_chg": -1.38,
+          "vol_ratio5": 1.44,
+          "close_pos": 0.09
         },
         {
-          "code": "605500",
-          "name": "森林包装",
-          "date": "2026-10-28",
-          "pct_chg": 1.16,
-          "vol_ratio5": 0.98,
-          "close_pos": 0.5
+          "code": "605488",
+          "name": "福莱新材",
+          "date": "2026-10-29",
+          "pct_chg": -1.97,
+          "vol_ratio5": 0.97,
+          "close_pos": 0.35
         },
         {
-          "code": "605499",
-          "name": "东鹏饮料",
-          "date": "2026-10-28",
-          "pct_chg": 0.2,
-          "vol_ratio5": 0.71,
-          "close_pos": 0.44
+          "code": "605398",
+          "name": "新炬网络",
+          "date": "2026-10-29",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.9,
+          "close_pos": 0.51
         },
         {
-          "code": "605389",
-          "name": "长龄液压",
-          "date": "2026-10-28",
-          "pct_chg": 0.6,
-          "vol_ratio5": 0.81,
-          "close_pos": 0.62
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-10-29",
+          "pct_chg": -1.89,
+          "vol_ratio5": 0.57,
+          "close_pos": 0.14
         },
         {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-10-28",
-          "pct_chg": 0.82,
-          "vol_ratio5": 0.61,
-          "close_pos": 0.6
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-29",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.39
+        },
+        {
+          "code": "605377",
+          "name": "华旺科技",
+          "date": "2026-10-29",
+          "pct_chg": 0.79,
+          "vol_ratio5": 1.21,
+          "close_pos": 0.56
         }
       ]
     },
     "下影线长": {
-      "sample_count": 654020,
-      "avg_next_return_pct": -0.044,
-      "win_rate_pct": 45.76,
+      "sample_count": 655275,
+      "avg_next_return_pct": -0.048,
+      "win_rate_pct": 45.71,
       "avg_win_pct": 2.026,
-      "avg_loss_pct": -1.791,
+      "avg_loss_pct": -1.794,
       "recent_samples": [
         {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-29",
           "pct_chg": -1.32,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-28",
-          "pct_chg": 4.48,
-          "vol_ratio5": 0.95,
-          "close_pos": 0.87
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-28",
-          "pct_chg": 3.2,
-          "vol_ratio5": 0.9,
-          "close_pos": 0.76
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-10-28",
-          "pct_chg": 5.68,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.77
-        },
-        {
-          "code": "605566",
-          "name": "福莱蒽特",
-          "date": "2026-10-28",
-          "pct_chg": 10.0,
-          "vol_ratio5": 1.37,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605555",
-          "name": "德昌股份",
-          "date": "2026-10-28",
-          "pct_chg": -2.93,
-          "vol_ratio5": 1.36,
+          "vol_ratio5": 0.73,
           "close_pos": 0.36
+        },
+        {
+          "code": "605599",
+          "name": "菜百股份",
+          "date": "2026-10-29",
+          "pct_chg": 1.33,
+          "vol_ratio5": 1.14,
+          "close_pos": 0.72
         },
         {
           "code": "605398",
           "name": "新炬网络",
-          "date": "2026-10-28",
-          "pct_chg": 1.15,
+          "date": "2026-10-29",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.9,
+          "close_pos": 0.51
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-29",
+          "pct_chg": -0.28,
           "vol_ratio5": 0.79,
-          "close_pos": 0.76
+          "close_pos": 0.39
         },
         {
-          "code": "605389",
-          "name": "长龄液压",
-          "date": "2026-10-28",
-          "pct_chg": 0.6,
-          "vol_ratio5": 0.81,
-          "close_pos": 0.62
+          "code": "605377",
+          "name": "华旺科技",
+          "date": "2026-10-29",
+          "pct_chg": 0.79,
+          "vol_ratio5": 1.21,
+          "close_pos": 0.56
         },
         {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-10-28",
-          "pct_chg": 0.82,
-          "vol_ratio5": 0.61,
-          "close_pos": 0.6
+          "code": "605318",
+          "name": "法狮龙",
+          "date": "2026-10-29",
+          "pct_chg": -2.18,
+          "vol_ratio5": 0.74,
+          "close_pos": 0.35
         },
         {
-          "code": "605388",
-          "name": "均瑶健康",
-          "date": "2026-10-28",
-          "pct_chg": 0.0,
-          "vol_ratio5": 0.59,
-          "close_pos": 0.86
+          "code": "605296",
+          "name": "神农集团",
+          "date": "2026-10-29",
+          "pct_chg": 0.34,
+          "vol_ratio5": 0.65,
+          "close_pos": 0.87
+        },
+        {
+          "code": "605222",
+          "name": "起帆电缆",
+          "date": "2026-10-29",
+          "pct_chg": -0.42,
+          "vol_ratio5": 0.85,
+          "close_pos": 0.47
+        },
+        {
+          "code": "605133",
+          "name": "嵘泰股份",
+          "date": "2026-10-29",
+          "pct_chg": -2.08,
+          "vol_ratio5": 0.87,
+          "close_pos": 0.4
+        },
+        {
+          "code": "605108",
+          "name": "同庆楼",
+          "date": "2026-10-29",
+          "pct_chg": -0.26,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.48
         }
       ]
     }

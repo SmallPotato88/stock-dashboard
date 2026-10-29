@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:16:51",
+  "generated_at": "2026-10-29T15:51:33",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,14 +8,14 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-10-28",
-    "latest_indicator_date": "2026-10-28",
+    "latest_bar_date": "2026-10-29",
+    "latest_indicator_date": "2026-10-29",
     "latest_signal_trade_date": "2026-10-29",
-    "dashboard_generated_at": "2026-10-29T15:11:45",
+    "dashboard_generated_at": "2026-10-29T15:47:20",
     "dashboard_trade_date": "2026-10-29",
-    "dashboard_data_date": "2026-10-28",
-    "realtime_snapshot_generated_at": "2026-10-29T15:11:45",
-    "stock_detail_count": 50,
+    "dashboard_data_date": "2026-10-29",
+    "realtime_snapshot_generated_at": "2026-10-29T15:47:20",
+    "stock_detail_count": 88,
     "watchlist_count": 7,
     "main_non_st": 3118,
     "main_non_st_latest_bar": 3049,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 103,
-      "bytes_sampled": 467
+      "latency_ms": 110,
+      "bytes_sampled": 468
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 33,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 156,
+      "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 226,
+      "latency_ms": 259,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2888,
+      "latency_ms": 3568,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2888,
+      "latency_ms": 3568,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": false,
+      "ok": true,
       "remote": "origin",
-      "head": null,
-      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
+      "head": "aabe9f21e7960cd55d4bc3556f202ccf557ae944",
+      "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
@@ -136,8 +136,8 @@
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-10-28",
-    "latest_indicator_date": "2026-10-28",
+    "latest_bar_date": "2026-10-29",
+    "latest_indicator_date": "2026-10-29",
     "main_non_st_indicator_coverage_pct": 97.79
   },
   "governance": {
@@ -170,11 +170,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
