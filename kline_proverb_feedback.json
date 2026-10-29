@@ -545,23 +545,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-10-29",
-          "pct_chg": -1.57,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-10-29",
-          "pct_chg": -0.83,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-29",
-          "pct_chg": -1.39,
+          "pct_chg": -2.83,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": 0.6,
           "vol_ratio5": 0.81,
           "close_pos": 0.62
+        },
+        {
+          "code": "605378",
+          "name": "野马电池",
+          "date": "2026-10-28",
+          "pct_chg": 0.82,
+          "vol_ratio5": 0.61,
+          "close_pos": 0.6
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-10-28",
+          "pct_chg": 0.0,
+          "vol_ratio5": 0.59,
+          "close_pos": 0.86
         }
       ]
     }
