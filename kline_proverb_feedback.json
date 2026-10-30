@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107610,
+      "sample_count": 107611,
       "avg_next_return_pct": -0.043,
       "win_rate_pct": 46.6,
       "avg_win_pct": 1.945,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 770722,
+      "sample_count": 770723,
       "avg_next_return_pct": -0.007,
       "win_rate_pct": 47.76,
       "avg_win_pct": 2.096,
       "avg_loss_pct": -1.93,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-10-30",
+          "pct_chg": 0.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000933",
           "name": "神火股份",
@@ -523,24 +531,24 @@
           "pct_chg": -0.28,
           "vol_ratio5": 0.79,
           "close_pos": 0.39
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-10-29",
-          "pct_chg": 0.79,
-          "vol_ratio5": 1.21,
-          "close_pos": 0.56
         }
       ]
     },
     "下影线长": {
-      "sample_count": 655275,
+      "sample_count": 655276,
       "avg_next_return_pct": -0.048,
       "win_rate_pct": 45.71,
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.794,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-30",
+          "pct_chg": -1.32,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601127",
           "name": "赛力斯",
@@ -612,14 +620,6 @@
           "pct_chg": -2.08,
           "vol_ratio5": 0.87,
           "close_pos": 0.4
-        },
-        {
-          "code": "605108",
-          "name": "同庆楼",
-          "date": "2026-10-29",
-          "pct_chg": -0.26,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.48
         }
       ]
     }
