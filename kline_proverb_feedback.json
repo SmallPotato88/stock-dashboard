@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.93,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-10-30",
-          "pct_chg": 0.15,
+          "pct_chg": -0.55,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-10-30",
-          "pct_chg": -5.1,
+          "pct_chg": -0.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +472,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-30",
-          "pct_chg": -3.77,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-30",
-          "pct_chg": -0.36,
+          "pct_chg": -4.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -1.97,
           "vol_ratio5": 0.97,
           "close_pos": 0.35
+        },
+        {
+          "code": "605398",
+          "name": "新炬网络",
+          "date": "2026-10-29",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.9,
+          "close_pos": 0.51
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-30",
-          "pct_chg": 0.15,
+          "pct_chg": -0.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,15 +553,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-30",
-          "pct_chg": 2.38,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-10-30",
-          "pct_chg": -2.2,
+          "pct_chg": 2.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 0.34,
           "vol_ratio5": 0.65,
           "close_pos": 0.87
+        },
+        {
+          "code": "605222",
+          "name": "起帆电缆",
+          "date": "2026-10-29",
+          "pct_chg": -0.42,
+          "vol_ratio5": 0.85,
+          "close_pos": 0.47
         }
       ]
     }
