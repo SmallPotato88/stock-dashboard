@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.93,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-30",
-          "pct_chg": -3.83,
+          "pct_chg": -1.79,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-10-30",
-          "pct_chg": -1.94,
+          "pct_chg": -3.54,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,6 +542,22 @@
       "avg_loss_pct": -1.794,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-10-30",
+          "pct_chg": -1.79,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-10-30",
+          "pct_chg": -1.22,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-29",
@@ -604,22 +620,6 @@
           "pct_chg": -0.42,
           "vol_ratio5": 0.85,
           "close_pos": 0.47
-        },
-        {
-          "code": "605133",
-          "name": "嵘泰股份",
-          "date": "2026-10-29",
-          "pct_chg": -2.08,
-          "vol_ratio5": 0.87,
-          "close_pos": 0.4
-        },
-        {
-          "code": "605108",
-          "name": "同庆楼",
-          "date": "2026-10-29",
-          "pct_chg": -0.26,
-          "vol_ratio5": 0.92,
-          "close_pos": 0.48
         }
       ]
     }
