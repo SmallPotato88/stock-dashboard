@@ -453,34 +453,10 @@
       "avg_loss_pct": -1.93,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-10-30",
-          "pct_chg": -1.0,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-10-30",
-          "pct_chg": 1.89,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-30",
-          "pct_chg": 0.04,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-10-30",
-          "pct_chg": -8.65,
+          "pct_chg": -0.23,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +507,30 @@
           "pct_chg": -1.97,
           "vol_ratio5": 0.97,
           "close_pos": 0.35
+        },
+        {
+          "code": "605398",
+          "name": "新炬网络",
+          "date": "2026-10-29",
+          "pct_chg": -1.0,
+          "vol_ratio5": 0.9,
+          "close_pos": 0.51
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-10-29",
+          "pct_chg": -1.89,
+          "vol_ratio5": 0.57,
+          "close_pos": 0.14
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-29",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.39
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-10-30",
-          "pct_chg": 1.89,
+          "pct_chg": 2.1,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,15 +553,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-10-30",
-          "pct_chg": -0.98,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-10-30",
-          "pct_chg": -4.38,
+          "pct_chg": -0.48,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +561,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-10-30",
-          "pct_chg": -2.28,
+          "pct_chg": -1.45,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -2.18,
           "vol_ratio5": 0.74,
           "close_pos": 0.35
+        },
+        {
+          "code": "605296",
+          "name": "神农集团",
+          "date": "2026-10-29",
+          "pct_chg": 0.34,
+          "vol_ratio5": 0.65,
+          "close_pos": 0.87
         }
       ]
     }
