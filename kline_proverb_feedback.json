@@ -456,15 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-10-30",
-          "pct_chg": -4.29,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-10-30",
-          "pct_chg": 0.0,
+          "pct_chg": -4.01,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -1.89,
           "vol_ratio5": 0.57,
           "close_pos": 0.14
+        },
+        {
+          "code": "605369",
+          "name": "拱东医疗",
+          "date": "2026-10-29",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.79,
+          "close_pos": 0.39
         }
       ]
     },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.794,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-10-30",
-          "pct_chg": -2.18,
+          "pct_chg": 2.87,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-10-30",
-          "pct_chg": 2.51,
+          "pct_chg": -2.1,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +561,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-10-30",
-          "pct_chg": 0.0,
+          "pct_chg": 0.31,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
