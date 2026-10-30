@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:36:46",
+  "generated_at": "2026-10-30T09:41:52",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-29",
     "latest_indicator_date": "2026-10-29",
     "latest_signal_trade_date": "2026-10-29",
-    "dashboard_generated_at": "2026-10-30T09:31:48",
+    "dashboard_generated_at": "2026-10-30T09:36:48",
     "dashboard_trade_date": "2026-10-29",
     "dashboard_data_date": "2026-10-29",
-    "realtime_snapshot_generated_at": "2026-10-30T09:31:57",
+    "realtime_snapshot_generated_at": "2026-10-30T09:36:58",
     "stock_detail_count": 88,
     "watchlist_count": 7,
     "main_non_st": 3118,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-10-30T09:33:57",
+      "latest_fetched_at": "2026-10-30T09:38:44",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,39 +92,39 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 108,
+      "latency_ms": 123,
       "bytes_sampled": 464
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 234,
+      "latency_ms": 170,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 233,
+      "latency_ms": 139,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 1082,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 7540,
+      "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))"
     }
   },
   "publish": {
     "github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 1082,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 7540,
+      "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))"
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "a14741eaad685ad52ffda61da5d1e29243588acd",
+      "head": "a1e709e101cce41af0cc70cd5113db53d2bf9a64",
       "error": ""
     },
     "gitee_repo_head": {
@@ -170,6 +170,16 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
+    },
+    {
+      "level": "P2",
+      "item": "部分外部源探针失败",
+      "detail": "dashboard_github_pages"
+    },
+    {
+      "level": "P1",
+      "item": "GitHub Pages 数据不可访问",
+      "detail": "{'ok': False, 'status': None, 'latency_ms': 7540, 'error': \"URLError(ConnectionResetError(104, 'Connection reset by peer'))\"}"
     }
   ]
 }
