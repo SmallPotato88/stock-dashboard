@@ -92,7 +92,7 @@
     "长阴放量": {
       "sample_count": 52493,
       "avg_next_return_pct": 0.005,
-      "win_rate_pct": 50.47,
+      "win_rate_pct": 50.48,
       "avg_win_pct": 2.834,
       "avg_loss_pct": -2.878,
       "recent_samples": [
