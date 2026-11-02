@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-02",
-          "pct_chg": 0.02,
+          "pct_chg": 0.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,6 +542,30 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-02",
+          "pct_chg": -1.42,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-02",
+          "pct_chg": 0.65,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-02",
+          "pct_chg": 1.64,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605488",
           "name": "福莱新材",
           "date": "2026-10-30",
@@ -596,30 +620,6 @@
           "pct_chg": -1.22,
           "vol_ratio5": 0.86,
           "close_pos": 0.35
-        },
-        {
-          "code": "605006",
-          "name": "山东玻纤",
-          "date": "2026-10-30",
-          "pct_chg": 4.45,
-          "vol_ratio5": 1.42,
-          "close_pos": 0.99
-        },
-        {
-          "code": "603976",
-          "name": "正川股份",
-          "date": "2026-10-30",
-          "pct_chg": -1.05,
-          "vol_ratio5": 1.02,
-          "close_pos": 0.37
-        },
-        {
-          "code": "603956",
-          "name": "威派格",
-          "date": "2026-10-30",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.94,
-          "close_pos": 0.49
         }
       ]
     }
