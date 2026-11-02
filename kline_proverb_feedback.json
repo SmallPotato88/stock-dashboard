@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.934,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-02",
-          "pct_chg": 2.12,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-30",
@@ -531,6 +523,14 @@
           "pct_chg": -6.43,
           "vol_ratio5": 1.95,
           "close_pos": 0.02
+        },
+        {
+          "code": "605555",
+          "name": "德昌股份",
+          "date": "2026-10-30",
+          "pct_chg": -6.88,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.0
         }
       ]
     },
@@ -545,23 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-02",
-          "pct_chg": -0.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-02",
-          "pct_chg": 0.05,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-02",
-          "pct_chg": 2.12,
+          "pct_chg": 0.3,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +553,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-02",
-          "pct_chg": 0.47,
+          "pct_chg": 0.69,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-02",
+          "pct_chg": 0.92,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -577,7 +569,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-02",
-          "pct_chg": -1.38,
+          "pct_chg": -1.19,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-02",
+          "pct_chg": 2.34,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
