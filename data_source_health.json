@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:07:30",
+  "generated_at": "2026-11-02T09:11:21",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-30",
     "latest_indicator_date": "2026-10-30",
     "latest_signal_trade_date": "2026-10-30",
-    "dashboard_generated_at": "2026-11-02T09:02:21",
+    "dashboard_generated_at": "2026-11-02T09:07:32",
     "dashboard_trade_date": "2026-10-30",
     "dashboard_data_date": "2026-10-30",
-    "realtime_snapshot_generated_at": "2026-11-02T09:02:31",
+    "realtime_snapshot_generated_at": "2026-11-02T09:07:41",
     "stock_detail_count": 93,
     "watchlist_count": 7,
     "main_non_st": 3118,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 118,
-      "bytes_sampled": 469
+      "latency_ms": 121,
+      "bytes_sampled": 395
     },
     "eastmoney_push2": {
-      "ok": false,
-      "status": null,
-      "latency_ms": 39,
-      "error": "RemoteDisconnected('Remote end closed connection without response')"
+      "ok": true,
+      "status": 200,
+      "latency_ms": 147,
+      "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 635,
+      "latency_ms": 217,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2203,
+      "latency_ms": 1109,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2203,
+      "latency_ms": 1109,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "f6bdc5a1119c8e20f5592df039874bc6e7075f85",
-      "error": ""
+      "head": null,
+      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
     },
     "gitee_repo_head": {
       "ok": true,
@@ -170,11 +170,6 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
-    },
-    {
-      "level": "P2",
-      "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
     }
   ]
 }
