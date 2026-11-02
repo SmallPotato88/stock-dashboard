@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-11-02",
-          "pct_chg": 1.59,
+          "pct_chg": 2.97,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-02",
-          "pct_chg": 2.8,
+          "pct_chg": 4.79,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +561,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-02",
-          "pct_chg": 2.3,
+          "pct_chg": 2.53,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-02",
+          "pct_chg": 1.98,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -570,14 +578,6 @@
           "name": "神火股份",
           "date": "2026-11-02",
           "pct_chg": -0.5,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-02",
-          "pct_chg": 2.93,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
