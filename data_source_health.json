@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:46:16",
+  "generated_at": "2026-11-02T13:51:21",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-10-30",
     "latest_indicator_date": "2026-10-30",
     "latest_signal_trade_date": "2026-10-30",
-    "dashboard_generated_at": "2026-11-02T13:41:24",
+    "dashboard_generated_at": "2026-11-02T13:46:18",
     "dashboard_trade_date": "2026-10-30",
     "dashboard_data_date": "2026-10-30",
-    "realtime_snapshot_generated_at": "2026-11-02T13:41:33",
+    "realtime_snapshot_generated_at": "2026-11-02T13:46:27",
     "stock_detail_count": 93,
     "watchlist_count": 7,
     "main_non_st": 3118,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-02T13:43:19",
+      "latest_fetched_at": "2026-11-02T13:48:13",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 142,
+      "latency_ms": 107,
       "bytes_sampled": 465
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 131,
+      "latency_ms": 98,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 944,
+      "latency_ms": 2623,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2106,
+      "latency_ms": 5479,
       "bytes_sampled": 512
     }
   },
@@ -118,13 +118,13 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 2106,
+      "latency_ms": 5479,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "fcb83a867db01fcb261ec3c69b5e7ec77b91eb80",
+      "head": "bde608dcff47f47a6a19bb2e4bb3a8d168e73e38",
       "error": ""
     },
     "gitee_repo_head": {
