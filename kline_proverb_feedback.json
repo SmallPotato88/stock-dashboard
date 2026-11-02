@@ -453,38 +453,6 @@
       "avg_loss_pct": -1.934,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-02",
-          "pct_chg": -1.0,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-02",
-          "pct_chg": 1.05,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-02",
-          "pct_chg": -5.9,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-02",
-          "pct_chg": -7.65,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-10-30",
@@ -531,6 +499,38 @@
           "pct_chg": -6.57,
           "vol_ratio5": 1.54,
           "close_pos": 0.11
+        },
+        {
+          "code": "605580",
+          "name": "恒盛能源",
+          "date": "2026-10-30",
+          "pct_chg": -6.49,
+          "vol_ratio5": 1.45,
+          "close_pos": 0.17
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "date": "2026-10-30",
+          "pct_chg": -6.93,
+          "vol_ratio5": 1.03,
+          "close_pos": 0.02
+        },
+        {
+          "code": "605567",
+          "name": "春雪食品",
+          "date": "2026-10-30",
+          "pct_chg": -6.43,
+          "vol_ratio5": 1.95,
+          "close_pos": 0.02
+        },
+        {
+          "code": "605555",
+          "name": "德昌股份",
+          "date": "2026-10-30",
+          "pct_chg": -6.88,
+          "vol_ratio5": 0.92,
+          "close_pos": 0.0
         }
       ]
     },
