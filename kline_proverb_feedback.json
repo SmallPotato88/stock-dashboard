@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-03",
-          "pct_chg": -3.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "605589",
           "name": "圣泉集团",
           "date": "2026-11-02",
@@ -531,6 +523,14 @@
           "pct_chg": 3.33,
           "vol_ratio5": 1.39,
           "close_pos": 0.61
+        },
+        {
+          "code": "605266",
+          "name": "健之佳",
+          "date": "2026-11-02",
+          "pct_chg": -9.99,
+          "vol_ratio5": 1.47,
+          "close_pos": 0.0
         }
       ]
     },
@@ -542,18 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-11-03",
-          "pct_chg": -1.8,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-03",
-          "pct_chg": -0.11,
+          "pct_chg": 0.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +553,23 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-03",
-          "pct_chg": 0.23,
+          "pct_chg": 0.37,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-03",
+          "pct_chg": 0.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-03",
+          "pct_chg": 0.22,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -0.3,
           "vol_ratio5": 1.03,
           "close_pos": 0.74
-        },
-        {
-          "code": "605580",
-          "name": "恒盛能源",
-          "date": "2026-11-02",
-          "pct_chg": 1.78,
-          "vol_ratio5": 0.89,
-          "close_pos": 0.75
         }
       ]
     }
