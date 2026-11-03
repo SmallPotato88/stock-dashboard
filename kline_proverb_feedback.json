@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-11-03",
-          "pct_chg": 0.47,
+          "pct_chg": -0.26,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,15 +464,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-03",
-          "pct_chg": -0.94,
+          "pct_chg": -1.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-11-03",
-          "pct_chg": -0.21,
+          "pct_chg": 0.54,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,18 +542,18 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-11-03",
-          "pct_chg": -0.94,
+          "pct_chg": -0.26,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-11-03",
-          "pct_chg": -0.21,
+          "pct_chg": -1.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +561,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-03",
-          "pct_chg": 1.98,
+          "pct_chg": 1.94,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
