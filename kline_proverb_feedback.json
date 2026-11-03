@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122888,
+      "sample_count": 122889,
       "avg_next_return_pct": 0.282,
       "win_rate_pct": 46.43,
       "avg_win_pct": 3.599,
@@ -41,7 +41,7 @@
         },
         {
           "code": "605300",
-          "name": "佳禾食品",
+          "name": "XD佳禾食",
           "date": "2026-11-02",
           "pct_chg": 4.05,
           "vol_ratio5": 1.42,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 655999,
+      "sample_count": 656004,
       "avg_next_return_pct": -0.049,
       "win_rate_pct": 45.71,
       "avg_win_pct": 2.026,
