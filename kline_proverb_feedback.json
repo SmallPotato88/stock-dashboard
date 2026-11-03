@@ -453,26 +453,10 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-03",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-03",
-          "pct_chg": 2.69,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-03",
-          "pct_chg": -1.03,
+          "pct_chg": 2.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +464,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-03",
-          "pct_chg": -2.65,
+          "pct_chg": -1.98,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-03",
+          "pct_chg": 0.64,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +480,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-03",
-          "pct_chg": -0.5,
+          "pct_chg": -0.43,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -3.33,
           "vol_ratio5": 0.95,
           "close_pos": 0.46
+        },
+        {
+          "code": "605338",
+          "name": "巴比食品",
+          "date": "2026-11-02",
+          "pct_chg": 0.91,
+          "vol_ratio5": 2.25,
+          "close_pos": 0.46
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-03",
-          "pct_chg": 0.68,
+          "pct_chg": 0.64,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
