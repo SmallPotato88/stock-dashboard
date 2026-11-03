@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-03",
+          "pct_chg": 0.66,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-03",
-          "pct_chg": -0.26,
+          "pct_chg": -0.56,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,15 +472,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-03",
-          "pct_chg": -1.12,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-03",
-          "pct_chg": 0.54,
+          "pct_chg": -1.17,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "603019",
+          "name": "中科曙光",
           "date": "2026-11-03",
-          "pct_chg": -0.26,
+          "pct_chg": 1.78,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,15 +553,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-03",
-          "pct_chg": -1.12,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-03",
-          "pct_chg": 1.94,
+          "pct_chg": -1.17,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": 1.78,
           "vol_ratio5": 0.89,
           "close_pos": 0.75
+        },
+        {
+          "code": "605566",
+          "name": "福莱蒽特",
+          "date": "2026-11-02",
+          "pct_chg": -1.01,
+          "vol_ratio5": 0.86,
+          "close_pos": 0.37
         }
       ]
     }
