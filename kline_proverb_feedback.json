@@ -453,6 +453,22 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-03",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-03",
+          "pct_chg": -0.9,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "605589",
           "name": "圣泉集团",
           "date": "2026-11-02",
@@ -515,22 +531,6 @@
           "pct_chg": 1.22,
           "vol_ratio5": 0.8,
           "close_pos": 0.62
-        },
-        {
-          "code": "605296",
-          "name": "神农集团",
-          "date": "2026-11-02",
-          "pct_chg": 3.33,
-          "vol_ratio5": 1.39,
-          "close_pos": 0.61
-        },
-        {
-          "code": "605266",
-          "name": "健之佳",
-          "date": "2026-11-02",
-          "pct_chg": -9.99,
-          "vol_ratio5": 1.47,
-          "close_pos": 0.0
         }
       ]
     },
@@ -545,23 +545,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-03",
-          "pct_chg": 2.47,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-03",
-          "pct_chg": 0.35,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-03",
-          "pct_chg": 0.27,
+          "pct_chg": 1.87,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +553,23 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-03",
-          "pct_chg": -1.37,
+          "pct_chg": -2.09,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-03",
+          "pct_chg": -0.28,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-03",
+          "pct_chg": -0.9,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
