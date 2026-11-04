@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122966,
+      "sample_count": 122927,
       "avg_next_return_pct": 0.282,
       "win_rate_pct": 46.48,
       "avg_win_pct": 3.592,
@@ -90,9 +90,9 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 52897,
-      "avg_next_return_pct": 0.03,
-      "win_rate_pct": 50.84,
+      "sample_count": 52871,
+      "avg_next_return_pct": 0.031,
+      "win_rate_pct": 50.85,
       "avg_win_pct": 2.842,
       "avg_loss_pct": -2.877,
       "recent_samples": [
@@ -179,9 +179,9 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107263,
+      "sample_count": 107227,
       "avg_next_return_pct": -0.049,
-      "win_rate_pct": 46.5,
+      "win_rate_pct": 46.49,
       "avg_win_pct": 1.944,
       "avg_loss_pct": -1.782,
       "recent_samples": [
@@ -195,7 +195,7 @@
         },
         {
           "code": "605300",
-          "name": "XD佳禾食",
+          "name": "佳禾食品",
           "date": "2026-11-03",
           "pct_chg": -0.16,
           "vol_ratio5": 0.79,
@@ -268,7 +268,7 @@
       ]
     },
     "放量滞涨": {
-      "sample_count": 21705,
+      "sample_count": 21699,
       "avg_next_return_pct": 0.304,
       "win_rate_pct": 47.7,
       "avg_win_pct": 2.72,
@@ -357,9 +357,9 @@
       ]
     },
     "低位放量": {
-      "sample_count": 114565,
+      "sample_count": 114529,
       "avg_next_return_pct": 0.196,
-      "win_rate_pct": 51.71,
+      "win_rate_pct": 51.72,
       "avg_win_pct": 2.532,
       "avg_loss_pct": -2.306,
       "recent_samples": [
@@ -446,28 +446,12 @@
       ]
     },
     "上影线长": {
-      "sample_count": 774139,
+      "sample_count": 773893,
       "avg_next_return_pct": -0.005,
       "win_rate_pct": 47.83,
       "avg_win_pct": 2.099,
       "avg_loss_pct": -1.934,
       "recent_samples": [
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-04",
-          "pct_chg": -2.16,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-04",
-          "pct_chg": -0.08,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -531,32 +515,32 @@
           "pct_chg": -1.33,
           "vol_ratio5": 0.57,
           "close_pos": 0.18
+        },
+        {
+          "code": "605368",
+          "name": "蓝天燃气",
+          "date": "2026-11-03",
+          "pct_chg": -0.16,
+          "vol_ratio5": 1.21,
+          "close_pos": 0.5
+        },
+        {
+          "code": "605366",
+          "name": "宏柏新材",
+          "date": "2026-11-03",
+          "pct_chg": -3.03,
+          "vol_ratio5": 0.67,
+          "close_pos": 0.22
         }
       ]
     },
     "下影线长": {
-      "sample_count": 657664,
+      "sample_count": 657459,
       "avg_next_return_pct": -0.05,
       "win_rate_pct": 45.7,
       "avg_win_pct": 2.025,
       "avg_loss_pct": -1.797,
       "recent_samples": [
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-04",
-          "pct_chg": 0.28,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-04",
-          "pct_chg": 1.39,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "605555",
           "name": "德昌股份",
@@ -575,7 +559,7 @@
         },
         {
           "code": "605300",
-          "name": "XD佳禾食",
+          "name": "佳禾食品",
           "date": "2026-11-03",
           "pct_chg": -0.16,
           "vol_ratio5": 0.79,
@@ -620,6 +604,22 @@
           "pct_chg": -1.21,
           "vol_ratio5": 1.49,
           "close_pos": 0.45
+        },
+        {
+          "code": "605166",
+          "name": "聚合顺",
+          "date": "2026-11-03",
+          "pct_chg": -0.14,
+          "vol_ratio5": 1.0,
+          "close_pos": 0.36
+        },
+        {
+          "code": "605158",
+          "name": "华达新材",
+          "date": "2026-11-03",
+          "pct_chg": 1.37,
+          "vol_ratio5": 1.06,
+          "close_pos": 0.74
         }
       ]
     }
