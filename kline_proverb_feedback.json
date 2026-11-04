@@ -456,15 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-04",
-          "pct_chg": 0.35,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-04",
-          "pct_chg": 0.31,
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +464,15 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-04",
-          "pct_chg": -0.58,
+          "pct_chg": -1.05,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-04",
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,15 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-04",
-          "pct_chg": 0.31,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-04",
-          "pct_chg": -0.35,
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +612,14 @@
           "pct_chg": -1.21,
           "vol_ratio5": 1.49,
           "close_pos": 0.45
+        },
+        {
+          "code": "605166",
+          "name": "聚合顺",
+          "date": "2026-11-03",
+          "pct_chg": -0.14,
+          "vol_ratio5": 1.0,
+          "close_pos": 0.36
         }
       ]
     }
