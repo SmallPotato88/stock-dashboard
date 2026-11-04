@@ -456,7 +456,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-04",
-          "pct_chg": -2.12,
+          "pct_chg": 0.21,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.797,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-04",
-          "pct_chg": 0.89,
+          "pct_chg": 0.6,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-04",
+          "pct_chg": 0.21,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -1.21,
           "vol_ratio5": 1.49,
           "close_pos": 0.45
-        },
-        {
-          "code": "605166",
-          "name": "聚合顺",
-          "date": "2026-11-03",
-          "pct_chg": -0.14,
-          "vol_ratio5": 1.0,
-          "close_pos": 0.36
         }
       ]
     }
