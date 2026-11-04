@@ -456,7 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-04",
-          "pct_chg": 1.32,
+          "pct_chg": 1.24,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,14 +542,6 @@
       "avg_loss_pct": -1.797,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-04",
-          "pct_chg": 6.15,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "605555",
           "name": "德昌股份",
           "date": "2026-11-03",
@@ -620,6 +612,14 @@
           "pct_chg": -0.14,
           "vol_ratio5": 1.0,
           "close_pos": 0.36
+        },
+        {
+          "code": "605158",
+          "name": "华达新材",
+          "date": "2026-11-03",
+          "pct_chg": 1.37,
+          "vol_ratio5": 1.06,
+          "close_pos": 0.74
         }
       ]
     }
