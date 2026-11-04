@@ -456,15 +456,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-04",
-          "pct_chg": -2.89,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-04",
-          "pct_chg": 0.28,
+          "pct_chg": -2.11,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -1.33,
           "vol_ratio5": 0.57,
           "close_pos": 0.18
+        },
+        {
+          "code": "605368",
+          "name": "蓝天燃气",
+          "date": "2026-11-03",
+          "pct_chg": -0.16,
+          "vol_ratio5": 1.21,
+          "close_pos": 0.5
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-04",
-          "pct_chg": 0.28,
+          "pct_chg": 1.03,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
