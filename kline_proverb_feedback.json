@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-05",
+          "pct_chg": -2.85,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-04",
@@ -523,14 +531,6 @@
           "pct_chg": -0.54,
           "vol_ratio5": 1.05,
           "close_pos": 0.34
-        },
-        {
-          "code": "605266",
-          "name": "健之佳",
-          "date": "2026-11-04",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.67,
-          "close_pos": 0.58
         }
       ]
     },
@@ -541,6 +541,22 @@
       "avg_win_pct": 2.025,
       "avg_loss_pct": -1.796,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-05",
+          "pct_chg": -0.38,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-05",
+          "pct_chg": -2.85,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605598",
           "name": "上海港湾",
@@ -604,22 +620,6 @@
           "pct_chg": -1.96,
           "vol_ratio5": 1.56,
           "close_pos": 0.36
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-11-04",
-          "pct_chg": 0.79,
-          "vol_ratio5": 1.05,
-          "close_pos": 0.9
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-11-04",
-          "pct_chg": 0.05,
-          "vol_ratio5": 0.76,
-          "close_pos": 0.72
         }
       ]
     }
