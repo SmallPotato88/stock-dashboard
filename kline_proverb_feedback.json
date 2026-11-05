@@ -1,7 +1,7 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122911,
+      "sample_count": 122915,
       "avg_next_return_pct": 0.283,
       "win_rate_pct": 46.5,
       "avg_win_pct": 3.591,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 775645,
+      "sample_count": 775646,
       "avg_next_return_pct": -0.0,
       "win_rate_pct": 47.91,
       "avg_win_pct": 2.101,
       "avg_loss_pct": -1.933,
       "recent_samples": [
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-05",
+          "pct_chg": 1.09,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "000933",
           "name": "神火股份",
@@ -523,14 +531,6 @@
           "pct_chg": -0.54,
           "vol_ratio5": 1.05,
           "close_pos": 0.34
-        },
-        {
-          "code": "605266",
-          "name": "健之佳",
-          "date": "2026-11-04",
-          "pct_chg": 0.0,
-          "vol_ratio5": 1.67,
-          "close_pos": 0.58
         }
       ]
     },
