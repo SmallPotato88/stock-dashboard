@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:16:28",
+  "generated_at": "2026-11-05T15:46:29",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,14 +8,14 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-11-04",
-    "latest_indicator_date": "2026-11-04",
+    "latest_bar_date": "2026-11-05",
+    "latest_indicator_date": "2026-11-05",
     "latest_signal_trade_date": "2026-11-05",
-    "dashboard_generated_at": "2026-11-05T15:06:58",
+    "dashboard_generated_at": "2026-11-05T15:44:35",
     "dashboard_trade_date": "2026-11-05",
-    "dashboard_data_date": "2026-11-04",
-    "realtime_snapshot_generated_at": "2026-11-05T15:06:58",
-    "stock_detail_count": 50,
+    "dashboard_data_date": "2026-11-05",
+    "realtime_snapshot_generated_at": "2026-11-05T15:44:35",
+    "stock_detail_count": 109,
     "watchlist_count": 9,
     "main_non_st": 3117,
     "main_non_st_latest_bar": 3049,
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 105,
+      "latency_ms": 113,
       "bytes_sampled": 461
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 155,
+      "latency_ms": 157,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 193,
+      "latency_ms": 409,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1749,
+      "latency_ms": 940,
       "bytes_sampled": 512
     }
   },
@@ -118,26 +118,26 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1749,
+      "latency_ms": 940,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "f6a88f7d652b84839ff2b49d5b38fb12a2e53724",
+      "head": "84f12f696feb066c9873cb25a9e71a4bc02a81bb",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "5f8f1ee3bd9827e8bdb4e0b9489af87b798b6fed",
+      "head": "e01aadeba3029a154e1b58f965c7a2184fd8c9ff",
       "error": ""
     }
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-11-04",
-    "latest_indicator_date": "2026-11-04",
+    "latest_bar_date": "2026-11-05",
+    "latest_indicator_date": "2026-11-05",
     "main_non_st_indicator_coverage_pct": 97.82
   },
   "governance": {
