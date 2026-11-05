@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:56:30",
+  "generated_at": "2026-11-05T10:17:34",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-11-04",
     "latest_indicator_date": "2026-11-04",
     "latest_signal_trade_date": "2026-11-04",
-    "dashboard_generated_at": "2026-11-05T09:51:23",
+    "dashboard_generated_at": "2026-11-05T10:01:47",
     "dashboard_trade_date": "2026-11-04",
     "dashboard_data_date": "2026-11-04",
-    "realtime_snapshot_generated_at": "2026-11-05T09:51:32",
+    "realtime_snapshot_generated_at": "2026-11-05T10:01:56",
     "stock_detail_count": 100,
     "watchlist_count": 7,
     "main_non_st": 3117,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-05T09:53:18",
+      "latest_fetched_at": "2026-11-05T10:15:13",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,45 +92,45 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 109,
-      "bytes_sampled": 464
+      "latency_ms": 119,
+      "bytes_sampled": 462
     },
     "eastmoney_push2": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 244,
-      "bytes_sampled": 127
+      "ok": false,
+      "status": null,
+      "latency_ms": 32,
+      "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 255,
+      "latency_ms": 131,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 10125,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 16329,
+      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
     }
   },
   "publish": {
     "github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 10125,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 16329,
+      "error": "URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))"
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "b169d11d31ae69ead54eadbf729666c8f9e5722c",
+      "head": "31554118fbcbec0748cb355a8e8d135c384c4f35",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "1404ba7f497bc5d19d724dcca07819b46e2dd142",
+      "head": "42e8077092d34513bfe8b10a78996cb8bde481a0",
       "error": ""
     }
   },
@@ -170,6 +170,16 @@
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
+    },
+    {
+      "level": "P2",
+      "item": "部分外部源探针失败",
+      "detail": "eastmoney_push2,dashboard_github_pages"
+    },
+    {
+      "level": "P1",
+      "item": "GitHub Pages 数据不可访问",
+      "detail": "{'ok': False, 'status': None, 'latency_ms': 16329, 'error': \"URLError(TimeoutError('_ssl.c:999: The handshake operation timed out'))\"}"
     }
   ]
 }
