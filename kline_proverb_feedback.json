@@ -453,10 +453,34 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-06",
+          "pct_chg": -1.24,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-06",
-          "pct_chg": -1.5,
+          "pct_chg": -1.51,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-06",
+          "pct_chg": -2.16,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-06",
+          "pct_chg": -2.15,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -469,18 +493,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-06",
-          "pct_chg": -2.22,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-06",
-          "pct_chg": -4.88,
+          "pct_chg": -4.67,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -489,22 +505,6 @@
           "name": "赣锋锂业",
           "date": "2026-11-06",
           "pct_chg": -2.26,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-06",
-          "pct_chg": -2.21,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-06",
-          "pct_chg": -1.32,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
