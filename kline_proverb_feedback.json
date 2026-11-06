@@ -456,7 +456,15 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-06",
-          "pct_chg": -7.55,
+          "pct_chg": -6.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-06",
+          "pct_chg": -1.28,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 2.43,
           "vol_ratio5": 1.26,
           "close_pos": 0.64
-        },
-        {
-          "code": "605337",
-          "name": "李子园",
-          "date": "2026-11-05",
-          "pct_chg": 3.34,
-          "vol_ratio5": 1.52,
-          "close_pos": 0.4
         }
       ]
     },
