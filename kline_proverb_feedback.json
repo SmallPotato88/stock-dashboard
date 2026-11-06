@@ -453,10 +453,18 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-06",
+          "pct_chg": -1.91,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-06",
-          "pct_chg": -2.67,
+          "pct_chg": -2.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,15 +480,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-06",
-          "pct_chg": -1.59,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-06",
-          "pct_chg": -1.73,
+          "pct_chg": -1.4,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
