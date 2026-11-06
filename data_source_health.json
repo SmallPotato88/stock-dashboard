@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:37:50",
+  "generated_at": "2026-11-06T12:01:46",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-11-05",
     "latest_indicator_date": "2026-11-05",
     "latest_signal_trade_date": "2026-11-05",
-    "dashboard_generated_at": "2026-11-06T11:27:07",
+    "dashboard_generated_at": "2026-11-06T11:52:19",
     "dashboard_trade_date": "2026-11-05",
     "dashboard_data_date": "2026-11-05",
     "realtime_snapshot_generated_at": "2026-11-06T11:27:16",
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-06T11:34:31",
+      "latest_fetched_at": "2026-11-06T11:57:58",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 115,
+      "latency_ms": 121,
       "bytes_sampled": 467
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 31,
+      "latency_ms": 130,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 207,
+      "latency_ms": 329,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 940,
+      "latency_ms": 1302,
       "bytes_sampled": 512
     }
   },
@@ -118,14 +118,14 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 940,
+      "latency_ms": 1302,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": false,
+      "ok": true,
       "remote": "origin",
-      "head": null,
-      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
+      "head": "7458098a8d8b98d0ef2a99983c4b0798a8d379dc",
+      "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
