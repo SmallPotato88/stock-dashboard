@@ -453,38 +453,6 @@
       "avg_loss_pct": -1.933,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-06",
-          "pct_chg": 2.57,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-06",
-          "pct_chg": 2.98,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-06",
-          "pct_chg": -0.66,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-06",
-          "pct_chg": -0.08,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-05",
@@ -531,6 +499,38 @@
           "pct_chg": 2.51,
           "vol_ratio5": 1.71,
           "close_pos": 0.55
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "date": "2026-11-05",
+          "pct_chg": 2.36,
+          "vol_ratio5": 1.67,
+          "close_pos": 0.5
+        },
+        {
+          "code": "605358",
+          "name": "立昂微",
+          "date": "2026-11-05",
+          "pct_chg": 2.43,
+          "vol_ratio5": 1.26,
+          "close_pos": 0.64
+        },
+        {
+          "code": "605337",
+          "name": "李子园",
+          "date": "2026-11-05",
+          "pct_chg": 3.34,
+          "vol_ratio5": 1.52,
+          "close_pos": 0.4
+        },
+        {
+          "code": "605319",
+          "name": "无锡振华",
+          "date": "2026-11-05",
+          "pct_chg": 0.29,
+          "vol_ratio5": 0.89,
+          "close_pos": 0.51
         }
       ]
     },
