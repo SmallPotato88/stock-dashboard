@@ -469,10 +469,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "603799",
-          "name": "华友钴业",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-09",
-          "pct_chg": -0.7,
+          "pct_chg": 2.99,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -485,10 +485,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "603799",
+          "name": "华友钴业",
           "date": "2026-11-09",
-          "pct_chg": 2.99,
+          "pct_chg": -0.7,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:36:11",
+  "generated_at": "2026-11-09T12:00:47",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,7 +11,7 @@
     "latest_bar_date": "2026-11-06",
     "latest_indicator_date": "2026-11-06",
     "latest_signal_trade_date": "2026-11-06",
-    "dashboard_generated_at": "2026-11-09T11:31:07",
+    "dashboard_generated_at": "2026-11-09T11:41:09",
     "dashboard_trade_date": "2026-11-06",
     "dashboard_data_date": "2026-11-06",
     "realtime_snapshot_generated_at": "2026-11-09T11:27:09",
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-09T11:33:06",
+      "latest_fetched_at": "2026-11-09T11:55:51",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 130,
+      "latency_ms": 125,
       "bytes_sampled": 465
     },
     "eastmoney_push2": {
       "ok": true,
       "status": 200,
-      "latency_ms": 152,
+      "latency_ms": 39,
       "bytes_sampled": 127
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 212,
+      "latency_ms": 305,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1122,
+      "latency_ms": 919,
       "bytes_sampled": 512
     }
   },
@@ -118,19 +118,19 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 1122,
+      "latency_ms": 919,
       "bytes_sampled": 512
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "49c04f77321a2a66e480bc4a53a9fe779106e51c",
+      "head": "8ab2dac2797c6db345e561bdf709fbb2985e0c97",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "86cbfd475dac02b91130fccdf7002dd76eb409ea",
+      "head": "413fe376cd2b2b7619989bbf44ee0ade37de3a2d",
       "error": ""
     }
   },
