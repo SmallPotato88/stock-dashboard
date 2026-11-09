@@ -456,31 +456,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-09",
-          "pct_chg": -0.25,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-09",
-          "pct_chg": -0.64,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-09",
-          "pct_chg": 0.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-09",
-          "pct_chg": 1.07,
+          "pct_chg": -0.71,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +464,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-09",
-          "pct_chg": 3.02,
+          "pct_chg": 2.91,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -496,7 +472,23 @@
           "code": "603799",
           "name": "华友钴业",
           "date": "2026-11-09",
-          "pct_chg": -0.45,
+          "pct_chg": -0.82,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-09",
+          "pct_chg": 0.99,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-09",
+          "pct_chg": 0.41,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": -2.27,
           "vol_ratio5": 0.83,
           "close_pos": 0.32
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-06",
+          "pct_chg": -2.82,
+          "vol_ratio5": 1.1,
+          "close_pos": 0.04
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-09",
-          "pct_chg": 2.41,
+          "pct_chg": 2.64,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
