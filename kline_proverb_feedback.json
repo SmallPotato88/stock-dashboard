@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.934,
       "recent_samples": [
         {
-          "code": "603799",
-          "name": "华友钴业",
+          "code": "002273",
+          "name": "水晶光电",
           "date": "2026-11-09",
-          "pct_chg": -0.7,
+          "pct_chg": -0.96,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -469,14 +469,6 @@
           "close_pos": 0.0
         },
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-09",
-          "pct_chg": 0.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-09",
@@ -485,10 +477,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "603799",
+          "name": "华友钴业",
           "date": "2026-11-09",
-          "pct_chg": -0.96,
+          "pct_chg": -0.7,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-09",
+          "pct_chg": 0.72,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
