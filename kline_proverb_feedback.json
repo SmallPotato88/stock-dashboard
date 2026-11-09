@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 106663,
+      "sample_count": 106665,
       "avg_next_return_pct": -0.055,
       "win_rate_pct": 46.36,
       "avg_win_pct": 1.945,
@@ -446,12 +446,68 @@
       ]
     },
     "上影线长": {
-      "sample_count": 776920,
+      "sample_count": 776927,
       "avg_next_return_pct": -0.002,
-      "win_rate_pct": 47.9,
+      "win_rate_pct": 47.89,
       "avg_win_pct": 2.1,
       "avg_loss_pct": -1.934,
       "recent_samples": [
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-09",
+          "pct_chg": -2.82,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-09",
+          "pct_chg": -2.54,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-09",
+          "pct_chg": -4.93,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-09",
+          "pct_chg": -1.88,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-09",
+          "pct_chg": -2.27,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-09",
+          "pct_chg": -1.95,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-09",
+          "pct_chg": -1.98,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "603799",
           "name": "华友钴业",
@@ -475,62 +531,6 @@
           "pct_chg": -1.95,
           "vol_ratio5": 0.75,
           "close_pos": 0.35
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-06",
-          "pct_chg": -2.27,
-          "vol_ratio5": 0.83,
-          "close_pos": 0.32
-        },
-        {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-06",
-          "pct_chg": -2.82,
-          "vol_ratio5": 1.1,
-          "close_pos": 0.04
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-06",
-          "pct_chg": -1.98,
-          "vol_ratio5": 0.89,
-          "close_pos": 0.13
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-06",
-          "pct_chg": -4.93,
-          "vol_ratio5": 0.85,
-          "close_pos": 0.49
-        },
-        {
-          "code": "605598",
-          "name": "上海港湾",
-          "date": "2026-11-06",
-          "pct_chg": -1.37,
-          "vol_ratio5": 0.78,
-          "close_pos": 0.4
-        },
-        {
-          "code": "605588",
-          "name": "冠石科技",
-          "date": "2026-11-06",
-          "pct_chg": -2.92,
-          "vol_ratio5": 0.81,
-          "close_pos": 0.41
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-11-06",
-          "pct_chg": -7.62,
-          "vol_ratio5": 1.23,
-          "close_pos": 0.16
         }
       ]
     },
