@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.932,
       "recent_samples": [
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-11-10",
-          "pct_chg": 1.68,
+          "pct_chg": 0.02,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-11-10",
-          "pct_chg": 0.05,
+          "pct_chg": 1.73,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
+          "code": "002460",
+          "name": "赣锋锂业",
           "date": "2026-11-10",
-          "pct_chg": 0.51,
+          "pct_chg": -0.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-10",
-          "pct_chg": 2.87,
+          "pct_chg": 2.89,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +561,23 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-10",
-          "pct_chg": 2.04,
+          "pct_chg": 2.2,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-10",
+          "pct_chg": 0.55,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-10",
+          "pct_chg": 1.73,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -604,22 +620,6 @@
           "pct_chg": 0.95,
           "vol_ratio5": 1.03,
           "close_pos": 0.44
-        },
-        {
-          "code": "605376",
-          "name": "博迁新材",
-          "date": "2026-11-09",
-          "pct_chg": 1.6,
-          "vol_ratio5": 0.83,
-          "close_pos": 0.49
-        },
-        {
-          "code": "605303",
-          "name": "园林股份",
-          "date": "2026-11-09",
-          "pct_chg": 1.0,
-          "vol_ratio5": 0.6,
-          "close_pos": 0.37
         }
       ]
     }
