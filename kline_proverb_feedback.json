@@ -453,26 +453,18 @@
       "avg_loss_pct": -1.931,
       "recent_samples": [
         {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-11",
-          "pct_chg": -0.23,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-11",
-          "pct_chg": 1.69,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-11",
-          "pct_chg": -1.43,
+          "pct_chg": -0.9,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-11",
+          "pct_chg": -0.27,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,15 +472,15 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-11",
-          "pct_chg": 1.13,
+          "pct_chg": 1.1,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-11-11",
-          "pct_chg": -0.77,
+          "pct_chg": 1.72,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 0.2,
           "vol_ratio5": 1.51,
           "close_pos": 0.6
+        },
+        {
+          "code": "605333",
+          "name": "沪光股份",
+          "date": "2026-11-10",
+          "pct_chg": 3.18,
+          "vol_ratio5": 1.13,
+          "close_pos": 0.41
         }
       ]
     },
@@ -545,7 +545,15 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-11",
-          "pct_chg": -0.77,
+          "pct_chg": -0.64,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-11",
+          "pct_chg": -0.9,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": 0.15,
           "vol_ratio5": 0.77,
           "close_pos": 0.76
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-11-10",
-          "pct_chg": 2.8,
-          "vol_ratio5": 0.56,
-          "close_pos": 1.0
         }
       ]
     }
