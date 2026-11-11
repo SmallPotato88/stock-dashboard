@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 52821,
+      "sample_count": 52822,
       "avg_next_return_pct": 0.029,
       "win_rate_pct": 50.84,
       "avg_win_pct": 2.843,
@@ -179,7 +179,7 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107460,
+      "sample_count": 107461,
       "avg_next_return_pct": -0.056,
       "win_rate_pct": 46.24,
       "avg_win_pct": 1.944,
@@ -357,7 +357,7 @@
       ]
     },
     "低位放量": {
-      "sample_count": 114844,
+      "sample_count": 114845,
       "avg_next_return_pct": 0.2,
       "win_rate_pct": 51.76,
       "avg_win_pct": 2.536,
@@ -446,12 +446,20 @@
       ]
     },
     "上影线长": {
-      "sample_count": 780132,
+      "sample_count": 780133,
       "avg_next_return_pct": 0.001,
       "win_rate_pct": 47.92,
       "avg_win_pct": 2.102,
       "avg_loss_pct": -1.931,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-11",
+          "pct_chg": 0.81,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "605589",
           "name": "圣泉集团",
@@ -523,24 +531,48 @@
           "pct_chg": 2.92,
           "vol_ratio5": 0.89,
           "close_pos": 0.34
-        },
-        {
-          "code": "605259",
-          "name": "绿田机械",
-          "date": "2026-11-10",
-          "pct_chg": 0.88,
-          "vol_ratio5": 0.87,
-          "close_pos": 0.26
         }
       ]
     },
     "下影线长": {
-      "sample_count": 661041,
+      "sample_count": 661045,
       "avg_next_return_pct": -0.044,
       "win_rate_pct": 45.8,
       "avg_win_pct": 2.028,
       "avg_loss_pct": -1.795,
       "recent_samples": [
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-11",
+          "pct_chg": 0.81,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-11",
+          "pct_chg": 4.48,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-11",
+          "pct_chg": 3.5,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-11",
+          "pct_chg": -0.3,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -588,38 +620,6 @@
           "pct_chg": 1.7,
           "vol_ratio5": 0.88,
           "close_pos": 0.6
-        },
-        {
-          "code": "605399",
-          "name": "晨光新材",
-          "date": "2026-11-10",
-          "pct_chg": 2.46,
-          "vol_ratio5": 0.75,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605499",
-          "name": "东鹏饮料",
-          "date": "2026-11-10",
-          "pct_chg": 0.15,
-          "vol_ratio5": 0.77,
-          "close_pos": 0.76
-        },
-        {
-          "code": "605378",
-          "name": "野马电池",
-          "date": "2026-11-10",
-          "pct_chg": 2.8,
-          "vol_ratio5": 0.56,
-          "close_pos": 1.0
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-11-10",
-          "pct_chg": 1.28,
-          "vol_ratio5": 0.5,
-          "close_pos": 0.87
         }
       ]
     }
