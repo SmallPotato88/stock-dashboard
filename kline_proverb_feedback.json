@@ -456,23 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-11",
-          "pct_chg": -1.03,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-11",
-          "pct_chg": -0.57,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603019",
-          "name": "中科曙光",
-          "date": "2026-11-11",
-          "pct_chg": -0.34,
+          "pct_chg": -1.49,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +515,22 @@
           "pct_chg": 2.37,
           "vol_ratio5": 0.69,
           "close_pos": 0.54
+        },
+        {
+          "code": "605298",
+          "name": "必得科技",
+          "date": "2026-11-10",
+          "pct_chg": 0.44,
+          "vol_ratio5": 0.58,
+          "close_pos": 0.52
+        },
+        {
+          "code": "605288",
+          "name": "凯迪股份",
+          "date": "2026-11-10",
+          "pct_chg": 2.92,
+          "vol_ratio5": 0.89,
+          "close_pos": 0.34
         }
       ]
     },
@@ -545,15 +545,7 @@
           "code": "603799",
           "name": "华友钴业",
           "date": "2026-11-11",
-          "pct_chg": -0.34,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-11",
-          "pct_chg": -1.02,
+          "pct_chg": -0.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -561,7 +553,7 @@
           "code": "002460",
           "name": "赣锋锂业",
           "date": "2026-11-11",
-          "pct_chg": -0.65,
+          "pct_chg": -0.19,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +561,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-11",
-          "pct_chg": -0.57,
+          "pct_chg": -0.33,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-11",
+          "pct_chg": -0.3,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
