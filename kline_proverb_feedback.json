@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.931,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-11",
-          "pct_chg": 0.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "605589",
           "name": "圣泉集团",
           "date": "2026-11-10",
@@ -531,6 +523,14 @@
           "pct_chg": 2.92,
           "vol_ratio5": 0.89,
           "close_pos": 0.34
+        },
+        {
+          "code": "605259",
+          "name": "绿田机械",
+          "date": "2026-11-10",
+          "pct_chg": 0.88,
+          "vol_ratio5": 0.87,
+          "close_pos": 0.26
         }
       ]
     },
@@ -541,38 +541,6 @@
       "avg_win_pct": 2.028,
       "avg_loss_pct": -1.795,
       "recent_samples": [
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-11",
-          "pct_chg": 0.81,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-11",
-          "pct_chg": 4.48,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-11",
-          "pct_chg": 3.5,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-11",
-          "pct_chg": -0.3,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "601021",
           "name": "春秋航空",
@@ -620,6 +588,38 @@
           "pct_chg": 1.7,
           "vol_ratio5": 0.88,
           "close_pos": 0.6
+        },
+        {
+          "code": "605399",
+          "name": "晨光新材",
+          "date": "2026-11-10",
+          "pct_chg": 2.46,
+          "vol_ratio5": 0.75,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605499",
+          "name": "东鹏饮料",
+          "date": "2026-11-10",
+          "pct_chg": 0.15,
+          "vol_ratio5": 0.77,
+          "close_pos": 0.76
+        },
+        {
+          "code": "605378",
+          "name": "野马电池",
+          "date": "2026-11-10",
+          "pct_chg": 2.8,
+          "vol_ratio5": 0.56,
+          "close_pos": 1.0
+        },
+        {
+          "code": "605377",
+          "name": "华旺科技",
+          "date": "2026-11-10",
+          "pct_chg": 1.28,
+          "vol_ratio5": 0.5,
+          "close_pos": 0.87
         }
       ]
     }
