@@ -453,10 +453,34 @@
       "avg_loss_pct": -1.935,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-11-17",
-          "pct_chg": -1.56,
+          "pct_chg": -0.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-17",
+          "pct_chg": -0.53,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-17",
+          "pct_chg": 0.0,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-17",
+          "pct_chg": -1.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +488,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-17",
-          "pct_chg": -0.22,
+          "pct_chg": -0.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -507,30 +531,6 @@
           "pct_chg": -0.85,
           "vol_ratio5": 0.78,
           "close_pos": 0.18
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-11-16",
-          "pct_chg": -1.38,
-          "vol_ratio5": 1.13,
-          "close_pos": 0.17
-        },
-        {
-          "code": "605365",
-          "name": "立达信",
-          "date": "2026-11-16",
-          "pct_chg": 0.08,
-          "vol_ratio5": 1.63,
-          "close_pos": 0.42
-        },
-        {
-          "code": "605368",
-          "name": "蓝天燃气",
-          "date": "2026-11-16",
-          "pct_chg": -0.63,
-          "vol_ratio5": 0.73,
-          "close_pos": 0.56
         }
       ]
     },
@@ -542,42 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-17",
-          "pct_chg": -0.95,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-17",
-          "pct_chg": -1.56,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-17",
-          "pct_chg": 0.46,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-17",
-          "pct_chg": 1.22,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-17",
-          "pct_chg": 0.13,
+          "pct_chg": -0.29,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -585,7 +553,23 @@
           "code": "002460",
           "name": "赣锋锂业",
           "date": "2026-11-17",
-          "pct_chg": -0.6,
+          "pct_chg": -1.12,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-17",
+          "pct_chg": -0.74,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-17",
+          "pct_chg": -4.38,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": -0.17,
           "vol_ratio5": 0.76,
           "close_pos": 0.84
+        },
+        {
+          "code": "605507",
+          "name": "国邦医药",
+          "date": "2026-11-16",
+          "pct_chg": 0.39,
+          "vol_ratio5": 1.18,
+          "close_pos": 0.57
+        },
+        {
+          "code": "605488",
+          "name": "福莱新材",
+          "date": "2026-11-16",
+          "pct_chg": 1.72,
+          "vol_ratio5": 1.18,
+          "close_pos": 0.71
         }
       ]
     }
