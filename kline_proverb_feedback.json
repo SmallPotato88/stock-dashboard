@@ -453,6 +453,30 @@
       "avg_loss_pct": -1.935,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-17",
+          "pct_chg": -1.13,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-17",
+          "pct_chg": -1.32,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-17",
+          "pct_chg": -1.06,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-16",
@@ -507,30 +531,6 @@
           "pct_chg": 0.08,
           "vol_ratio5": 1.63,
           "close_pos": 0.42
-        },
-        {
-          "code": "605368",
-          "name": "蓝天燃气",
-          "date": "2026-11-16",
-          "pct_chg": -0.63,
-          "vol_ratio5": 0.73,
-          "close_pos": 0.56
-        },
-        {
-          "code": "605319",
-          "name": "无锡振华",
-          "date": "2026-11-16",
-          "pct_chg": -1.32,
-          "vol_ratio5": 0.95,
-          "close_pos": 0.08
-        },
-        {
-          "code": "605288",
-          "name": "凯迪股份",
-          "date": "2026-11-16",
-          "pct_chg": 0.54,
-          "vol_ratio5": 1.04,
-          "close_pos": 0.49
         }
       ]
     },
@@ -541,6 +541,46 @@
       "avg_win_pct": 2.027,
       "avg_loss_pct": -1.795,
       "recent_samples": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-17",
+          "pct_chg": -1.29,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-17",
+          "pct_chg": -1.32,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-17",
+          "pct_chg": 1.02,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-17",
+          "pct_chg": 1.06,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-17",
+          "pct_chg": -1.06,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "603799",
           "name": "华友钴业",
@@ -580,46 +620,6 @@
           "pct_chg": 0.39,
           "vol_ratio5": 1.18,
           "close_pos": 0.57
-        },
-        {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-11-16",
-          "pct_chg": 1.72,
-          "vol_ratio5": 1.18,
-          "close_pos": 0.71
-        },
-        {
-          "code": "605368",
-          "name": "蓝天燃气",
-          "date": "2026-11-16",
-          "pct_chg": -0.63,
-          "vol_ratio5": 0.73,
-          "close_pos": 0.56
-        },
-        {
-          "code": "605259",
-          "name": "绿田机械",
-          "date": "2026-11-16",
-          "pct_chg": -0.81,
-          "vol_ratio5": 0.67,
-          "close_pos": 0.35
-        },
-        {
-          "code": "605268",
-          "name": "王力安防",
-          "date": "2026-11-16",
-          "pct_chg": -0.12,
-          "vol_ratio5": 1.0,
-          "close_pos": 0.46
-        },
-        {
-          "code": "605196",
-          "name": "华通线缆",
-          "date": "2026-11-16",
-          "pct_chg": -4.79,
-          "vol_ratio5": 1.58,
-          "close_pos": 0.4
         }
       ]
     }
