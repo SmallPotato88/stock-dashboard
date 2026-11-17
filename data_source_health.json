@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:20:44",
+  "generated_at": "2026-11-17T09:01:54",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -8,20 +8,20 @@
     "core_principle": "多源直连 + 字段统一 + 新鲜度 + fallback + AI结构化数据包"
   },
   "freshness": {
-    "latest_bar_date": "2026-11-10",
-    "latest_indicator_date": "2026-11-10",
-    "latest_signal_trade_date": "2026-11-11",
-    "dashboard_generated_at": "2026-11-11T15:12:13",
-    "dashboard_trade_date": "2026-11-11",
-    "dashboard_data_date": "2026-11-10",
-    "realtime_snapshot_generated_at": "2026-11-11T15:12:13",
-    "stock_detail_count": 50,
+    "latest_bar_date": "2026-11-16",
+    "latest_indicator_date": "2026-11-16",
+    "latest_signal_trade_date": "2026-11-16",
+    "dashboard_generated_at": "2026-11-16T15:56:42",
+    "dashboard_trade_date": "2026-11-16",
+    "dashboard_data_date": "2026-11-16",
+    "realtime_snapshot_generated_at": "2026-11-16T15:56:43",
+    "stock_detail_count": 92,
     "watchlist_count": 9,
     "main_non_st": 3117,
-    "main_non_st_latest_bar": 3050,
-    "main_non_st_latest_indicator": 3050,
-    "bar_coverage_pct": 97.85,
-    "indicator_coverage_pct": 97.85
+    "main_non_st_latest_bar": 3049,
+    "main_non_st_latest_indicator": 3049,
+    "bar_coverage_pct": 97.82,
+    "indicator_coverage_pct": 97.82
   },
   "db_sources": [
     {
@@ -29,8 +29,8 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-11T14:58:52",
-      "age_days": 0,
+      "latest_fetched_at": "2026-11-16T14:55:41",
+      "age_days": 1,
       "status": "ok"
     },
     {
@@ -39,7 +39,7 @@
       "table": "baidu_kline_enrichment",
       "rows": 3,
       "latest_fetched_at": "2026-05-22 16:18:42",
-      "age_days": 173,
+      "age_days": 179,
       "status": "warn"
     },
     {
@@ -48,7 +48,7 @@
       "table": "stock_risk_enrichment",
       "rows": 97,
       "latest_fetched_at": "2026-05-27 06:46:46",
-      "age_days": 168,
+      "age_days": 174,
       "status": "warn"
     },
     {
@@ -57,7 +57,7 @@
       "table": "stock_news_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 34,
+      "age_days": 40,
       "status": "warn"
     },
     {
@@ -66,7 +66,7 @@
       "table": "stock_moneyflow_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 34,
+      "age_days": 40,
       "status": "warn"
     },
     {
@@ -75,7 +75,7 @@
       "table": "stock_research_enrichment",
       "rows": 26,
       "latest_fetched_at": "2026-10-08 07:21:54",
-      "age_days": 34,
+      "age_days": 40,
       "status": "warn"
     },
     {
@@ -84,7 +84,7 @@
       "table": "market_signal_enrichment",
       "rows": 1,
       "latest_fetched_at": "2026-05-27 06:46:47",
-      "age_days": 168,
+      "age_days": 174,
       "status": "warn"
     }
   ],
@@ -92,25 +92,25 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 115,
-      "bytes_sampled": 465
+      "latency_ms": 121,
+      "bytes_sampled": 467
     },
     "eastmoney_push2": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 31,
-      "bytes_sampled": 127
+      "ok": false,
+      "status": null,
+      "latency_ms": 142,
+      "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 258,
+      "latency_ms": 311,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3341,
+      "latency_ms": 1160,
       "bytes_sampled": 512
     }
   },
@@ -118,27 +118,27 @@
     "github_pages": {
       "ok": true,
       "status": 200,
-      "latency_ms": 3341,
+      "latency_ms": 1160,
       "bytes_sampled": 512
     },
     "github_repo_head": {
-      "ok": true,
+      "ok": false,
       "remote": "origin",
-      "head": "ca4ae330253faf880debe0203fc7ef9bf53ec7b7",
-      "error": ""
+      "head": null,
+      "error": "TimeoutExpired(['git', 'ls-remote', 'origin', 'HEAD'], 20)"
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "6f0f8d9176820d772dd46eb64beffb03aca57daf",
+      "head": "4f75919dd55091754a2acb863c60cd3c4f8644f1",
       "error": ""
     }
   },
   "system_health_summary": {
     "status": "warn",
-    "latest_bar_date": "2026-11-10",
-    "latest_indicator_date": "2026-11-10",
-    "main_non_st_indicator_coverage_pct": 97.85
+    "latest_bar_date": "2026-11-16",
+    "latest_indicator_date": "2026-11-16",
+    "main_non_st_indicator_coverage_pct": 97.82
   },
   "governance": {
     "canonical_fields": [
@@ -164,12 +164,17 @@
     {
       "level": "P1",
       "item": "主板非ST指标覆盖不足",
-      "detail": "97.85%"
+      "detail": "97.82%"
     },
     {
       "level": "P2",
       "item": "部分数据源入库新鲜度偏弱",
       "detail": "baidu_kline_fallback,eastmoney_risk_datacenter,eastmoney_news_cninfo,eastmoney_moneyflow,research_eps,market_signal_news"
+    },
+    {
+      "level": "P2",
+      "item": "部分外部源探针失败",
+      "detail": "eastmoney_push2"
     }
   ]
 }
