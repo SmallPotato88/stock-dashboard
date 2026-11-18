@@ -456,7 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-18",
-          "pct_chg": 5.58,
+          "pct_chg": 5.82,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-18",
-          "pct_chg": -2.52,
+          "pct_chg": -2.44,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,15 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-18",
-          "pct_chg": 0.32,
+          "pct_chg": 0.56,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-18",
+          "pct_chg": -0.97,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -1.91,
           "vol_ratio5": 0.91,
           "close_pos": 0.45
-        },
-        {
-          "code": "605166",
-          "name": "聚合顺",
-          "date": "2026-11-17",
-          "pct_chg": 4.88,
-          "vol_ratio5": 1.02,
-          "close_pos": 0.66
         }
       ]
     }
