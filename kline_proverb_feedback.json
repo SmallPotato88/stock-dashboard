@@ -453,18 +453,26 @@
       "avg_loss_pct": -1.936,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "601021",
+          "name": "春秋航空",
           "date": "2026-11-18",
-          "pct_chg": -1.68,
+          "pct_chg": -0.73,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-18",
-          "pct_chg": -0.9,
+          "pct_chg": 6.67,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-18",
+          "pct_chg": -2.02,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": 4.2,
           "vol_ratio5": 1.91,
           "close_pos": 0.58
-        },
-        {
-          "code": "605580",
-          "name": "恒盛能源",
-          "date": "2026-11-17",
-          "pct_chg": -2.99,
-          "vol_ratio5": 0.67,
-          "close_pos": 0.1
         }
       ]
     },
@@ -542,26 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-18",
-          "pct_chg": -1.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-18",
-          "pct_chg": 1.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-18",
-          "pct_chg": -0.65,
+          "pct_chg": 0.46,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -620,6 +604,22 @@
           "pct_chg": -2.35,
           "vol_ratio5": 1.09,
           "close_pos": 0.63
+        },
+        {
+          "code": "605289",
+          "name": "罗曼股份",
+          "date": "2026-11-17",
+          "pct_chg": -1.91,
+          "vol_ratio5": 0.91,
+          "close_pos": 0.45
+        },
+        {
+          "code": "605166",
+          "name": "聚合顺",
+          "date": "2026-11-17",
+          "pct_chg": 4.88,
+          "vol_ratio5": 1.02,
+          "close_pos": 0.66
         }
       ]
     }
