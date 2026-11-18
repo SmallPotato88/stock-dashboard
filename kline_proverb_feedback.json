@@ -456,7 +456,7 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-18",
-          "pct_chg": 0.48,
+          "pct_chg": -0.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,26 +542,18 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-18",
-          "pct_chg": -1.42,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-18",
-          "pct_chg": -0.88,
+          "pct_chg": -0.84,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "002851",
-          "name": "麦格米特",
+          "code": "002460",
+          "name": "赣锋锂业",
           "date": "2026-11-18",
-          "pct_chg": 0.48,
+          "pct_chg": -1.71,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -569,7 +561,7 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-18",
-          "pct_chg": 1.8,
+          "pct_chg": 1.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -577,7 +569,15 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-18",
-          "pct_chg": -2.4,
+          "pct_chg": -2.44,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-18",
+          "pct_chg": -0.05,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
