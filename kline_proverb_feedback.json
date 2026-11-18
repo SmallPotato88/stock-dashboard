@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.936,
       "recent_samples": [
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-18",
-          "pct_chg": -2.18,
+          "pct_chg": 6.56,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-11-18",
-          "pct_chg": 5.09,
+          "pct_chg": -1.81,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,10 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "601021",
-          "name": "春秋航空",
+          "code": "002851",
+          "name": "麦格米特",
           "date": "2026-11-18",
-          "pct_chg": -0.81,
+          "pct_chg": -0.12,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -553,7 +553,23 @@
           "code": "603019",
           "name": "中科曙光",
           "date": "2026-11-18",
-          "pct_chg": 0.28,
+          "pct_chg": 1.01,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-18",
+          "pct_chg": -1.17,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-18",
+          "pct_chg": -1.81,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -604,22 +620,6 @@
           "pct_chg": -0.08,
           "vol_ratio5": 0.53,
           "close_pos": 0.46
-        },
-        {
-          "code": "605338",
-          "name": "巴比食品",
-          "date": "2026-11-17",
-          "pct_chg": -2.35,
-          "vol_ratio5": 1.09,
-          "close_pos": 0.63
-        },
-        {
-          "code": "605289",
-          "name": "罗曼股份",
-          "date": "2026-11-17",
-          "pct_chg": -1.91,
-          "vol_ratio5": 0.91,
-          "close_pos": 0.45
         }
       ]
     }
