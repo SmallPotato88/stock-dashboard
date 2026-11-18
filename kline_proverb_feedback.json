@@ -90,7 +90,7 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 52893,
+      "sample_count": 52894,
       "avg_next_return_pct": 0.021,
       "win_rate_pct": 50.74,
       "avg_win_pct": 2.845,
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 784790,
+      "sample_count": 784794,
       "avg_next_return_pct": -0.005,
       "win_rate_pct": 47.81,
       "avg_win_pct": 2.102,
@@ -535,7 +535,7 @@
       ]
     },
     "下影线长": {
-      "sample_count": 664493,
+      "sample_count": 664497,
       "avg_next_return_pct": -0.047,
       "win_rate_pct": 45.75,
       "avg_win_pct": 2.027,
