@@ -456,7 +456,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-19",
-          "pct_chg": 0.6,
+          "pct_chg": 0.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -464,7 +464,15 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-19",
-          "pct_chg": -4.73,
+          "pct_chg": -4.99,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-19",
+          "pct_chg": -0.58,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -472,7 +480,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-19",
-          "pct_chg": -0.73,
+          "pct_chg": -0.55,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -1.45,
           "vol_ratio5": 0.99,
           "close_pos": 0.24
-        },
-        {
-          "code": "605398",
-          "name": "新炬网络",
-          "date": "2026-11-18",
-          "pct_chg": -2.23,
-          "vol_ratio5": 0.71,
-          "close_pos": 0.13
         }
       ]
     },
@@ -542,26 +542,26 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-19",
-          "pct_chg": -1.53,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-19",
-          "pct_chg": -4.73,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-19",
-          "pct_chg": -0.3,
+          "pct_chg": -0.58,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-19",
+          "pct_chg": -2.8,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-19",
+          "pct_chg": -1.62,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
