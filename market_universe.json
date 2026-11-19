@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:02:23",
+  "generated_at": "2026-11-19T09:07:17",
   "data_date": "2026-11-18",
   "scale": {
     "total_securities": 5931,
@@ -238,122 +238,122 @@
   "top_industries": [
     {
       "name": "C 制造业",
-      "count": 969
+      "count": 729
     },
     {
       "name": "汽车零部件",
-      "count": 97
-    },
-    {
-      "name": "I 信息技术",
-      "count": 77
-    },
-    {
-      "name": "F 批发零售",
-      "count": 61
-    },
-    {
-      "name": "电力",
-      "count": 58
+      "count": 116
     },
     {
       "name": "化学制品",
-      "count": 56
-    },
-    {
-      "name": "D 水电煤气",
-      "count": 55
+      "count": 69
     },
     {
       "name": "专用设备",
-      "count": 51
+      "count": 63
+    },
+    {
+      "name": "I 信息技术",
+      "count": 62
+    },
+    {
+      "name": "电力",
+      "count": 61
+    },
+    {
+      "name": "通用设备",
+      "count": 55
+    },
+    {
+      "name": "F 批发零售",
+      "count": 52
+    },
+    {
+      "name": "D 水电煤气",
+      "count": 50
+    },
+    {
+      "name": "电网设备",
+      "count": 47
+    },
+    {
+      "name": "化学制药",
+      "count": 42
     },
     {
       "name": "房地产开发",
       "count": 42
     },
     {
-      "name": "通用设备",
-      "count": 40
-    },
-    {
-      "name": "电网设备",
+      "name": "证券Ⅱ",
       "count": 39
     },
     {
-      "name": "K 房地产",
-      "count": 36
+      "name": "银行Ⅱ",
+      "count": 39
     },
     {
       "name": "一般零售",
-      "count": 34
+      "count": 36
     },
     {
-      "name": "J 金融业",
-      "count": 33
-    },
-    {
-      "name": "银行Ⅱ",
-      "count": 33
-    },
-    {
-      "name": "G 运输仓储",
-      "count": 32
-    },
-    {
-      "name": "证券Ⅱ",
-      "count": 32
-    },
-    {
-      "name": "化学制药",
-      "count": 31
-    },
-    {
-      "name": "E 建筑业",
-      "count": 30
-    },
-    {
-      "name": "工业金属",
-      "count": 30
-    },
-    {
-      "name": "L 商务服务",
-      "count": 29
+      "name": "K 房地产",
+      "count": 35
     },
     {
       "name": "环境治理",
-      "count": 29
-    },
-    {
-      "name": "化学原料",
-      "count": 29
+      "count": 35
     },
     {
       "name": "家居用品",
-      "count": 29
+      "count": 35
+    },
+    {
+      "name": "工业金属",
+      "count": 34
     },
     {
       "name": "中药Ⅱ",
+      "count": 33
+    },
+    {
+      "name": "化学原料",
+      "count": 31
+    },
+    {
+      "name": "服装家纺",
+      "count": 30
+    },
+    {
+      "name": "G 运输仓储",
       "count": 28
+    },
+    {
+      "name": "物流",
+      "count": 28
+    },
+    {
+      "name": "农化制品",
+      "count": 28
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 26
     },
     {
       "name": "航运港口",
       "count": 26
     },
     {
-      "name": "B 采矿业",
-      "count": 25
+      "name": "消费电子",
+      "count": 24
     },
     {
-      "name": "物流",
-      "count": 23
+      "name": "半导体",
+      "count": 24
     },
     {
-      "name": "铁路公路",
-      "count": 22
-    },
-    {
-      "name": "农化制品",
+      "name": "E 建筑业",
       "count": 22
     }
   ],
@@ -361,33 +361,33 @@
     "hot": [
       {
         "industry": "白色家电",
-        "count": 4,
-        "avg_pct_chg": 4.5,
+        "count": 5,
+        "avg_pct_chg": 4.65,
         "up_ratio": 100.0,
         "above_ma20_ratio": 100.0,
-        "breakout_20d_ratio": 25.0,
-        "amount_total_yi": 21.27,
-        "heat_score": 84.53
-      },
-      {
-        "industry": "黑色家电",
-        "count": 2,
-        "avg_pct_chg": 5.52,
-        "up_ratio": 100.0,
-        "above_ma20_ratio": 100.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 10.84,
-        "heat_score": 78.12
+        "breakout_20d_ratio": 20.0,
+        "amount_total_yi": 24.69,
+        "heat_score": 82.89
       },
       {
         "industry": "通信服务",
-        "count": 8,
-        "avg_pct_chg": 3.65,
+        "count": 9,
+        "avg_pct_chg": 4.35,
         "up_ratio": 100.0,
-        "above_ma20_ratio": 62.5,
-        "breakout_20d_ratio": 12.5,
-        "amount_total_yi": 56.63,
-        "heat_score": 58.14
+        "above_ma20_ratio": 55.6,
+        "breakout_20d_ratio": 11.1,
+        "amount_total_yi": 75.41,
+        "heat_score": 58.91
+      },
+      {
+        "industry": "黑色家电",
+        "count": 3,
+        "avg_pct_chg": 2.87,
+        "up_ratio": 66.7,
+        "above_ma20_ratio": 66.7,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 11.25,
+        "heat_score": 32.22
       },
       {
         "industry": "保险Ⅱ",
@@ -410,16 +410,6 @@
         "heat_score": 23.69
       },
       {
-        "industry": "银行Ⅱ",
-        "count": 33,
-        "avg_pct_chg": -0.25,
-        "up_ratio": 36.4,
-        "above_ma20_ratio": 97.0,
-        "breakout_20d_ratio": 24.2,
-        "amount_total_yi": 277.49,
-        "heat_score": 22.58
-      },
-      {
         "industry": "铁路公路",
         "count": 22,
         "avg_pct_chg": 0.56,
@@ -430,106 +420,116 @@
         "heat_score": 19.27
       },
       {
-        "industry": "其他电源设备Ⅱ",
-        "count": 6,
-        "avg_pct_chg": 2.51,
-        "up_ratio": 66.7,
-        "above_ma20_ratio": 16.7,
-        "breakout_20d_ratio": 16.7,
-        "amount_total_yi": 11.55,
-        "heat_score": 18.36
+        "industry": "银行Ⅱ",
+        "count": 39,
+        "avg_pct_chg": -0.36,
+        "up_ratio": 30.8,
+        "above_ma20_ratio": 97.4,
+        "breakout_20d_ratio": 20.5,
+        "amount_total_yi": 290.2,
+        "heat_score": 17.44
       },
       {
-        "industry": "房屋建设Ⅱ",
-        "count": 5,
-        "avg_pct_chg": 1.15,
-        "up_ratio": 80.0,
-        "above_ma20_ratio": 40.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 14.46,
-        "heat_score": 17.92
+        "industry": "通信设备",
+        "count": 22,
+        "avg_pct_chg": 1.68,
+        "up_ratio": 77.3,
+        "above_ma20_ratio": 18.2,
+        "breakout_20d_ratio": 4.5,
+        "amount_total_yi": 222.72,
+        "heat_score": 13.27
       },
       {
-        "industry": "油服工程",
-        "count": 7,
-        "avg_pct_chg": 0.99,
+        "industry": "元件",
+        "count": 21,
+        "avg_pct_chg": 2.18,
         "up_ratio": 85.7,
-        "above_ma20_ratio": 28.6,
+        "above_ma20_ratio": 4.8,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 9.83,
-        "heat_score": 15.23
+        "amount_total_yi": 225.17,
+        "heat_score": 12.87
+      },
+      {
+        "industry": "焦炭Ⅱ",
+        "count": 6,
+        "avg_pct_chg": 1.84,
+        "up_ratio": 66.7,
+        "above_ma20_ratio": 33.3,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 13.03,
+        "heat_score": 12.68
       }
     ],
     "cold": [
       {
         "industry": "贵金属",
-        "count": 4,
-        "avg_pct_chg": -4.92,
+        "count": 5,
+        "avg_pct_chg": -4.4,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 53.84,
-        "heat_score": -74.54
+        "amount_total_yi": 59.67,
+        "heat_score": -71.37
       },
       {
         "industry": "航空装备Ⅱ",
-        "count": 10,
-        "avg_pct_chg": -4.89,
+        "count": 12,
+        "avg_pct_chg": -4.66,
         "up_ratio": 0.0,
-        "above_ma20_ratio": 10.0,
+        "above_ma20_ratio": 8.3,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 51.16,
-        "heat_score": -70.33
+        "amount_total_yi": 52.96,
+        "heat_score": -69.61
       },
       {
         "industry": "医疗服务",
-        "count": 8,
-        "avg_pct_chg": -3.17,
+        "count": 9,
+        "avg_pct_chg": -3.23,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 77.04,
-        "heat_score": -64.01
-      },
-      {
-        "industry": "影视院线",
-        "count": 5,
-        "avg_pct_chg": -4.49,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 20.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 17.31,
-        "heat_score": -63.95
-      },
-      {
-        "industry": "厨卫电器",
-        "count": 2,
-        "avg_pct_chg": -5.8,
-        "up_ratio": 0.0,
-        "above_ma20_ratio": 50.0,
-        "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 7.12,
-        "heat_score": -59.83
+        "amount_total_yi": 86.68,
+        "heat_score": -64.4
       },
       {
         "industry": "广告营销",
-        "count": 7,
-        "avg_pct_chg": -2.45,
+        "count": 10,
+        "avg_pct_chg": -3.22,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 15.55,
-        "heat_score": -59.71
+        "amount_total_yi": 22.92,
+        "heat_score": -64.34
+      },
+      {
+        "industry": "照明设备Ⅱ",
+        "count": 6,
+        "avg_pct_chg": -3.99,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 16.7,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 18.41,
+        "heat_score": -62.25
       },
       {
         "industry": "电机Ⅱ",
-        "count": 10,
-        "avg_pct_chg": -2.44,
+        "count": 14,
+        "avg_pct_chg": -2.86,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 12.77,
-        "heat_score": -59.64
+        "amount_total_yi": 22.39,
+        "heat_score": -62.16
+      },
+      {
+        "industry": "M 科研服务",
+        "count": 5,
+        "avg_pct_chg": -2.69,
+        "up_ratio": 0.0,
+        "above_ma20_ratio": 0.0,
+        "breakout_20d_ratio": 0.0,
+        "amount_total_yi": 4.24,
+        "heat_score": -61.15
       },
       {
         "industry": "电视广播Ⅱ",
@@ -543,23 +543,23 @@
       },
       {
         "industry": "互联网电商",
-        "count": 3,
-        "avg_pct_chg": -2.35,
+        "count": 5,
+        "avg_pct_chg": -2.24,
         "up_ratio": 0.0,
         "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 2.52,
-        "heat_score": -59.13
+        "amount_total_yi": 4.79,
+        "heat_score": -58.47
       },
       {
-        "industry": "休闲食品",
-        "count": 9,
-        "avg_pct_chg": -3.83,
+        "industry": "P 教育",
+        "count": 3,
+        "avg_pct_chg": -2.23,
         "up_ratio": 0.0,
-        "above_ma20_ratio": 22.2,
+        "above_ma20_ratio": 0.0,
         "breakout_20d_ratio": 0.0,
-        "amount_total_yi": 6.74,
-        "heat_score": -59.07
+        "amount_total_yi": 3.43,
+        "heat_score": -58.38
       }
     ],
     "total_industries_with_count_ge_2": 140
@@ -582,32 +582,32 @@
     "market_score": 18.52958849460842,
     "market_state": "不做",
     "reasons_json": "[\"上涨占比23.0%\", \"MA20上方14.9%\", \"MA60上方12.1%\", \"20日高附近3.0%\", \"均涨幅-0.96%\", \"强/弱股258/744\"]",
-    "created_at": "2026-11-19 01:02:19"
+    "created_at": "2026-11-19 01:07:13"
   },
   "sector_hot": [
     {
       "sector": "白色家电",
       "sector_score": 100.0,
       "sector_state": "可做",
-      "universe_count": 4,
-      "avg_pct_chg": 4.504676060271281,
+      "universe_count": 5,
+      "avg_pct_chg": 4.648871489547189,
       "up_ratio": 100.0
     },
     {
       "sector": "通信服务",
-      "sector_score": 83.88888888888889,
+      "sector_score": 82.0,
       "sector_state": "可做",
-      "universe_count": 9,
-      "avg_pct_chg": 3.2430138640317745,
-      "up_ratio": 88.88888888888889
+      "universe_count": 10,
+      "avg_pct_chg": 3.919326351170647,
+      "up_ratio": 90.0
     },
     {
       "sector": "黑色家电",
-      "sector_score": 81.25,
-      "sector_state": "可做",
-      "universe_count": 4,
-      "avg_pct_chg": 3.154931785200202,
-      "up_ratio": 75.0
+      "sector_score": 67.69057734322996,
+      "sector_state": "谨慎可做",
+      "universe_count": 5,
+      "avg_pct_chg": 2.0381154686459935,
+      "up_ratio": 60.0
     },
     {
       "sector": "保险Ⅱ",
@@ -616,14 +616,6 @@
       "universe_count": 5,
       "avg_pct_chg": 0.28459696435978443,
       "up_ratio": 40.0
-    },
-    {
-      "sector": "房屋建设Ⅱ",
-      "sector_score": 64.26609629879569,
-      "sector_state": "谨慎可做",
-      "universe_count": 5,
-      "avg_pct_chg": 1.1532192597591373,
-      "up_ratio": 80.0
     },
     {
       "sector": "航运港口",
@@ -642,14 +634,6 @@
       "up_ratio": 54.54545454545454
     },
     {
-      "sector": "油服工程",
-      "sector_score": 61.7420795933419,
-      "sector_state": "谨慎可做",
-      "universe_count": 7,
-      "avg_pct_chg": 0.9912730615255221,
-      "up_ratio": 85.71428571428571
-    },
-    {
       "sector": "焦炭Ⅱ",
       "sector_score": 60.01012520124473,
       "sector_state": "谨慎可做",
@@ -658,20 +642,36 @@
       "up_ratio": 66.66666666666666
     },
     {
-      "sector": "银行Ⅱ",
-      "sector_score": 59.72574395524667,
+      "sector": "元件",
+      "sector_score": 57.758620689655174,
       "sector_state": "谨慎可做",
-      "universe_count": 33,
-      "avg_pct_chg": -0.25182090592036266,
-      "up_ratio": 36.36363636363637
+      "universe_count": 29,
+      "avg_pct_chg": 2.514937698874918,
+      "up_ratio": 75.86206896551724
     },
     {
-      "sector": "元件",
-      "sector_score": 54.91663514982529,
+      "sector": "银行Ⅱ",
+      "sector_score": 57.09781591767384,
+      "sector_state": "谨慎可做",
+      "universe_count": 39,
+      "avg_pct_chg": -0.3624880985165122,
+      "up_ratio": 30.76923076923077
+    },
+    {
+      "sector": "油服工程",
+      "sector_score": 55.02502189136517,
+      "sector_state": "谨慎可做",
+      "universe_count": 8,
+      "avg_pct_chg": 0.755004378273034,
+      "up_ratio": 75.0
+    },
+    {
+      "sector": "房屋建设Ⅱ",
+      "sector_score": 54.659461061527,
       "sector_state": "谨慎",
-      "universe_count": 25,
-      "avg_pct_chg": 2.1633270299650578,
-      "up_ratio": 72.0
+      "universe_count": 6,
+      "avg_pct_chg": 0.7652255456387348,
+      "up_ratio": 66.66666666666666
     },
     {
       "sector": "航海装备Ⅱ",
@@ -687,8 +687,8 @@
       "sector": "医疗服务",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 20,
-      "avg_pct_chg": -4.1780761106438655,
+      "universe_count": 21,
+      "avg_pct_chg": -4.158263527209187,
       "up_ratio": 0.0
     },
     {
@@ -700,59 +700,75 @@
       "up_ratio": 0.0
     },
     {
-      "sector": "贵金属",
+      "sector": "广告营销",
       "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 4,
-      "avg_pct_chg": -4.923150186199937,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "广告营销",
-      "sector_score": 0.24512918129093061,
-      "sector_state": "不做",
-      "universe_count": 7,
-      "avg_pct_chg": -2.450974163741814,
+      "universe_count": 10,
+      "avg_pct_chg": -3.22321801506706,
       "up_ratio": 0.0
     },
     {
       "sector": "电机Ⅱ",
-      "sector_score": 0.2964615583553343,
+      "sector_score": 0.0,
       "sector_state": "不做",
-      "universe_count": 10,
-      "avg_pct_chg": -2.440707688328933,
+      "universe_count": 14,
+      "avg_pct_chg": -2.859796278126783,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "贵金属",
+      "sector_score": 0.0,
+      "sector_state": "不做",
+      "universe_count": 5,
+      "avg_pct_chg": -4.395663006102808,
       "up_ratio": 0.0
     },
     {
       "sector": "互联网电商",
-      "sector_score": 0.7291366789919951,
-      "sector_state": "不做",
-      "universe_count": 3,
-      "avg_pct_chg": -2.354172664201601,
-      "up_ratio": 0.0
-    },
-    {
-      "sector": "个护用品",
-      "sector_score": 2.5037712735268802,
+      "sector_score": 1.2766650441621752,
       "sector_state": "不做",
       "universe_count": 5,
-      "avg_pct_chg": -1.999245745294624,
+      "avg_pct_chg": -2.244666991167565,
       "up_ratio": 0.0
     },
     {
       "sector": "旅游及景区",
-      "sector_score": 3.181818181818182,
+      "sector_score": 2.9968859799991985,
       "sector_state": "不做",
-      "universe_count": 11,
-      "avg_pct_chg": -2.6199392141374367,
+      "universe_count": 12,
+      "avg_pct_chg": -2.4839561373334935,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "个护用品",
+      "sector_score": 4.129610005636439,
+      "sector_state": "不做",
+      "universe_count": 6,
+      "avg_pct_chg": -1.6740779988727121,
       "up_ratio": 0.0
     },
     {
       "sector": "小金属",
-      "sector_score": 4.635061661259074,
+      "sector_score": 4.715877243136704,
       "sector_state": "不做",
-      "universe_count": 10,
-      "avg_pct_chg": -2.2729876677481853,
+      "universe_count": 12,
+      "avg_pct_chg": -2.1401578847059923,
+      "up_ratio": 0.0
+    },
+    {
+      "sector": "航空装备Ⅱ",
+      "sector_score": 4.791666666666666,
+      "sector_state": "不做",
+      "universe_count": 24,
+      "avg_pct_chg": -3.5626179590493465,
+      "up_ratio": 8.333333333333332
+    },
+    {
+      "sector": "能源金属",
+      "sector_score": 4.825276779171803,
+      "sector_state": "不做",
+      "universe_count": 4,
+      "avg_pct_chg": -1.5349446441656394,
       "up_ratio": 0.0
     },
     {
@@ -762,22 +778,6 @@
       "universe_count": 15,
       "avg_pct_chg": -1.982810020576988,
       "up_ratio": 0.0
-    },
-    {
-      "sector": "航空装备Ⅱ",
-      "sector_score": 5.2272727272727275,
-      "sector_state": "不做",
-      "universe_count": 22,
-      "avg_pct_chg": -3.5680107192122565,
-      "up_ratio": 9.090909090909092
-    },
-    {
-      "sector": "塑料",
-      "sector_score": 5.476190476190476,
-      "sector_state": "不做",
-      "universe_count": 21,
-      "avg_pct_chg": -2.593727674979162,
-      "up_ratio": 9.523809523809524
     }
   ],
   "leaderboards": {
@@ -929,7 +929,7 @@
       {
         "code": "002843",
         "name": "泰嘉股份",
-        "industry": "C 制造业",
+        "industry": "通用设备",
         "float_mv": 4342479817.0,
         "close": 17.34,
         "pct_chg": 10.025380710659899,
@@ -977,7 +977,7 @@
       {
         "code": "002771",
         "name": "真视通",
-        "industry": "I 信息技术",
+        "industry": "IT服务Ⅱ",
         "float_mv": 2360342080.0,
         "close": 13.07,
         "pct_chg": 10.016835016835012,
