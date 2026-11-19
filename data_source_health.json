@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:11:41",
+  "generated_at": "2026-11-19T10:26:49",
   "status": "warn",
   "decision_guard": "交易信号需降级一档；只允许轻仓观察或不操作。",
   "video_learning": {
@@ -11,10 +11,10 @@
     "latest_bar_date": "2026-11-18",
     "latest_indicator_date": "2026-11-18",
     "latest_signal_trade_date": "2026-11-18",
-    "dashboard_generated_at": "2026-11-19T10:02:01",
+    "dashboard_generated_at": "2026-11-19T10:17:02",
     "dashboard_trade_date": "2026-11-18",
     "dashboard_data_date": "2026-11-18",
-    "realtime_snapshot_generated_at": "2026-11-19T10:02:10",
+    "realtime_snapshot_generated_at": "2026-11-19T10:17:12",
     "stock_detail_count": 101,
     "watchlist_count": 9,
     "main_non_st": 3117,
@@ -29,7 +29,7 @@
       "role": "实时行情/估值/涨跌停",
       "table": "quote_enrichment",
       "rows": 5073,
-      "latest_fetched_at": "2026-11-19T10:06:49",
+      "latest_fetched_at": "2026-11-19T10:24:33",
       "age_days": 0,
       "status": "ok"
     },
@@ -92,45 +92,45 @@
     "tencent_quote": {
       "ok": true,
       "status": 200,
-      "latency_ms": 113,
-      "bytes_sampled": 469
+      "latency_ms": 119,
+      "bytes_sampled": 468
     },
     "eastmoney_push2": {
       "ok": false,
       "status": null,
-      "latency_ms": 28,
+      "latency_ms": 142,
       "error": "RemoteDisconnected('Remote end closed connection without response')"
     },
     "cninfo_website": {
       "ok": true,
       "status": 200,
-      "latency_ms": 218,
+      "latency_ms": 304,
       "bytes_sampled": 512
     },
     "dashboard_github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 1529,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 8593,
+      "error": "TimeoutError('The read operation timed out')"
     }
   },
   "publish": {
     "github_pages": {
-      "ok": true,
-      "status": 200,
-      "latency_ms": 1529,
-      "bytes_sampled": 512
+      "ok": false,
+      "status": null,
+      "latency_ms": 8593,
+      "error": "TimeoutError('The read operation timed out')"
     },
     "github_repo_head": {
       "ok": true,
       "remote": "origin",
-      "head": "18e0a37dbe6bffc7aadd5b4f4b92e1dcc44e3d43",
+      "head": "24ff84472c9008921de5c1b7c96e56bc816a789d",
       "error": ""
     },
     "gitee_repo_head": {
       "ok": true,
       "remote": "gitee",
-      "head": "cac9cfe529bb03d630b7bd49ec82ef54a10f14f9",
+      "head": "8b807a6a983774047ce587b53cddda76aea8cd79",
       "error": ""
     }
   },
@@ -174,7 +174,12 @@
     {
       "level": "P2",
       "item": "部分外部源探针失败",
-      "detail": "eastmoney_push2"
+      "detail": "eastmoney_push2,dashboard_github_pages"
+    },
+    {
+      "level": "P1",
+      "item": "GitHub Pages 数据不可访问",
+      "detail": "{'ok': False, 'status': None, 'latency_ms': 8593, 'error': \"TimeoutError('The read operation timed out')\"}"
     }
   ]
 }
