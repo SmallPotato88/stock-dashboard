@@ -542,22 +542,6 @@
       "avg_loss_pct": -1.795,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-19",
-          "pct_chg": -5.24,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-19",
-          "pct_chg": 0.68,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "603799",
           "name": "华友钴业",
           "date": "2026-11-19",
@@ -578,6 +562,22 @@
           "name": "赣锋锂业",
           "date": "2026-11-19",
           "pct_chg": -1.41,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-19",
+          "pct_chg": 0.68,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-19",
+          "pct_chg": -5.24,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
