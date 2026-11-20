@@ -453,10 +453,26 @@
       "avg_loss_pct": -1.937,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-20",
+          "pct_chg": -1.13,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-20",
+          "pct_chg": -1.77,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-20",
-          "pct_chg": -2.32,
+          "pct_chg": -2.72,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -515,22 +531,6 @@
           "pct_chg": 4.57,
           "vol_ratio5": 2.07,
           "close_pos": 0.51
-        },
-        {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-11-19",
-          "pct_chg": -6.27,
-          "vol_ratio5": 0.74,
-          "close_pos": 0.15
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-11-19",
-          "pct_chg": -1.39,
-          "vol_ratio5": 0.89,
-          "close_pos": 0.11
         }
       ]
     },
@@ -541,22 +541,6 @@
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.797,
       "recent_samples": [
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-20",
-          "pct_chg": -2.32,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-20",
-          "pct_chg": -2.89,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
         {
           "code": "603799",
           "name": "华友钴业",
@@ -620,6 +604,22 @@
           "pct_chg": -0.39,
           "vol_ratio5": 0.51,
           "close_pos": 0.45
+        },
+        {
+          "code": "605318",
+          "name": "法狮龙",
+          "date": "2026-11-19",
+          "pct_chg": -0.84,
+          "vol_ratio5": 0.63,
+          "close_pos": 0.77
+        },
+        {
+          "code": "605298",
+          "name": "必得科技",
+          "date": "2026-11-19",
+          "pct_chg": -2.52,
+          "vol_ratio5": 1.25,
+          "close_pos": 0.44
         }
       ]
     }
