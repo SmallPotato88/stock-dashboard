@@ -456,31 +456,7 @@
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-20",
-          "pct_chg": -1.76,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601127",
-          "name": "赛力斯",
-          "date": "2026-11-20",
-          "pct_chg": -2.37,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-20",
-          "pct_chg": -1.49,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-20",
-          "pct_chg": -2.77,
+          "pct_chg": -1.44,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +464,31 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-20",
-          "pct_chg": -2.53,
+          "pct_chg": -2.88,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-20",
+          "pct_chg": -3.21,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-20",
+          "pct_chg": -1.64,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-20",
+          "pct_chg": -2.77,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -542,10 +542,18 @@
       "avg_loss_pct": -1.797,
       "recent_samples": [
         {
+          "code": "603019",
+          "name": "中科曙光",
+          "date": "2026-11-20",
+          "pct_chg": -6.15,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-20",
-          "pct_chg": -2.75,
+          "pct_chg": -2.48,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -612,14 +620,6 @@
           "pct_chg": -0.39,
           "vol_ratio5": 0.51,
           "close_pos": 0.45
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-11-19",
-          "pct_chg": -0.84,
-          "vol_ratio5": 0.63,
-          "close_pos": 0.77
         }
       ]
     }
