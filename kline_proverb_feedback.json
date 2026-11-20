@@ -453,14 +453,6 @@
       "avg_loss_pct": -1.937,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-20",
-          "pct_chg": -4.09,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-20",
@@ -481,6 +473,14 @@
           "name": "赛力斯",
           "date": "2026-11-20",
           "pct_chg": -2.4,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-20",
+          "pct_chg": -4.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -550,18 +550,18 @@
           "close_pos": 0.0
         },
         {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-20",
-          "pct_chg": -1.66,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-20",
           "pct_chg": -2.4,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-20",
+          "pct_chg": -1.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
