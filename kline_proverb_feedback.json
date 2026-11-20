@@ -453,6 +453,46 @@
       "avg_loss_pct": -1.937,
       "recent_samples": [
         {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-20",
+          "pct_chg": -1.76,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601127",
+          "name": "赛力斯",
+          "date": "2026-11-20",
+          "pct_chg": -2.37,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002460",
+          "name": "赣锋锂业",
+          "date": "2026-11-20",
+          "pct_chg": -1.49,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-20",
+          "pct_chg": -2.77,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-20",
+          "pct_chg": -2.53,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-19",
@@ -491,46 +531,6 @@
           "pct_chg": -1.86,
           "vol_ratio5": 0.86,
           "close_pos": 0.22
-        },
-        {
-          "code": "605577",
-          "name": "龙版传媒",
-          "date": "2026-11-19",
-          "pct_chg": 3.81,
-          "vol_ratio5": 1.36,
-          "close_pos": 0.45
-        },
-        {
-          "code": "605588",
-          "name": "冠石科技",
-          "date": "2026-11-19",
-          "pct_chg": 4.57,
-          "vol_ratio5": 2.07,
-          "close_pos": 0.51
-        },
-        {
-          "code": "605488",
-          "name": "福莱新材",
-          "date": "2026-11-19",
-          "pct_chg": -6.27,
-          "vol_ratio5": 0.74,
-          "close_pos": 0.15
-        },
-        {
-          "code": "605377",
-          "name": "华旺科技",
-          "date": "2026-11-19",
-          "pct_chg": -1.39,
-          "vol_ratio5": 0.89,
-          "close_pos": 0.11
-        },
-        {
-          "code": "605376",
-          "name": "博迁新材",
-          "date": "2026-11-19",
-          "pct_chg": -2.17,
-          "vol_ratio5": 0.73,
-          "close_pos": 0.33
         }
       ]
     },
@@ -541,6 +541,14 @@
       "avg_win_pct": 2.026,
       "avg_loss_pct": -1.797,
       "recent_samples": [
+        {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-20",
+          "pct_chg": -2.75,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
         {
           "code": "603799",
           "name": "华友钴业",
@@ -612,14 +620,6 @@
           "pct_chg": -0.84,
           "vol_ratio5": 0.63,
           "close_pos": 0.77
-        },
-        {
-          "code": "605298",
-          "name": "必得科技",
-          "date": "2026-11-19",
-          "pct_chg": -2.52,
-          "vol_ratio5": 1.25,
-          "close_pos": 0.44
         }
       ]
     }
