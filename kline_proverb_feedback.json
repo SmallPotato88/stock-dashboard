@@ -456,23 +456,7 @@
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-20",
-          "pct_chg": -3.0,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-20",
-          "pct_chg": -4.49,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-20",
-          "pct_chg": -1.13,
+          "pct_chg": -2.95,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -480,7 +464,23 @@
           "code": "002460",
           "name": "赣锋锂业",
           "date": "2026-11-20",
-          "pct_chg": -3.27,
+          "pct_chg": -3.13,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-20",
+          "pct_chg": -1.17,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-20",
+          "pct_chg": -4.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-20",
-          "pct_chg": -2.75,
+          "pct_chg": -2.98,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
