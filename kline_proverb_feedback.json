@@ -453,6 +453,14 @@
       "avg_loss_pct": -1.937,
       "recent_samples": [
         {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-20",
+          "pct_chg": -2.54,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-20",
@@ -461,26 +469,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-20",
-          "pct_chg": -3.6,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-20",
-          "pct_chg": -2.48,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-20",
-          "pct_chg": -1.76,
+          "pct_chg": -1.53,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +523,14 @@
           "pct_chg": 3.81,
           "vol_ratio5": 1.36,
           "close_pos": 0.45
+        },
+        {
+          "code": "605588",
+          "name": "冠石科技",
+          "date": "2026-11-19",
+          "pct_chg": 4.57,
+          "vol_ratio5": 2.07,
+          "close_pos": 0.51
         }
       ]
     },
