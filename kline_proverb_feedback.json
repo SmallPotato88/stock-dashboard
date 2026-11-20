@@ -453,10 +453,10 @@
       "avg_loss_pct": -1.937,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
+          "code": "002460",
+          "name": "赣锋锂业",
           "date": "2026-11-20",
-          "pct_chg": -4.09,
+          "pct_chg": -2.66,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -469,10 +469,10 @@
           "close_pos": 0.0
         },
         {
-          "code": "002460",
-          "name": "赣锋锂业",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-20",
-          "pct_chg": -2.66,
+          "pct_chg": -4.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
