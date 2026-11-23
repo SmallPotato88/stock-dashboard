@@ -453,18 +453,34 @@
       "avg_loss_pct": -1.941,
       "recent_samples": [
         {
-          "code": "603799",
-          "name": "华友钴业",
+          "code": "000933",
+          "name": "神火股份",
           "date": "2026-11-23",
-          "pct_chg": 2.63,
+          "pct_chg": 0.0,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "603799",
+          "name": "华友钴业",
           "date": "2026-11-23",
-          "pct_chg": 0.14,
+          "pct_chg": 2.18,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-23",
+          "pct_chg": 0.09,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "date": "2026-11-23",
+          "pct_chg": -0.91,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -515,22 +531,6 @@
           "pct_chg": -5.43,
           "vol_ratio5": 1.04,
           "close_pos": 0.0
-        },
-        {
-          "code": "605369",
-          "name": "拱东医疗",
-          "date": "2026-11-20",
-          "pct_chg": -3.36,
-          "vol_ratio5": 1.1,
-          "close_pos": 0.19
-        },
-        {
-          "code": "605318",
-          "name": "法狮龙",
-          "date": "2026-11-20",
-          "pct_chg": -0.71,
-          "vol_ratio5": 0.7,
-          "close_pos": 0.48
         }
       ]
     },
