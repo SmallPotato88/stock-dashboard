@@ -1,11 +1,11 @@
 {
   "rules": {
     "长阳放量": {
-      "sample_count": 122218,
+      "sample_count": 122154,
       "avg_next_return_pct": 0.276,
       "win_rate_pct": 46.43,
-      "avg_win_pct": 3.601,
-      "avg_loss_pct": -2.606,
+      "avg_win_pct": 3.6,
+      "avg_loss_pct": -2.605,
       "recent_samples": [
         {
           "code": "603799",
@@ -90,10 +90,10 @@
       ]
     },
     "长阴放量": {
-      "sample_count": 53876,
+      "sample_count": 53846,
       "avg_next_return_pct": 0.022,
       "win_rate_pct": 50.94,
-      "avg_win_pct": 2.836,
+      "avg_win_pct": 2.835,
       "avg_loss_pct": -2.899,
       "recent_samples": [
         {
@@ -179,10 +179,10 @@
       ]
     },
     "缩量回调": {
-      "sample_count": 107372,
+      "sample_count": 107327,
       "avg_next_return_pct": -0.069,
       "win_rate_pct": 46.03,
-      "avg_win_pct": 1.938,
+      "avg_win_pct": 1.937,
       "avg_loss_pct": -1.781,
       "recent_samples": [
         {
@@ -268,10 +268,10 @@
       ]
     },
     "放量滞涨": {
-      "sample_count": 23732,
+      "sample_count": 23725,
       "avg_next_return_pct": 0.298,
       "win_rate_pct": 47.72,
-      "avg_win_pct": 2.761,
+      "avg_win_pct": 2.76,
       "avg_loss_pct": -1.95,
       "recent_samples": [
         {
@@ -357,10 +357,10 @@
       ]
     },
     "低位放量": {
-      "sample_count": 117193,
+      "sample_count": 117150,
       "avg_next_return_pct": 0.18,
-      "win_rate_pct": 51.54,
-      "avg_win_pct": 2.536,
+      "win_rate_pct": 51.55,
+      "avg_win_pct": 2.535,
       "avg_loss_pct": -2.325,
       "recent_samples": [
         {
@@ -446,7 +446,7 @@
       ]
     },
     "上影线长": {
-      "sample_count": 789072,
+      "sample_count": 788799,
       "avg_next_return_pct": -0.009,
       "win_rate_pct": 47.73,
       "avg_win_pct": 2.106,
@@ -535,11 +535,11 @@
       ]
     },
     "下影线长": {
-      "sample_count": 667274,
+      "sample_count": 667070,
       "avg_next_return_pct": -0.052,
       "win_rate_pct": 45.67,
       "avg_win_pct": 2.026,
-      "avg_loss_pct": -1.799,
+      "avg_loss_pct": -1.798,
       "recent_samples": [
         {
           "code": "601127",
