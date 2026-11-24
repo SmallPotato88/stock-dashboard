@@ -453,34 +453,10 @@
       "avg_loss_pct": -1.941,
       "recent_samples": [
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-24",
-          "pct_chg": 3.65,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-24",
-          "pct_chg": 1.11,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002460",
-          "name": "赣锋锂业",
-          "date": "2026-11-24",
-          "pct_chg": 0.15,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-24",
-          "pct_chg": 6.76,
+          "pct_chg": 1.04,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -531,6 +507,30 @@
           "pct_chg": 0.41,
           "vol_ratio5": 1.24,
           "close_pos": 0.35
+        },
+        {
+          "code": "603468",
+          "name": "津富士达",
+          "date": "2026-11-23",
+          "pct_chg": 1.99,
+          "vol_ratio5": 1.32,
+          "close_pos": 0.61
+        },
+        {
+          "code": "603369",
+          "name": "今世缘",
+          "date": "2026-11-23",
+          "pct_chg": 1.46,
+          "vol_ratio5": 1.05,
+          "close_pos": 0.58
+        },
+        {
+          "code": "603323",
+          "name": "苏农银行",
+          "date": "2026-11-23",
+          "pct_chg": -0.67,
+          "vol_ratio5": 1.25,
+          "close_pos": 0.43
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-24",
-          "pct_chg": 1.31,
+          "pct_chg": 1.13,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },

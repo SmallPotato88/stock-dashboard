@@ -700,7 +700,7 @@
     "source": "canonical_premarket_safe_checker"
   },
   "2026-11-24": {
-    "fetched_at": "2026-11-24T12:51:00",
+    "fetched_at": "2026-11-24T13:11:00",
     "is_trading_day": true,
     "source": "canonical_premarket_safe_checker"
   }
