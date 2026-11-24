@@ -453,18 +453,18 @@
       "avg_loss_pct": -1.941,
       "recent_samples": [
         {
-          "code": "603799",
-          "name": "华友钴业",
+          "code": "601127",
+          "name": "赛力斯",
           "date": "2026-11-24",
-          "pct_chg": 6.46,
+          "pct_chg": 0.32,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "601127",
-          "name": "赛力斯",
+          "code": "603799",
+          "name": "华友钴业",
           "date": "2026-11-24",
-          "pct_chg": 0.89,
+          "pct_chg": 6.42,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-24",
-          "pct_chg": 1.47,
+          "pct_chg": 1.31,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
