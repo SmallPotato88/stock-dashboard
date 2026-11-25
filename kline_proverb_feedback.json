@@ -453,34 +453,18 @@
       "avg_loss_pct": -1.94,
       "recent_samples": [
         {
-          "code": "000988",
-          "name": "华工科技",
-          "date": "2026-11-25",
-          "pct_chg": -4.84,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "date": "2026-11-25",
-          "pct_chg": -0.8,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-25",
-          "pct_chg": -4.04,
+          "pct_chg": -4.57,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
         {
-          "code": "000933",
-          "name": "神火股份",
+          "code": "000988",
+          "name": "华工科技",
           "date": "2026-11-25",
-          "pct_chg": -1.51,
+          "pct_chg": -5.21,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +472,31 @@
           "code": "603799",
           "name": "华友钴业",
           "date": "2026-11-25",
-          "pct_chg": -4.49,
+          "pct_chg": -4.75,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "date": "2026-11-25",
+          "pct_chg": -1.48,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-25",
+          "pct_chg": -1.98,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-25",
+          "pct_chg": -0.97,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -523,14 +531,6 @@
           "pct_chg": -0.47,
           "vol_ratio5": 0.82,
           "close_pos": 0.1
-        },
-        {
-          "code": "605599",
-          "name": "菜百股份",
-          "date": "2026-11-24",
-          "pct_chg": 0.2,
-          "vol_ratio5": 0.87,
-          "close_pos": 0.6
         }
       ]
     },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-25",
-          "pct_chg": -0.7,
+          "pct_chg": -0.97,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
