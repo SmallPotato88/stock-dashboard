@@ -461,22 +461,6 @@
           "close_pos": 0.0
         },
         {
-          "code": "002273",
-          "name": "水晶光电",
-          "date": "2026-11-25",
-          "pct_chg": -2.42,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-25",
-          "pct_chg": -3.35,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
           "code": "601127",
           "name": "赛力斯",
           "date": "2026-11-25",
@@ -485,10 +469,26 @@
           "close_pos": 0.0
         },
         {
+          "code": "002273",
+          "name": "水晶光电",
+          "date": "2026-11-25",
+          "pct_chg": -2.42,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
           "code": "000933",
           "name": "神火股份",
           "date": "2026-11-25",
           "pct_chg": -1.74,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-25",
+          "pct_chg": -3.35,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
