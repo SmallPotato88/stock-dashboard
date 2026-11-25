@@ -456,31 +456,7 @@
           "code": "000988",
           "name": "华工科技",
           "date": "2026-11-25",
-          "pct_chg": -3.99,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "603799",
-          "name": "华友钴业",
-          "date": "2026-11-25",
-          "pct_chg": -4.72,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "000933",
-          "name": "神火股份",
-          "date": "2026-11-25",
-          "pct_chg": -1.69,
-          "vol_ratio5": 0.0,
-          "close_pos": 0.0
-        },
-        {
-          "code": "601021",
-          "name": "春秋航空",
-          "date": "2026-11-25",
-          "pct_chg": -1.21,
+          "pct_chg": -4.81,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -488,7 +464,15 @@
           "code": "002851",
           "name": "麦格米特",
           "date": "2026-11-25",
-          "pct_chg": -0.1,
+          "pct_chg": -0.98,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "603799",
+          "name": "华友钴业",
+          "date": "2026-11-25",
+          "pct_chg": -5.09,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -496,7 +480,23 @@
           "code": "002273",
           "name": "水晶光电",
           "date": "2026-11-25",
-          "pct_chg": -4.09,
+          "pct_chg": -4.44,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "601021",
+          "name": "春秋航空",
+          "date": "2026-11-25",
+          "pct_chg": -1.14,
+          "vol_ratio5": 0.0,
+          "close_pos": 0.0
+        },
+        {
+          "code": "000933",
+          "name": "神火股份",
+          "date": "2026-11-25",
+          "pct_chg": -1.93,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
@@ -545,7 +545,7 @@
           "code": "601021",
           "name": "春秋航空",
           "date": "2026-11-25",
-          "pct_chg": -1.21,
+          "pct_chg": -1.14,
           "vol_ratio5": 0.0,
           "close_pos": 0.0
         },
